@@ -1,0 +1,191 @@
+ScriptType RaceDataScript
+BaseModelFileName "d:/ymir work/pc2/assassin/assassin_novice.gr2"
+
+Group ShapeData
+{
+	PathName "d:/ymir work/pc2/assassin/"
+
+	Group ShapeData00
+	{
+		ShapeIndex 0
+		Model "assassin_novice.gr2"
+		SourceSkin "assassin_novice_red.dds"
+		TargetSkin "assassin_novice_red.dds"
+	}
+
+	Group ShapeData01
+	{
+		ShapeIndex 1
+		Model "assassin_novice.gr2"
+		SourceSkin "assassin_novice_red.dds"
+		TargetSkin "assassin_novice_green.dds"
+	}
+
+	Group ShapeData02
+	{
+		ShapeIndex 2
+		Model "assassin_tanma.gr2"
+		SourceSkin "assassin_tanma.dds"
+		TargetSkin "assassin_tanma.dds"
+	}
+
+	Group ShapeData03
+	{
+		ShapeIndex 3
+		Model "assassin_tanma.gr2"
+		SourceSkin "assassin_tanma.dds"
+		TargetSkin "assassin_geukseom.dds"
+	}
+
+	Group ShapeData04
+	{
+		ShapeIndex 4
+		Model "assassin_tanma.gr2"
+		SourceSkin "assassin_tanma.dds"
+		TargetSkin "assassin_dahong.dds"
+	}
+	Group ShapeData05
+	{
+		ShapeIndex 5
+		Model "assassin_biyeong.gr2"
+		SourceSkin "assassin_biyeong.dds"
+		TargetSkin "assassin_biyeong.dds"
+	}
+
+	Group ShapeData06
+	{
+		ShapeIndex 6
+		Model "assassin_biyeong.gr2"
+		SourceSkin "assassin_biyeong.dds"
+		TargetSkin "assassin_yeongrin.dds"
+	}
+
+	Group ShapeData07
+	{
+		ShapeIndex 7
+		Model "assassin_biyeong.gr2"
+		SourceSkin "assassin_biyeong.dds"
+		TargetSkin "assassin_jeoksal.dds"
+	}
+
+	Group ShapeData08
+	{
+		ShapeIndex 8
+		Model "assassin_yonga.gr2"
+		SourceSkin "assassin_yonga.dds"
+		TargetSkin "assassin_yonga.dds"
+	}
+
+	Group ShapeData09
+	{
+		ShapeIndex 9
+		Model "assassin_yonga.gr2"
+		SourceSkin "assassin_yonga.dds"
+		TargetSkin "assassin_salpung.dds"
+	}
+
+	Group ShapeData10
+	{
+		ShapeIndex 10
+		Model "assassin_bihyeon.gr2"
+		SourceSkin "assassin_bihyeon.dds"
+		TargetSkin "assassin_bihyeon.dds"
+	}
+
+	Group ShapeData11
+	{
+		ShapeIndex 11
+		Model "assassin_4-1.gr2"
+		SourceSkin "assassin_4-1.dds"
+		TargetSkin "assassin_4-1.dds"
+
+	}
+
+	Group ShapeData12
+	{
+		ShapeIndex 12
+		Model "assassin_4-1.gr2"
+		SourceSkin "assassin_4-1.dds"
+		TargetSkin "assassin_4-2.dds"
+	}
+}
+
+Group HairData
+{
+	PathName "d:/ymir Work/pc2/assassin/"
+
+	Group HairData00
+	{	
+		HairIndex 0
+		Model "hair/hair_1_1.gr2"
+		SourceSkin "hair/hair_1_1.dds"
+		TargetSkin "hair/assassin_hair_01.dds"
+	}
+
+	Group HairData01
+	{	
+		HairIndex 1
+		Model "hair/hair_costume_musketeer.gr2"
+		SourceSkin "hair/hair_costume_musketeer.dds"
+		TargetSkin "hair/hair_costume_musketeer.dds"
+	}
+}
+
+Group CostumeData
+{
+	PathName "d:/ymir work/pc2/assassin/"
+	
+	Group CostumeData00
+	{
+		CostumeIndex 5000
+		Model "assassin_marry_01.GR2"
+		SourceSkin "assassin_marry_01.dds"
+		TargetSkin "assassin_marry_01.dds"
+	}
+
+	Group CostumeData01
+	{
+		CostumeIndex 5001
+		Model "assassin_costume_tailcoat.gr2"
+		SourceSkin "assassin_costume_tailcoat.dds"
+		TargetSkin "assassin_costume_tailcoat.dds"
+	}
+}
+
+Group AttachingData
+{
+    AttachingDataCount 2
+
+    Group AttachingData00
+    {
+        AttachingDataType 1
+        isAttaching 0
+        AttachingModelIndex 0
+        AttachingBoneName "Bip01"
+        CollisionType 1
+        SphereDataCount 1
+
+        Group SphereData00
+        {
+            Radius 40.000000
+            Position 0.000000 0.000000 90.000000
+        }
+    }
+
+    Group AttachingData01
+    {
+        AttachingDataType 1
+
+        isAttaching 0
+        AttachingModelIndex 0
+        AttachingBoneName "Bip01"
+        CollisionType 3
+        SphereDataCount 1
+
+        Group SphereData00
+        {
+            Radius 70.000000
+            Position 0.000000 0.000000 90.000000
+        }
+    }
+}

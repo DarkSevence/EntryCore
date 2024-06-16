@@ -1,0 +1,1377 @@
+11900	Smoking	Elegancki garnitur - w sam raz na œlub.
+11901	Suknia Œlubna	Specjalna suknia u¿ywana przez kobiety podczas œlubu.	
+18000	Pas Lniany+0		
+18001	Pas Lniany+1		
+18002	Pas Lniany+2		
+18003	Pas Lniany+3		
+18004	Pas Lniany+4		
+18005	Pas Lniany+5		
+18006	Pas Lniany+6
+18007	Pas Lniany+7		
+18008	Pas Lniany+8		
+18009	Pas Lniany+9		
+18010	Pas Skórzany+0		
+18011	Pas Skórzany+1		
+18012	Pas Skórzany+2		
+18013	Pas Skórzany+3		
+18014	Pas Skórzany+4		
+18015	Pas Skórzany+5		
+18016	Pas Skórzany+6		
+18017	Pas Skórzany+7		
+18018	Pas Skórzany+8		
+18019	Pas Skórzany+9		
+18020	Pas Przepychu+0		
+18021	Pas Przepychu+1		
+18022	Pas Przepychu+2		
+18023	Pas Przepychu+3		
+18024	Pas Przepychu+4		
+18025	Pas Przepychu+5		
+18026	Pas Przepychu+6		
+18027	Pas Przepychu+7		
+18028	Pas Przepychu+8		
+18029	Pas Przepychu+9		
+18030	Pas M¹droœci+0		
+18031	Pas M¹droœci+1		
+18032	Pas M¹droœci+2		
+18033	Pas M¹droœci+3		
+18034	Pas M¹droœci+4		
+18035	Pas M¹droœci+5		
+18036	Pas M¹droœci+6		
+18037	Pas M¹droœci+7		
+18038	Pas M¹droœci+8		
+18039	Pas M¹droœci+9		
+18040	Pas Króla+0		
+18041	Pas Króla+1		
+18042	Pas Króla+2		
+18043	Pas Króla+3		
+18044	Pas Króla+4		
+18045	Pas Króla+5		
+18046	Pas Króla+6		
+18047	Pas Króla+7		
+18048	Pas Króla+8		
+18049	Pas Króla+9		
+18050	Pas Mroku+0		
+18051	Pas Mroku+1		
+18052	Pas Mroku+2		
+18053	Pas Mroku+3		
+18054	Pas Mroku+4		
+18055	Pas Mroku+5		
+18056	Pas Mroku+6		
+18057	Pas Mroku+7		
+18058	Pas Mroku+8		
+18059	Pas Mroku+9		
+18060	Pas Runiczny+0		
+18061	Pas Runiczny+1		
+18062	Pas Runiczny+2		
+18063	Pas Runiczny+3		
+18064	Pas Runiczny+4		
+18065	Pas Runiczny+5		
+18066	Pas Runiczny+6		
+18067	Pas Runiczny+7		
+18068	Pas Runiczny+8		
+18069	Pas Runiczny+9		
+18070	Pas NiedŸwiedzi+0		
+18071	Pas NiedŸwiedzi+1		
+18072	Pas NiedŸwiedzi+2		
+18073	Pas NiedŸwiedzi+3		
+18074	Pas NiedŸwiedzi+4		
+18075	Pas NiedŸwiedzi+5		
+18076	Pas NiedŸwiedzi+6		
+18077	Pas NiedŸwiedzi+7		
+18078	Pas NiedŸwiedzi+8		
+18079	Pas NiedŸwiedzi+9		
+18900	Kamieñ Czerw. P³omienia	Zwiêksza bonusy twojego pasa.	
+22000	Zwój Powrotu Do Miasta	Zwój pozwalaj¹cy Ci teleportowaæ siê do najbli¿szego miasta.	
+22010	Zwój Powrotu	Zwój pozwala Ci wróciæ do miasta i potem powróciæ do obecnej lokalizacji.	
+25040	Zwój B³ogos³awieñstwa	Usuwa ryzyko zniszczenia przedmiotu podczas jego ulepszania. Je¿eli ulepszanie siê nie powiedzie, to jakoœæ przedmiotu jest redukowana o 1 poziom.	
+25041	Magiczny Kamieñ	Bry³a legendarnego metalu zapewniaj¹cego najlepsze wyniki podczas ulepszania przedmiotów. W ten sposób ulepszony przedmiot nie mo¿e ulec ani zniszczeniu ani pogorszeniu.
+27007	Czerwona Mikstura (XXL)	
+27008	Niebieska Mikstura (XXL)	
+25100	Zwój Kamienia Duszy	Zwój pozwala Ci wydobyæ Kamieñ Duszy z broni albo zbroi. Zostawia znak wydobycia.	
+27051	Czerwona Mikstura (D)	Uzupe³nia 1200 Punktów ¯ycia. Niezdatna do handlu.	
+27052	Niebieska Mikstura (D)	Uzupe³nia 400 Punktów Energii. Niezdatna do handlu.	
+27053	Zielona Mikstura (M)	Zwiêksza Twoj¹ Szybkoœæ Ataku o +10 na okres 10 minut. Niezdatna do handlu.	
+27054	Fioletowa Mikstura (M)	Zwiêksza Szybkoœæ Ruchu o +10 na okres 10 minut. Niezdatna do handlu.	
+27600	Wysuszone Drzewo	Drzewo œciête na ognisko.	
+27610	Marmur Rybaka	Ten magiczny marmur pokazuje informacje o z³owionej rybie.	
+27620	Rybie Wnêtrznoœci	Ksi¹¿ka dostarczaj¹ca informacji o rybach.	
+27799	Rybia Oœæ	Twarde oœci ryby.	
+27800	Papka	Najtañsza przynêta.	
+27801	Robak	Przynêta przyci¹gaj¹ca ryby.	
+27802	Drobne Ryby	Przynêta przyci¹gaj¹ca du¿e ryby.	
+27803	Karaœ	Popularna ryba, ¿yj¹ca z regu³y w stawach.	
+27804	Ryba Mandaryna	Smaczna ryba.	
+27805	Du¿y Karaœ	Du¿y, gruby Karaœ.	
+27806	Karp	Du¿a, srebrna ryba.	
+27807	£osoœ	Ryba wracaj¹ca do domu podczas sezonu godowego.	
+27808	Amur	Karp jedz¹cy z regu³y trawê.	
+27809	Pstr¹g	Kuzyn £ososia.	
+27810	Wêgorz	Ryba przypominaj¹ca wê¿a. Charakteryzuje siê du¿¹ wytrzyma³oœci¹.	
+27811	Têczowy Pstr¹g	Ryba o têczowym kolorze pleców.	
+27812	Rzeczny Pstr¹g	Ryba ¿yj¹ca w rzekach.	
+27813	Krasnopiórka	Ryba ¿yj¹ca w ³awicach.	
+27814	Okoñ	Ryba, czêsto nazywana pogromc¹ jezior.	
+27815	Tenchi	Rodzaj Kie³pa ¿yj¹cy tylko w czystej wodzie.	
+27816	Sum	Ryba posiadaj¹ca charakterystyczne d³ugie "kocie" w¹sy	
+27817	Piskorz	Zwinna ryba ¿yj¹ca z regu³y w b³otnistych wodach.	
+27818	Ryba Lotosu	Du¿a ryba ¿yj¹ca w czystych wodach, ma z³o¿on¹ dietê.	
+27819	S³odka Ryba	Kuzyn gromadnika. ¯yje na brzegach i ujœciach.	
+27820	Gromadnik	Ryba w wiêkszoœci ³apana poprzez ³owienie w lodzie.	
+27821	Shiri	Ryba o piêknym kszta³cie i kolorze.	
+27822	Lustrzany Karp	Udomowiony Karp.	
+27823	Z³oty Karaœ	Rzadki, z³oty Karaœ.	
+27833	Martwy Karaœ	Martwy Karaœ.|Mo¿e byæ upieczony nad ogniskiem.	
+27834	Martwa Ryba Mandaryna	Martwa Ryba Mandaryna.|Mo¿e byæ upieczona nad ogniskiem.	
+27835	Martwy Du¿y Karaœ	Martwy Du¿y Karaœ.|Mo¿e byæ upieczony nad ogniskiem.	
+27836	Martwy Karp	Martwy Karp.|Mo¿e byæ upieczony nad ogniskiem.	
+27837	Martwy £osoœ	Martwy £osoœ.|Mo¿e byæ upieczony nad ogniskiem.	
+27838	Martwy Amur	Martwy Amur. |Mo¿e byæ upieczony nad ogniskiem.	
+27839	Martwy Pstr¹g	Martwy Pstr¹g.|Mo¿e byæ upieczony nad ogniskiem.	
+27840	Martwy Wêgorz	Martwy Wêgorz.|Mo¿e byæ upieczony nad ogniskiem.	
+27841	Martwy Têczowy Pstr¹g	Martwy Têczowy Pstr¹g.|Mo¿e byæ upieczony nad ogniskiem.	
+27842	Martwy Rzeczny Pstr¹g	Martwy Rzeczny Pstr¹g.|Mo¿e byæ upieczony nad ogniskiem.	
+27843	Martwa Krasnopiórka	Martwa Krasnopiórka.|Mo¿e byæ upieczona nad ogniskiem.	
+27844	Martwy Okoñ	Martwy Okoñ.|Mo¿e byæ upieczony nad ogniskiem.	
+27845	Martwa Tenchi	Martwa Tenchi.|Mo¿e byæ upieczona nad ogniskiem.	
+27846	Martwy Sum	Martwy Sum.|Mo¿e byæ upieczony nad ogniskiem.	
+27847	Martwy Piskorz	Martwy Piskorz.|Mo¿e byæ upieczony nad ogniskiem.	
+27848	Martwa Ryba Lotosu	Martwa Ryba Lotosu.|Mo¿e byæ upieczona nad ogniskiem.	
+27849	Martwa S³odka Ryba	Martwa S³odka Ryba.|Mo¿e byæ upieczona nad ogniskiem.	
+27850	Martwy Gromadnik	Martwy Gromadnik.|Mo¿e byæ upieczony nad ogniskiem.	
+27851	Martwa Shiri	Martwa Shiri.|Mo¿e byæ upieczona nad ogniskiem.	
+27852	Martwy Lustrzany Karp	Martwy Lustrzany Karp.|Mo¿e byæ upieczony nad ogniskiem.	
+27853	Martwy Z³oty Karaœ	Martwy Z³oty Karaœ.|Mo¿e byæ upieczony nad ogniskiem.	
+27863	Pieczony Karaœ	Regeneruje trochê Punktów ¯ycia.	
+27864	Pieczona Ryba Mandaryna	Regeneruje trochê Punktów Energii.	
+27865	Pieczony Du¿y Karaœ	Regeneruje trochê Punktów ¯ycia.	
+27866	Pieczony Karp	Zwiêksza Szybkoœæ Ruchu na pewien czas.	
+27867	Pieczony £osoœ	Regeneruje trochê Punktów Energii.	
+27868	Pieczony Amur	Zwiêksza Szybkoœæ Ataku na pewien czas.	
+27869	Pieczony Pstr¹g	Regeneruje du¿¹ iloœæ Punktów ¯ycia.	
+27870	Pieczony Wêgorz	Zwiêksza Si³ê o 10 punktów na 10 minut.	
+27871	Pieczony Têczowy Pstr¹g	Regeneruje du¿¹ iloœæ Punktów Energii.	
+27872	Pieczony Rzeczny Pstr¹g	Natychmiast regeneruje trochê Punktów Energii.	
+27873	Pieczona Krasnopiórka	Zwiêksza twoj¹ Zrêcznoœæ o 10 punktów na 10 minut.	
+27874	Pieczony Okoñ	Usuwa negatywne efekty.	
+27875	Pieczony Tenchi	Natychmiast regeneruje trochê Punktów ¯ycia.	
+27876	Pieczony Sum	Natychmiast regeneruje trochê Punktów Energii.	
+27877	Pieczony Piskorz	Stajesz siê niewidzialny na 5 minut.	
+27878	Pieczona Ryba Lotosu	Natychmiast regeneruje trochê Punktów ¯ycia.	
+27879	Pieczona S³odka Ryba	Ryba przyrz¹dzona nad ogniskiem to wspania³y wêdzony przysmak.	
+27880	Pieczony Gromadnik	Ryba przyrz¹dzona nad ogniskiem. Wspania³y wêdzony przysmak.	
+27881	Pieczona Shiri	Ryba przyrz¹dzona nad ogniskiem to wspania³y wêdzony przysmak.	
+27882	Pieczony Lustrzany Karp	Ryba przyrz¹dzona nad ogniskiem. Wspania³y wêdzony przysmak.	
+27883	Pieczony Z³oty Karaœ	Ryba przyrz¹dzona nad ogniskiem. Wspania³y wêdzony przysmak.	
+27987	Ma³¿	Miêczak w ³adnej muszli. W œrodku mo¿e znajdowaæ siê cenna per³a.	
+27988	Mapa Skarbów	Tajemnicza mapa zawieraj¹ca po³o¿enie staro¿ytnego skarbu.	
+27989	Wykrywacz Kamieni Metin	Wykrywacz pokazuje po³o¿enie i odleg³oœæ do najbli¿szego Kamienia Metin. Im jaœniejsza strza³ka kierunku, tym bli¿ej jesteœ. Mo¿e byæ uaktywniony 6 razy.	
+27990	Kawa³ek Kamienia	Z powodu ma³ych wymiarów, przedmiot ten mo¿na bardzo ³atwo transportowaæ. Ma wiele zastosowañ.	
+27991	Kamieñ Wodny	Twardy i szorstki kamieñ, który mo¿e byæ u¿ywany do szlifowania broni albo sprzêtu kuchennego.	
+27992	Bia³a Per³a	Idealnie bia³a per³a. |Kobiety je kochaj¹.	
+27993	Niebieska Per³a	Niebieska per³a. |Kobiety je kochaj¹.	
+27994	Krwawa Per³a	Krwawo-czerwona per³a. |Kobiety je kochaj¹.	
+27995	Pusta Butelka	Pusta butelka.	
+27996	Butelka Z Trucizn¹	Butelka wype³niona trucizn¹. |Powoduje œmieræ.	
+27997	Marmur Witalnoœci	Marmur regeneruj¹cy trochê Punktów ¯ycia.	
+27998	Sakiewka Alchemika	Zniszczony worek, w którym przechowywane by³y tajemnice Alchemików.	
+27999	Sakiewka Kamieni Dusz	Sakiewka do przechowywania Kamieni Dusz.	
+29001	Muszla	Jedna z najwiêkszych i najsmaczniejszych muszli. Posiada grzebieñ w interesuj¹cym kszta³cie.	
+29002	Niebieska Muszla	Masa per³owa tej muszli jest piêknie zabarwiona na kolor niebieski.	
+29003	¯ó³ta Muszla	Masa per³owa tej muszli jest piêknie zabarwiona na kolor ¿ó³ty.	
+29004	Czerwona Muszla	Masa per³owa tej muszli jest piêknie zabarwiona na kolor czerwony.	
+29005	Zielona Muszla	Masa per³owa tej muszli jest piêknie zabarwiona na kolor zielony.	
+29006	¯ó³ty Kamieñ Winny	Kamieñ Winny o ciemnym kolorze.	
+29007	Niebieski Kamieñ Winny	Kamieñ Winny o ciemnoniebieskim kolorze.	
+29008	Niebieska Œwiêta Woda	W œwietle s³onecznym powierzchnia tej Œwiêtej Wody jest lekko niebieska.	
+29009	¯ó³ta Œwiêta Woda	W œwietle s³onecznym powierzchnia tej Œwiêtej Wody jest lekko ¿ó³tawa.	
+29010	Czerwona Œwiêta Woda	W œwietle s³onecznym powierzchnia tej Œwiêtej Wody jest lekko czerwona.	
+29011	Zielona Œwiêta Woda	W œwietle s³onecznym powierzchnia tej Œwiêtej Wody jest lekko zielona.	
+29012	Ciemno-Nieb. Rêka Boga	Niebieska Œwiêta Woda	
+29013	Jasno-¯ó³ta Œwiêta Woda	Œwiêta Woda o ciemno¿ó³tym kolorze.	
+29014	Jasno-Czerw. Œwiêta Woda	Œwiêta Woda o ciemnoczerwonym kolorze.	
+29015	Ciemno-Ziel. Rêka Boga	Œwiêta Woda o ciemnozielonym kolorze.	
+30000	Jêczmieñ	Popularna roœlina, s³u¿y do robienia piwa i jedzenia.	
+30001	List	List od kogoœ.	
+30002	Pieczona Kie³basa	Pieczona kie³basa. W œrodku znajduj¹ siê warzywa i przyprawy.	
+30003	Nos Œwini	Nos œwini.	
+30004	Z¹b Dzika	Bardzo mocny z¹b dzika.	
+30005	Kawa³ek Zepsutej Zbroi	Fragment uszkodzonej zbroi.	
+30006	Z¹b Orka	Dziwnie pachn¹cy z¹b olbrzymiego Orka.	
+30007	Amulet Orka	Amulet, który dodaje odwagi Olbrzymim Orkom.	
+30008	Ezoteryczny Przewodnik	Podrêcznik dla pocz¹tkuj¹cych. Zawiera podstawowe informacje o doktrynie ezoterycznej.	
+30009	Nieznane Lekarstwo	Tajemnicze lekarstwo. W jego sk³ad wchodz¹ nieznane sk³adniki.	
+30010	¯ó³æ NiedŸwiedzia	Znana z odnawiania poczucia smaku.	
+30011	K³¹b	K³¹b nici.	
+30012	Butelka Wina	Butelka aromatycznego wina.	
+30013	Dzban Likieru	U¿ywany do postarzania likieru.	
+30014	Futro Yeti	Futro legendarnej kreatury, Yeti. Doskonale chroni przed zimnem.	
+30015	Pami¹tka Po Demonie	Œwiec¹ca pami¹tka po demonie.	
+30016	Klejnot Demona	Klejnot znany z mo¿liwoœci przechowywania dusz umar³ych.	
+30017	Ozdobna Spinka Do W³osów	Kobieca spinka do w³osów.	
+30018	Czerwona Wstêga	Modna wstêga do spinania kobiecych w³osów.	
+30019	P³on¹ca Grzywa	S³u¿y do robienia ubrañ na zimê.	
+30020	Nasionko Brzoskwini	Dobre na zdrow¹ skórê.	
+30021	Kawa³ek Klejnotu	Klejnot uderzony czymœ twardym.	
+30022	Ogon Wê¿a	Ogon grzechotnika.	
+30023	Futro Bia³ego Tygrysa	Najbardziej cenione futro zwierzêce wœród kolekcjonerów.	
+30024	Ogon Konia	U¿ywany do robienia przedmiotów dobrej jakoœci takich jak szczotki, kapelusze i liny.	
+30025	Worek z Pajêcz¹ Trucizn¹	Woreczek jadowy paj¹ka.	
+30026	Kiszka Wilka	Sk³adnik do robienia kie³basy, popularnej w ca³ym Imperium.	
+30027	Futro Wilka	W³osy z futra wilka u¿ywane s¹ do robienia grzebieni i szczotek.	
+30028	Szpon Wilka	S³u¿y do robienia ró¿nych akcesoriów.	
+30029	W¹troba Wilka	Sk³adnik do robienia kie³basy, popularnej w ca³ym Imperium.	
+30030	Zardzewia³e Ostrze	Zardzewia³e ostrze sztyletu.	
+30031	Ornament	Ulubiona ozdoba wœród dziewczyn.	
+30032	Czarny Uniform	Zniszczony Czarny Uniform.	
+30033	St³uczona Porcelana	Kawa³ek st³uczonej porcelany.	
+30034	Bia³a Wstêga	Modna wstêga do spinania kobiecych w³osów.	
+30035	Krem Do Twarzy	Krem u¿ywany zazwyczaj przez kobiety. Ma w³aœciwoœci odm³adzaj¹ce.	
+30036	Mistyczne Zio³o	Legendarne zio³o o mistycznych w³aœciwoœciach.	
+30037	Szpon Tygrysa	Niektórzy wojownicy nosz¹ naszyjniki ze Szponów Tygrysa, aby pokazaæ innym swoj¹ odwagê.	
+30038	Skóra Tygrysa	Ulubione futro zwierzêce wœród kolekcjonerów.	
+30039	Kawa³ek P³ótna	U¿ywany do banda¿owania ran.	
+30040	Liœæ	Liœæ nieznanej roœliny.	
+30041	Shuriken	Broñ miotana. Najczêœciej u¿ywana przez zabójców.	
+30042	Pazur Tygrysa	Solidny, œwiec¹cy pazur tego dzikiego kota.	
+30043	Fasola	Sk³adnik u¿ywany w wielu kuchniach.	
+30044	Glina	Glina do robienia porcelany.	
+30045	Ig³a Skorpiona	Ig³a z trucizna skorpiona.	
+30046	Ogon Skorpiona	Truj¹cy ogon skorpiona.	
+30047	Ksiêga Kl¹tw	Ezoteryczna ksiêga s³u¿¹ca do przeklinania kogoœ.	
+30048	Kawa³ek Lodu	Zamarzniêta woda, która jest zawsze zimna.	
+30049	Lodowy Róg Wieloryba	Cenny materia³ rzeŸbiarski.	
+30050	Matowy Lód	Nie rozpuszcza siê podczas ciep³ych dni.	
+30051	Nieznany Talizman	Nieznany talizman, tylko ezoterycy mog¹ je czytaæ.	
+30052	Flaga	Flaga do oznaczania jednostek dzikusów.	
+30053	NiedŸwiedzia Skóra	U¿ywana przez ludzi, aby wzmocniæ wytrzyma³oœæ fizyczn¹.	
+30054	Obr¹czka Œlubna	Jedyny pierœcionek, który nosisz do koñca.	
+30055	Szpon Skorpiona	Krzepko wygl¹daj¹cy szpon.	
+30056	Pajêcza Sieæ	Paj¹k u¿ywa swojej nici do robienia sobie domu.	
+30057	Oczy Paj¹ka	Oczy Paj¹ka s¹ lubiane wœród kolekcjonerów.	
+30058	Worek Z Pajêcz. Jajami	U¿ywany jako talizman przez kobiety bezdzietne.	
+30059	Nogi Paj¹ka	W³ochate nogi paj¹ka s¹ u¿ywane przez szamanów.	
+30060	Jêzyk ¯aby	Lepki jêzyk ¿aby.	
+30061	¯abie Udka	Egzotyczny sk³adnik potraw, smakuje jak kurczak!	
+30062	Czara Lekarstwa	Czara u¿ywana w farmaceutyce.	
+30063	Lekarstwo Na Skórê	Leczy choroby skóry.	
+30064	Ostry Kamieñ	Kamieñ u¿ywany do robienia grotów strza³.	
+30065	Dzwonek	Ma³y dzwonek wydaj¹cy dŸwiêczne odg³osy.	
+30066	Ostry Pieprz	Bardzo ostry pieprz.	
+30067	Skóra Wê¿a	Skóra wê¿a.	
+30068	Stek Z Tofu	Potrawa z tofu.	
+30069	Szpon Wilka+	S³u¿y do robienia ró¿nych akcesoriów.	
+30070	Futro Wilka+	W³osy z futra wilka u¿ywane s¹ do robienia grzebieni i szczotek.	
+30071	¯ó³æ NiedŸwiedzia+	Znana z odnawiania poczucia smaku.	
+30072	NiedŸwiedzia Skóra+	U¿ywana przez ludzi, aby wzmocniæ wytrzyma³oœæ fizyczn¹.	
+30073	Bia³a Wstêga+	Modna wstêga do spinania kobiecych w³osów.	
+30074	Czarny Uniform+	Zniszczony Czarny Uniform.	
+30075	Shuriken+	Broñ miotana. Najczêœciej u¿ywana przez zabójców.	
+30076	Amulet Orka+	Amulet, który dodaje odwagi Olbrzymim Orkom.	
+30077	Z¹b Orka+	Dziwnie pachn¹cy z¹b olbrzymiego Orka.	
+30078	Ezoteryczny Przewodnik+	Podrêcznik dla pocz¹tkuj¹cych. Zawiera podstawowe informacje o doktrynie ezoterycznej.	
+30079	Nieznany Talizman+	Nieznany talizman, tylko ezoterycy mog¹ je czytaæ.	
+30080	Ksiêga Kl¹tw+	Ezoteryczna ksiêga s³u¿¹ca do przeklinania kogoœ.	
+30081	Ogon Skorpiona+	Truj¹cy ogon skorpiona.	
+30082	Ogon Wê¿a+	Ogon grzechotnika.	
+30083	Nieznane Lekarstwo+	Tajemnicze lekarstwo. W jego sk³ad wchodz¹ nieznane sk³adniki.	
+30084	Nieznany Talizman+	Nieznany talizman, tylko ezoterycy mog¹ je czytaæ.	
+30085	Kawa³ek P³ótna+	U¿ywany do banda¿owania ran.	
+30086	Pami¹tka Po Demonie+	Œwiec¹ca pami¹tka po demonie.	
+30087	Klejnot Demona+	Klejnot znany z mo¿liwoœci przechowywania dusz umar³ych.	
+30088	Kawa³ek Lodu+	Zamarzniêta woda, która jest zawsze zimna.	
+30089	Futro Yeti+	Futro legendarnej kreatury, Yeti. Doskonale chroni przed zimnem.	
+30090	Matowy Lód+	Nie rozpuszcza siê podczas ciep³ych dni.	
+30091	Symbol Wojownika	Symbol wojownika dawany przez legendarnych wojowników.	
+30092	Zdobycz Dzikusa	Pozosta³oœæ po wojnie.	
+30093	Torba Szczêœcia	Jedwabny woreczek do przechowywania cennoœci.	
+30094	Torba Szczêœcia	Jedwabny woreczek do przechowywania cennoœci.	
+30095	Torba Szczêœcia	Jedwabny woreczek do przechowywania cennoœci.	
+30096	Torba Szczêœcia	Jedwabny woreczek do przechowywania cennoœci.	
+30129	Rozkaz JeŸdŸcy	Dokument zawieraj¹cy misjê wojskow¹.	
+30130	Pusta Butelka	Pusta butelka zrobiona ze szk³a, mo¿na j¹ wype³niæ ró¿nymi p³ynami.	
+30131	List Od Kowala	List od Kowala dla przyjaciela.	
+30132	Ksiêga Uriela	Ksi¹¿ka, której czytanie sprawia Urielowi wielk¹ przyjemnoœæ. Na jej brzegu widnieje jakiœ nieczytelny tytu³.	
+30133	Kwieciste Buty	£adne kobiece buty.	
+30134	Przesy³ka Uriela	Przesy³ka Uriela - w œrodku znajduje siê bardzo du¿o ksi¹¿ek.	
+30135	List Od Ariyoung	List od Ariyoung do Ayoo.	
+30136	Rozrzutnie Ozdobiony £uk	Cudowny ³uk wykonany ze zwierzêcego rogu.	
+30137	Krew Ma³py	Krew ma³py. Okropnie pachnie.	
+30138	Pustynny Piasek	Ten wyj¹tkowo drobny piasek jest u¿ywany do wyrobu Seledynowej Porcelany.	
+30139	Kie³ Orka	Kie³ orka. U¿ywany jako talizman.	
+30140	Nici	Mocne nici. Najczêœciej u¿ywane do naprawiania ubrañ. Przydatne równie¿ do wyrobu naszyjników.	
+30141	Ozdobny Diament	Diamenty najczêœciej u¿ywane s¹ jako ozdoby ubrañ.	
+30142	List	Nie jesteœ w stanie przeczytaæ, co jest napisane w tym liœcie. Mo¿e musisz nauczyæ siê jêzyka?	
+30143	Zio³a Lecznicze	Wysuszone zio³a lecznicze. Niestety s¹ nieco zakurzone.	
+30144	W¹troba Tygrysa	Czerwonobr¹zowa, pokaŸna w¹troba wyroœniêtego kota drapie¿nego.	
+30145	Lekarstwo Balsosa	Silne lekarstwo.	
+30146	Kawa³ Lodu	Bardzo zimny.	
+30147	Œwi¹tynna Doktryna	Ksiêga zawieraj¹ca informacje na temat Mrocznej Œwi¹tyni.	
+30148	Œwi¹tynny Szal	Szal s³u¿¹cy do modlitwy.	
+30149	Lody z Syropem	Napój zawieraj¹cy kawa³ek lodu i syrop. Cudowny latem.	
+30150	Strona Pamiêtnika	Strona z pamiêtnika napisanego przez star¹ dynastiê.	
+30151	Skóra Wilka	U¿ywana jako œcierka do kurzu.	
+30152	Lekarstwo	Podobno mo¿e wyleczyæ tajemnicz¹ chorobê. Nikt nie wie, czy naprawdê dzia³a.	
+30153	Kwiaty	Bukiet rzadkich kwiatów. Zapach kojarzy Ci siê z czymœ z przesz³oœci.	
+30154	Sekretna Ksiêga Œwi¹tyni	Analiza historii i doktryny Sekretnej Œwi¹tyni.	
+30155	Amulet Mirine	Naszyjnik. Na odwrocie wygrawerowane jest jakieœ imiê...	
+30156	Sekretna Ksiêga Œwi¹tyni	Analiza historii i doktryny Sekretnej Œwi¹tyni.	
+30157	Grot Strza³y	Te zatrute Groty Strza³ pomog¹ w obronie królestwa.	
+30177	Olejek Pi¿mowy	Olejek Pi¿mowy jest u¿ywany przez Sprzedawcê Broni podczas misji. Przedmiot ten nie ma innego zastosowania.	
+30179	Krêty Klucz	Ten magiczny klucz aktywuje portal do Œwi¹tyni Smoka.	
+30180	Amulet Boga Smoków	Ten kawa³ek z³otej bi¿uterii mo¿e skróciæ drogê do Groty Wygnañców.	
+30181	Strona	Na tym pergaminie znajduj¹ siê wyblak³e napisy, które trudno rozszyfrowaæ. Ta strona wygl¹da na bardzo star¹.	
+30182	Legendarny Pamiêtnik	Ten duplikat staro¿ytnej ksiêgi wygl¹da na bardzo cenny.	
+30183	Posêpna Drewniana Maska	Ta drewniana maska wygl¹da, jakby siê w Ciebie wpatrywa³a. Najprawdopodobniej przedmiot ten by³ wykorzystywany podczas jakiœ rytua³ów.	
+30184	Zaczarowany Popió³	Popió³ w tym dziwnym pojemniku, pokrytym dziwnymi symbolami, otacza ³agodny blask.	
+30185	Czarny Lód	Nawet najciemniejszy mrok rozjaœnia siê przy tej b³yszcz¹cej i niezwykle g³adkiej powierzchni.	
+30186	Skamienia³a £za	Skamienia³a £za boga Baljit-Elvedin, który w dzisiejszych czasach znany jest jako Bóg Smoków.	
+30187	Kropla Krwi	Kropla Krwi zamordowanej bogini Bahar-Taraji, stwórcy œwiata.	
+30188	Obsydian	Kamieñ wulkaniczny, który zosta³ nagle sch³odzony.	
+30189	£zy Baljit-Elvedin	Ta piêknie zdobiona waza zawiera £zy boga Baljit-Elvedin.	
+30190	Krwisty Kamieñ	Ten kamieñ zrobiony jest z krwi Bahar-Taraji i umo¿liwia Ci wejœcie na drugi poziom Groty Wygnañców.	
+30191	Krwisty Kamieñ	Krwiste Kamienie umo¿liwiaj¹ Ci wejœcie na drugi poziom Groty Wygnañców.	
+30192	Mleczny Sok	Wysokojakoœciowa wydzielina roœlinna	
+30193	Koœæ Palca	Wszystko, co zosta³o po poleg³ym bohaterze.	
+30194	Orkowa Maczuga	Brzydka broñ ze stabilnymi kolcami.	
+30195	Piasek Kwarcowy	Wygl¹da na to, ¿e ten piasek s³u¿y kamiennym kreaturom z pustyni jako krew.	
+30196	Demoniczne Prochy	Nawet prochy demona posiadaj¹ nieziemskie si³y.	
+30197	Magiczne Nasiona	Te nasiona po prostu tryskaj¹ ¿yciodajn¹ energi¹.	
+30198	Wodny Kryszta³	Serce mrocznej lodowej kreatury.	
+30199	Niebieski Kryszta³	Od³amek kryszta³u dla wzmocnienia mrocznych si³ ze Œwi¹tyni Smoka.	
+30210	Fragment Klejnotu	Krystalicznie czysty kamieñ, na którym œwiat³o migocze wieloma ma³ymi iskierkami.	
+30211	Fragment Klejnotu	Krystalicznie czysty kamieñ, który wyrzuca tajemnicze iskry.	
+30212	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30213	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30214	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30215	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30216	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30217	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30218	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30219	Fragment Klejnotu	Ma³y iskrz¹cy kamieñ.	
+30220	Kamieñ Duszy Jinunggyi	Legendarny kamieñ, zawiera duszê arystokraty Jinung.	
+30221	Œwi¹tynny Kamieñ Duszy	Legendarny kamieñ, zawiera duszê œwi¹tynnego wyznawcy.	
+30222	Kamieñ Duszy Sagyi	Legendarny kamieñ, zawiera duszê arystokraty Sagyis.	
+30223	Kamieñ Duszy Aurtumryu	Legendarny kamieñ, zawiera duszê arystokraty Aurtumryus.	
+30224	Kamieñ Duszy Gyimok	Legendarny kamieñ, zawiera duszê arystokraty Gyimoks.	
+30225	Kamieñ Duszy Tugyi	Legendarny kamieñ, zawiera duszê arystokraty Tugyis.	
+30228	Kamieñ Dusz Beran-Setaou	Mroczna aura upad³ego boga przenika do wnêtrza i szuka dostêpu do Twojego serca.	
+30251	Klejnot Zawiœci	Diament przepe³niony z³oœliwoœci¹.	
+30252	Klejnot M¹droœci	Diament otacza aura pokoju oraz szlachetnoœci.	
+30253	Klejnot Wiernoœci	Diament otacza aura walki ducha oraz szczeroœci.	
+30265	Czêœæ Medalu (1)	Pierwszy od³amek medalu bohatera	
+30266	Czêœæ Medalu (2)	Drugi od³amek medalu bohatera	
+30267	Czêœæ Medalu (3)	Trzeci od³amek medalu bohatera	
+30268	Czêœæ Medalu (4)	Czwarty od³amek medalu bohatera	
+30269	Czêœæ Medalu (5)	Pi¹ty od³amek medalu bohatera	
+30270	Od³amek Smoczego Kamienia	Fragment tajemniczego Smoczego Kamienia	
+30311	Klucz Kryszta³u Duszy	Ten filigranowy klucz z niebieskim kryszta³em duszy otwiera wrota do 2. poziomu Diabelskich Katakumb.	
+30312	Upiorny Totem	Ta drewniana tabliczka z wyrzeŸbionym grymasem s³u¿y jako klucz do 6. poziomu Diabelskich Katakumb.	
+30315			
+30316			
+30317			
+30318			
+30319	Zasuszona G³owa	Ta zasuszona g³owa demona otwiera pieczêæ 3. poziomu Diabelskich Katakumb. Przedmiot ten jest zdatny do handlu.	
+30320	Zasuszona G³owa	Ta zasuszona g³owa demona otwiera pieczêæ 3. poziomu Diabelskich Katakumb.	
+30321	Upiorna Dynia	Dynia ta regeneruje P¯ lub PE. Jeœli dotkniesz j¹ czarodziejsk¹ ró¿d¿k¹, zamieni siê w upiorn¹ skrzyniê.	
+30322	Czarodziejska Ró¿d¿ka	Ta czarodziejska ró¿d¿ka, kunsztownie wyciosana z magicznego drewna olchowego, potrafi zamieniæ ka¿d¹ upiorn¹ dyniê w upiorn¹ skrzyniê.	
+30323	Karta Maski Dyni	Tê kartê maski dyni mo¿esz zamieniæ u Jacka Pumpkina na maskê dyni. Maska dyni zast¹pi jednak twoj¹ obecn¹ fryzurê.	
+30324	Pajêczy Klucz	Otwiera wrota do kryjówki Baronówny Paj¹ków. Jest bardzo delikatny i ³amie siê po 24 godzinach. Mo¿e zostaæ u¿yty wy³¹cznie przez przywódcê grupy.	
+30325	Pajêczy Klucz	Otwiera wrota do kryjówki Baronówny. £amie siê po 24 godzinach. Mo¿e zostaæ u¿yty wy³¹cznie przez przywódcê grupy.	
+30326	Jad Królowej Paj¹ków	Ta wydzielina Królowej Paj¹ków potrzebna jest to craftingu Pajêczego Klucza.	
+30327	Pajêczy Flet	Melodia tego instrumentu zwabia Baronównê Paj¹ków.	
+30500	Rubinowy Ozdobny Nó¿	Narz¹dzie do uszlachetniania twojej broni	
+30501	Z³ota Sprz¹czka	Element do uszlachetniania twojej broni	
+30502	Rubinowa Ozdoba	Element do uszlachetnienia twojej broni	
+30503	Ametystowy Ozdobny Nó¿	Narzêdzie do uszlachetnienia twojej broni	
+30504	Srebrny Zacisk	Element do uszlachetniania twojej broni	
+30505	Szmaragdowa Ozdoba	Element do uszlachetniania twojej broni	
+30506	Szafirowy Ozdobny Nó¿	Narz¹dzie do uszlachetniania twojej broni	
+30507	Br¹zowy Zacisk	Element do uszlachetniania twojej broni	
+30508	Szafirowa Ozdoba	Element do uszlachetniania twojej broni	
+30509	Niebieska Smocza Stal	Skóra ze smoka jest bardzo lekka, elastyczna i prawie niezniszczalna. Mo¿na j¹ przerobiæ jak metal i s³u¿y do produkcji zbroi.	
+30510	Wytworny Naramiennik	Element do ozdoby zbroi	
+30511	Czerwony Materia³	Delikatny materia³ do ozdoby zbroi	
+30512	Czerwona Smocza Stal	Skóra ze smoka jest bardzo lekka, elastyczna i prawie niezniszczalna. Mo¿na j¹ przerobiæ jak metal i s³u¿y do produkcji zbroi.	
+30513	Szlachetny Naramiennik	Element do ozdoby zbroi	
+30514	Fioletowy Materia³	Delikatny materia³ do ozdoby zbroi	
+30515	Purpurowa Smocza Stal	Skóra ze smoka jest bardzo lekka, elastyczna i prawie niezniszczalna. Mo¿na j¹ przerobiæ jak metal i s³u¿y do produkcji zbroi.	
+30516	Antyczny Naramiennik	Element do ozdoby zbroi	
+30517	Z³oty Materia³	Delikatny materia³ do ozdoby zbroi	
+30518	Z³ota Przêdza	Magiczny zwój przêdzy z p³ynnego z³ota. Mo¿na go przerobiæ dodaj¹c kamieñ szlachetny na drogocenn¹ ozdobê.	
+30519	Z³oty Hak	Zawiera czyste z³oto i mo¿na go przerobiæ dodaj¹c kamieñ szlachetny na drogocenn¹ ozdobê.	
+30520	Z³ota Sprz¹czka	Zawiera czyste z³oto i mo¿na j¹ przerobiæ dodaj¹c kamieñ szlachetny na drogocenn¹ ozdobê.	
+30521	Element Pierœcienia	Zawiera czyste z³oto i mo¿na go przerobiæ dodaj¹c kamieñ szlachetny na drogocenn¹ ozdobê.	
+30522	Ogniwa £añcucha	Zawiera czyste z³oto i mo¿na je przerobiæ wraz z kamieniem szlachetnym na drogocenn¹ ozdobê.	
+30523	Element Ozdoby	Zawiera czyste z³oto i mo¿na go przerobiæ wraz z kamieniem szlachetnym na drogocenn¹ ozdobê.	
+30587	Ksiêga Mistrza Gry	Ksiêga z której mo¿e korzystaæ tylko i wy³¹cznie administracja serwera.	
+31001	Kopia Inskrypcji	Jest to kopia inskrypcji znajduj¹cej siê na starym nagrobku.	
+31002	Stary Dokument	Jest to dokument z czasów Mrocznego Narodu zawieraj¹cy dalsze wskazówki.	
+31003	Antidotum	Jest to lekarstwo dla zatrutego ¿o³nierza.	
+31004	Œwiêcona ¯ywica	Ta ¿ywica z b³ogos³awionego drzewa jest jednym ze sk³adników potrzebnych do wytworzenia £zy Niebios.	
+31005	Nieb. Esencja Kryszta³u	Ta esencja z niebieskich kamieni szlachetnych potrzebna jest do wytworzenia £zy Niebios.	
+31006	Czerw. Kwarc Piekie³	Ten mieni¹cy siê na czerwono kwarc sk³ada siê z Ziemi Wulkanicznej, P³on¹cej Grzywy oraz Kamienia Wêgielnego.	
+31007	Ziemia Wulkaniczna	Ta podobna do popio³u substancja z Doyyumhwan potrzebna jest do wytworzenia Czerwonego Kwarcu Piekie³.	
+31008	£za Niebios	Ten magiczny kamieñ szlachetny sk³ada siê z Niebieskiej Esencji Kryszta³u, Czerwonego Kwarcu Piekie³ i Œwiêconej ¯ywicy. Jego efekt odstrasza mroczne kreatury i trwa siedem dni.	
+35000	Zio³a Lecznicze+	Wysuszone zio³a lecznicze. Niestety s¹ nieco zakurzone.	
+35001	W¹troba Tygrysa+	Czerwonobr¹zowa, pokaŸna w¹troba wyroœniêtego kota drapie¿nego.	
+38010	Pakiet Yang	Zysk Yang z gie³dy przedmiotów	
+38050	Skrzynia Mocy	Skrzynia ta jest dziwnie lekka, tak jakby by³a pusta...	
+38051	Kryszta³ Tygr. Bengalsk.	Aby ujarzmiæ duch dzikiego zwierza, potrzeba potê¿nych umiejêtnoœci magicznych. Ten kryszta³ zawiera jedn¹ z piêciu Pieczêci Tygrysa Bengalskiego.	
+38052	Skrzynia Królów	Ta piêknie ozdobiona skrzynia zawiera zaiste królewski skarb. Przedmiot ten jest zdatny do handlu.	
+38053	Skrzynia Wiecznej Zimy	Skrzynia ta jest wyciosana z litego lodu. Gdy unosisz jej wieko, z wnêtrza wydobywa siê lodowaty mróz.	
+38054	Skrzynia Burzy Pustynnej	Ta tajemnicza skrzynia zawiera losowy przedmiot.	
+38055	Skrzynia Szczeniaka	W tej skrzyni mo¿e znajdowaæ siê s³itaœne zwierz¹tko. Otwórz j¹ i odkryj losowy przedmiot.	
+38056	Skrzynia Œwi¹t	Odœwiêtnie udekorowana jod³owymi ga³¹zkami skrzynia zawiera œwi¹teczn¹ niespodziankê.	
+38100	Mega Przek¹ska (7 dni)	Przed³u¿a ¿ycie Twojego Mega Wierzchowca o 7 dni.	
+38101	Mega Przek¹ska (15 dni)	Przed³u¿a ¿ycie Twojego Mega Wierzchowca o 15 dni.	
+38102	Mega Przek¹ska (30 dni)	Przed³u¿a ¿ycie Twojego Mega Wierzchowca o 30 dni.	
+38200	Pieczêæ Rufusa	Za pomoc¹ tej pieczêci mo¿esz przywo³aæ wilka Rufusa.	
+38201	Pieczêæ Rufusa	Za pomoc¹ tej pieczêci mo¿esz przywo³aæ wilka Rufusa.	
+39001	Magiczny Kamieñ	Kamieñ ten daje ci najwiêksz¹ szansê podczas ulepszania przedmiotów. Przedmiot ten nie mo¿esz zostaæ zniszczony ani pogorszony. Przedmiot ten jest zdatny do handlu.	
+39002	Pierœcieñ Doœwiadczenia	Zwiêksza otrzymywane Punkty Doœwiadczenia o 50% na 60 minut. Przedmiot ten jest zdatny do handlu.	Brak mo¿liwoœci zdejmowania.
+39003	Wino z Kwiatu Brzoskwini	Mikstura, która natychmiast regeneruje 500 Punktów ¯ycia. Przedmiot ten jest zdatny do handlu.	
+39004	Marmur B³ogos³awieñstwa	Ten legendarny Marmur mo¿e dodaæ pi¹ty bonus do przedmiotów, które maj¹ ju¿ cztery bonusy. Dodawanie mo¿e siê nie udaæ. Przedmiot ten jest zdatny do handlu.	
+39005	Magiczna Ruda Miedzi	Jeœli u¿yjesz go na ulepszonym Zwoju B³ogos³awieñstwa, mo¿esz stworzyæ Zwój B³ogos³awieñstwa Boga Wojny. Przedmiot ten jest zdatny do handlu.	
+39006	Peleryna Mêstwa	Staro¿ytni wojownicy okazywali swoje mêstwo poprzez noszenie kolorowych peleryn. By³ to sposób na zwabienie wszystkich potworów z okolicy. Przedmiot ten jest zdatny do handlu.	
+39007	Podrêcznik Kowala	Ksiêga zawiera duszê starego kowala. Jeœli jej u¿yjesz, zwiêkszy to szansê na pomyœlne ulepszenie przedmiotu. Przedmiot ten jest zdatny do handlu.	
+39008	Zwój Egzorcyzmu	Uwalnia Ciê od kl¹twy z³ego ducha, jeœli proces nauki siê nie powiedzie. Za pomoc¹ tego zwoju mo¿esz przeczytaæ jeden dokument umiejêtnoœci dziennie. Przedmiot ten jest zdatny do handlu.	
+39009	Zwój Powrotu Umiejêtn.	Przedmiot ten resetuje punkty Twoich umiejêtnoœci. Przedmiot ten jest zdatny do handlu.	
+39010	Mikstura Ataku +10	Zwiêksza twoj¹ Szybkoœæ Ataku o 10% na okres 30 minut. Przedmiot ten jest zdatny do handlu.	
+39011	B³ogos³awieñstwo ¯ycia	B³ogos³awieñstwo, które natychmiast regeneruje twoje Punkty ¯ycia do 100%. Przedmiot ten jest zdatny do handlu.	
+39012	B³ogos³awieñstwo Magii	Natychmiastowo odnawia wszystkie Punkty Energii. Przedmiot ten jest zdatny do handlu.	
+39013	B³ogos³awieñstwo Smoka	B³ogos³awieñstwo, które natychmiast regeneruje twoje P¯ oraz PE do 100%. Przedmiot ten jest zdatny do handlu.	
+39014	Zwój Wojny	Zwój do ulepszeñ pob³ogos³awiony przez Boga Wojny. Gwarantuje pomyœlne ulepszenie przedmiotu (od +0 do +3). Przedmiot ten jest zdatny do handlu.	
+39015	Kamieñ Kowala	Dziêki temu Kamieniowi i Zwojowi B³ogos³awieñstwa, mo¿esz wytworzyæ u Kowala Podrêcznik Kowala. Przedmiot ten jest zdatny do handlu.	
+39016	Magiczny Metal	Metal potrzebny do wytworzenia Zwoju Smoka - wraz ze Zwojem B³ogos³awieñstwa u Kowala. Przedmiot ten jest zdatny do handlu.	
+39017	¯ycie Boga Smoków	Zwiêksza iloœæ Punktów ¯ycia o 20% na okres 30 minut. Przedmiot ten jest zdatny do handlu.	
+39018	Atak Boga Smoków	Zwiêksza obra¿enie jakie zadajesz podczas walki o 12-15% przez 30 min. Przedmiot ten jest zdatny do handlu.	
+39019	Inteligencja Boga Smoków	Zwiêksza iloœæ Punktów Energii o 20% przez 30 min. Przedmiot ten jest zdatny do handlu.	
+39020	Obrona Boga Smoków	Zmniejsza obra¿enia jakie otrzymujesz podczas walki o 12-15% przez 30 min. Przedmiot ten jest zdatny do handlu.	
+39021	Wsparcie Boga Smoków	Witalnoœæ, Si³a, Inteligencja oraz Zrêcznoœæ twojej postaci zostan¹ tymczasowo zwiêkszone piêciokrotnie. Przedmiot ten jest zdatny do handlu.	
+39022	Zwój Boga Smoków	Zwiêksza szansê na ulepszenie przedmiotu o 10% i przedmiot nie ulega zniszczeniu gdy ulepszenie zawiedzie. W przypadku niepowodzenia, jakoœæ przedmiotu jest redukowana o 1 poziom. Przedmiot ten jest zdatny do handlu.	
+39023	Eliksir Poszukiwacza	Eliksir poprawia jakoœæ przedmiotów przeznaczonych do badañ, co powoduje zwiêkszenie szansy na ich przyjêcie. Przedmiot ten jest zdatny do handlu.	
+39024	D³oñ Krytyka	Podnosi szansê na zadanie krytycznego uderzenia podczas walki o 20% przez 10 minut. Przedmiot ten jest zdatny do handlu.	
+39025	D³oñ Przebicia	Podnosi szansê na zadanie przeszywaj¹cego uderzenia podczas walki o 20% przez 10 minut. Przedmiot ten jest zdatny do handlu.	
+39026	Mikstura Szybkoœci	Zwiêksza Szybkoœæ Ruchu o 60 na 30 minut. Przedmiot ten jest zdatny do handlu.	
+39027	Ksiêga Obróbki Kamienia	Usuwa zepsuty kamieñ z kieszeni ¿eby zwolniæ kieszeñ przedmiotu. Przedmiot ten jest zdatny do handlu.	
+39028	Zaczarowanie Przedmiotu	Usuwa wszystkie bonusy z twojego jednego przedmiotu, po czym dodaje nowe. Przedmiot ten jest zdatny do handlu.	
+39029	Wzmocnienie Przedmiotu	Przy odrobinie szczêœcia dodaje do jednego z twoich przedmiotów nowy bonus. (maks. 4 bonusy). Przedmiot ten jest zdatny do handlu.	
+39030	Rada Pustelnika	Podnosi szansê na pomyœlne przeczytanie nastêpnej Ksiêgi Umiejêtnoœci (lub Kamienia Duchowego) na 250%. Przedmiot ten jest zdatny do handlu.	
+39031	Mikstura Poœpiechu	Mikstura ta zwiêksza szybkoœæ regeneracji twoich umiejêtnoœci o 20 procent przez okres 30 minut. Przedmiot ten jest zdatny do handlu.	
+39032	Owoc ¯ycia	Zwiêksza Punkty Rangi o 2000 punktów (czas regeneracji: 8 godzin). Przedmiot ten jest zdatny do handlu.	
+39033	Zwój Korekcji	Zwój ten umo¿liwia usuniêcie ostatnio pomyœlnie dodanego Kamienia Duszy ze wskazanego przedmiotu. Przedmiot ten jest zdatny do handlu.	
+39034	Cukier dla Konia	Ten Cukier pozwala nazwaæ twojego konia. Dodatkowo, zwiêksza jego poziom obrony. Przedmiot ten jest zdatny do handlu.	
+39035	Szk³o Intuicji	Pozwala Ci na pokazanie innemu graczowi przedmiotu z twojego ekwipunku. Podczas tego procesu, Szk³o ulega zniszczeniu. Przedmiot ten jest zdatny do handlu.	
+39036	Buty Wiatru	Gdy ich u¿ywasz, Szybkoœæ Ruchu twojej postaci jest zwiêkszona o 30 na okres 30 godzin grania. Przedmiot ten jest zdatny do handlu.	
+39037	Eliksir S³oñca (M)	Automatycznie regeneruje twoje P¯. Zawiera 1.000.000 P¯. Mo¿na nim handlowaæ.	
+39038	Eliksir S³oñca (Œ)	Automatycznie regeneruje twoje P¯. Zawiera 3.000.000 P¯. Mo¿na nim handlowaæ.	
+39039	Eliksir S³oñca (D)	Automatycznie regeneruje twoje P¯. Zawiera 7.000.000 P¯. Mo¿na nim handlowaæ.	
+39040	Eliksir Ksiê¿yca (M)	Automatycznie regeneruje twoje PE. Zawiera 100.000 PE. Mo¿na nim handlowaæ.	
+39041	Eliksir Ksiê¿yca (Œ)	Automatycznie regeneruje twoje PE. Zawiera 300.000 PE. Mo¿na nim handlowaæ.	
+39042	Eliksir Ksiê¿yca (D)	Automatycznie regeneruje twoje PE. Zawiera 700.000 PE. Mo¿na nim handlowaæ.	
+39043	Zwój Powrotu	Zwój ten pozwala Ci wróciæ do miejsca, które ostatnio zapamiêta³eœ. Przedmiot ten jest zdatny do handlu.	
+41001	Kostium Muszkietera	Ekstrawagancki kostium w stylu muszkieterów.
+41002	Kostium Muszkietera+	Ekstrawagancki kostium w stylu muszkieterów. Daje min. jeden dodatkowy bonus. Przedmiotem tym mo¿na handlowaæ.
+41003	Kostium Pokojówki	Czarna sukienka z bia³y fartuszkiem w stylu francuskiej pokojówki
+41004	Kostium Pokojówki+	Czarna sukienka z bia³y fartuszkiem w stylu francuskiej pokojówki. Daje min. jeden dodatkowy bonus. Przedmiotem tym mo¿na handlowaæ.
+45001	Fryzura Muszkietera	Zadbana krótka fryzura w stylu muszkieterów.
+45002	Fryzura Muszkietera+	Zadbana krótka fryzura w stylu muszkieterów. Daje min. jeden dodatkowy bonus. Przedmiotem tym mo¿na handlowaæ.
+45003	Czepek Pokojówki	Jasna fryzura na pazia z czepkiem pokojówki.
+45004	Czepek Pokojówki+	Jasna fryzura na pazia z czepkiem pokojówki. Daje min. jeden dodatkowy bonus. Przedmiotem tym mo¿na handlowaæ.	
+50001	Ksiêga Szczêœcia	Ksiêga ze szczêœliwymi numerami. Loteria jest prowadzona przez rz¹d.	
+50002	Z³oty Pierœcieñ	Prosty, Z³oty Pierœcionek. | Mo¿e byæ sprzedany w sklepie za wysok¹ cenê.	
+50003	Zwój Cofania Umiejêtn.	Pozwala na ponowne wybranie profesji postaci.	
+50004	Wykrywacz Zdarzeñ	Pokazuje, gdzie mo¿na znaleŸæ misje.	
+50005	Bilet Na Jazdê Konn¹	Po okazaniu tego biletu Stajennemu, bêdziesz móg³ jeŸdziæ konno przez okreœlony czas.	
+50006	Z³ota Szkatu³ka	Zdobiona z³otem szkatu³ka | Mo¿e byæ otwarta przy u¿yciu Z³otego Klucza.	
+50007	Srebrna Szkatu³ka	Zdobiona srebrem szkatu³ka. Mo¿e byæ otwarta przy u¿yciu Srebrnego Klucza.	
+50008	Z³oty Klucz	Klucz ze z³ota. | Mo¿na nim otworzyæ Z³ot¹ Szkatu³kê i Z³ot¹ Szkatu³kê+.	
+50009	Srebrny Klucz	Klucz ze srebra. | Mo¿na nim otworzyæ Srebrn¹ Szkatu³kê i Srebrn¹ Szkatu³kê+.	
+50010	Skarpetka	Skarpetka zrobiona z ciep³ej owczej we³ny.	
+50011	Szkat. Blasku Ksiê¿yca	Osza³amiaj¹ca dekoracja uwodz¹ca ludzi. Niesamowite rzeczy maj¹ miejsce, kiedy wystawi siê j¹ na oddzia³ywanie promieni ksiê¿yca.	
+50012	Z³ota Szkatu³ka+	Zdobiona z³otem szkatu³ka.| Mo¿e byæ otwarta przy u¿yciu Z³otego Klucza.	
+50013	Srebrna Szkatu³ka+	Zdobiona srebrem szkatu³ka. Mo¿e byæ otwarta przy u¿yciu Srebrnego Klucza.	
+50016	Pasta Fasolowa	Sk³adnik staro¿ytnego ciasta fasolowego	
+50017	Pasta Cukrowa	Sk³adnik staro¿ytnego ciasta cukrowego	
+50018	Pasta Owocowa	Sk³adnik staro¿ytnego ciasta owocowego	
+50019	S³odki Ry¿	Sk³adnik staro¿ytnego ciasta	
+50020	Torcik Fasolowy	Staro¿ytne ciasto regeneruj¹ce wszystkie Punkty ¯ycia.	
+50021	Torcik Cukrowy	Staro¿ytne ciasto regeneruj¹ce wszystkie Punkty Energii.	
+50022	Torcik Owocowy	Staro¿ytne ciasto regeneruj¹ce ca³¹ Wytrzyma³oœæ.	
+50023	Sakiewka Pieniêdzy	W œrodku znajduje siê noworoczna pensja.	
+50024	Ró¿a	Romantyczny kwiat okazuj¹cy zauroczenie. Przedmiot mo¿e byæ u¿ywany tylko przez kobiety.	
+50025	Czekolada	Zrobiona z kakao, mleka, mas³a i cukru. Dawana aby okazywaæ zauroczenie. Przedmiot mo¿e byæ u¿ywany tylko przez mê¿czyzn.	
+50027	Bilet Na Loteriê	Nie ma loterii w grze. | Bezu¿yteczny przedmiot.	
+50031	Ró¿a	Romantyczny kwiat okazuj¹cy zauroczenie. Przedmiot mo¿e byæ u¿ywany tylko przez mê¿czyzn.	
+50032	Cukierek	Zrobiona z kakao, mleka, mas³a i cukru. Dawana aby okazywaæ zauroczenie. Przedmiot mo¿e byæ u¿ywany tylko przez kobiety.	
+50033	Zagadkowa Szkatu³ka	Szkatu³ka, na której wygrawerowany jest jakiœ list. Prawdopodobnie coœ wyskoczy po jej otwarciu.	
+50034	Szkatu³ka Z Zagadk¹	Czy ta szkatu³ka zawiera zagadkê?	
+50035	Prezent (¿ó³ty)	£adnie zapakowany prezent	
+50036	Prezent (fioletowy)	£adnie zapakowany prezent	
+50037	Heksagonalna Szkatu³ka	Zrobiona ze specjalnego papieru. W œrodku znajduje siê prezent.	
+50050	Medal Konny	Stajenny potrzebuje tego Medalu, aby wypisaæ na nim dotychczasowe osi¹gniêcia Twojego konia.	
+50051	Zdjêcie Konia	Certyfikat na jazdê konn¹.	
+50052	Ksiêga Opanc. Konia	Certyfikat na zaawansowan¹ jazdê konn¹. |Pozwala na ataki podczas jazdy konnej.	
+50053	Ksiêga Wojskowego Konia	Certyfikat na mistrzowsk¹ jazdê konn¹. |Pozwala na u¿ywanie umiejêtnoœci jeŸdzieckich.	
+50054	Siano	Wysuszone siano do karmienia konia.	
+50055	Marchewka	Ulubione warzywo konia.	
+50056	Czerwony ¯eñ-szeñ	Duszony ¯eñ-szeñ. Tylko wojskowe konie jedz¹ Czerwony ¯eñ-szeñ.	
+50057	Zio³o Z £atwych Ma³p	Legendarne Zio³o, które mo¿e zostaæ u¿yte do wskrzeszenia zwyk³ego Konia. Aby je zdobyæ, nale¿y udaæ siê do £atwego Lochu Ma³p.	
+50058	Zio³o Z Normalnych Ma³p	Legendarne Zio³o, które mo¿e zostaæ u¿yte do wskrzeszenia Konia Bojowego. Aby je zdobyæ, nale¿y udaæ siê do Normalnego Lochu Ma³p.	
+50059	Zio³o Z Trudnych Ma³p	Legendarne Zio³o, które mo¿e zostaæ u¿yte do wskrzeszenia Konia Wojskowego. Aby je zdobyæ, nale¿y udaæ siê do Trudnego Lochu Ma³p.	
+50060	Instr. Jazdy Konnej	Mo¿esz otrzymaæ 1 Punkt Umiejêtnoœci JeŸdziectwa kiedy j¹ przeczytasz. Znika po przeczytaniu.	
+50067	Zwój Ewolucji	Jest to potê¿ny, prastary zwój z pergaminu. Dziêki niemu mo¿esz wyszkoliæ swojego m³odzika na Dzikiego Wierzchowca.	
+50068	Zwój Mutacji	Jest to potê¿ny, prastary zwój z pergaminu. Dziêki niemu mo¿esz wyszkoliæ swojego Dzikiego Wierzchowca na Dzielnego Wierzchowca.	
+50069	Szkat. W³ad. Wie¿y Hwang	Szkatu³ka W³adcy Wie¿y Hwang. Coœ cennego znajduje siê w œrodku.
+50070	Szkatu³ka Wodza Orków	Szkatu³ka Wodza Orków. Coœ cennego znajduje siê w œrodku.	
+50071	Szkatu³ka Ezot. W³adcy	Szkatu³ka Ezoterycznego W³adcy. Coœ cennego znajduje siê w œrodku.	
+50072	Szkat. Odrodz. W³adcy	Szkatu³ka Reinkarnowanego Ezoterycznego W³adcy. Coœ cennego znajduje siê w œrodku.	
+50073	Szkat. Królowej Paj¹ków	Szkatu³ka Królowej Paj¹ków. Coœ cennego znajduje siê w œrodku.	
+50074	Szkatu³ka Olbrz. Paj¹ka	Szkatu³ka Olbrzymiego Paj¹ka. Coœ cennego znajduje siê w œrodku.	
+50075	Szkat. Nosiciela Plagi	Szkatu³ka Olbrzymiego Nosiciela Plagi. Coœ cennego znajduje siê w œrodku.	
+50076	Szkat. Pustynnego ¯ó³wia	Szkatu³ka Pustynnego ¯ó³wia. Coœ cennego znajduje siê w œrodku.	
+50077	Szkat.Dziewiêciu Ogonów	Szkatu³ka Dziewiêciu Ogonów. Coœ cennego znajduje siê w œrodku.	
+50078	Szkat. ¯ó³tego Tygrysa	Szkatu³ka Zjawy ¯ó³tego Tygrysa. Coœ cennego znajduje siê w œrodku.	
+50079	Szkat. Ognistego Króla	Szkatu³ka Ognistego Króla. Coœ cennego znajduje siê w œrodku.	
+50080	Szkat. Czerwonego Smoka	Szkatu³ka Czerwonego Smoka. Coœ cennego znajduje siê w œrodku.	
+50081	Szkat. Króla Demonów	Szkatu³ka Króla Demonów. Coœ cennego znajduje siê w œrodku.	
+50082	Szkat. Umar³ego Rozpruw.	Szkatu³ka Umar³ego Rozpruwacza. Coœ cennego znajduje siê w œrodku.	
+50083	Bilet Na Jazdê Konn¹	Po okazaniu tego biletu Stajennemu, bêdziesz móg³ jeŸdziæ konno przez okreœlony czas.	
+50084	Kamieñ Otwarcia	Kamieñ otacza aura przepe³niona energi¹. Dzia³a przeciw sile Magicznej Pieczêci.	
+50091	Sushi z Welonki	Zrobione ze Z³otego Karasia. | Specjalny posi³ek.	
+50092	Sushi Z Karpia	Zrobione z Karasia. | Specjalny posi³ek. Unikalny zapach, trudno zjeœæ.	
+50093	Sushi Z £ososia	Specjalne danie zrobione z £ososia i zimnego ry¿u. Zwiêksza si³ê Ataku o 10 punktów na 30 sekund.	
+50094	Sushi z Suma	Specjalne danie zrobione z Suma i zimnego ry¿u. Zwiêksza si³ê Obrony o 10 punktów na 30 sekund.	
+50096	Pi³ka	Podkrêæ pi³kê jak Baljit-Elvedin!	
+50100	Ogniste Petardy	Fioletowe fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50101	Ogniste Petardy	¯ó³te fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50102	Ogniste Petardy	B³êkitne fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50103	Ogniste Petardy	Czerwone fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50104	Ogniste Petardy	Zielone fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50105	Ogniste Petardy	Bia³e fajerwerki wype³niaj¹ niebo podczas festiwalu.	
+50106	Œwi¹t. Ogniste Petardy	Œwi¹teczne fajerwerki. W porównaniu ze zwyk³ymi petardami, te zapewniaj¹ lepsze wra¿enia wizualne.	
+50108	Fajerwerki	B¹k miotaj¹cy iskry.	
+50120	¯elazna Szkatu³ka	Stabilny pojemnik pochodz¹cy z Groty Wygnañców.	
+50121	¯elazne Pude³ko	Stabilny pojemnik pochodz¹cy z Groty Wygnañców.	
+50122	¯elazna Skrzynia	Stabilny pojemnik pochodz¹cy z Groty Wygnañców.	
+50124	Spróchnia³a Skrzynia	Wydaje siê, ¿e ze œrodka dochodz¹ ciche odg³osy zwierz¹t.	
+50125	Exalioñska Skrzynia	Ciê¿ka skrzynia uznawana za zaginione bogactwa wschodnich krain. Niew¹tpliwie zawiera ona bardzo cenne przedmioty.	
+50126	Tajemnicza Skrzynia	Ta Skrzynia jest podejrzanie lekka, jakby by³a pusta...	
+50127	Taj. Szmaragd. Skrzynia	Otwarta Szmaragdowa Skrzynia	
+50128	Taj. Szafirowa Skrzynia	Szafirowa Skrzynia bez zamku. Mo¿na j¹ od razu otworzyæ a jej wnêtrze skrywa cenn¹ tajemnicê...	
+50129	Taj. Ametystowa Skrzynia	Otwarta Ametystowa Skrzynia	
+50130	Staro¿ytna Skrzynia	Wydaje siê, ¿e ze œrodka dochodz¹ ciche odg³osy zwierz¹t.	
+50131	Taj. Cytrynowa Skrzynia	Cytrynowa Skrzynia bez zamku. Mo¿na j¹ od razu otworzyæ a jej wnêtrze skrywa cenn¹ tajemnicê...	
+50133	Taj. Szmaragd. Skrzynia	Zamkniêta Szmaragdowa Skrzynia, która mo¿e zostaæ otwarta jedynie za pomoc¹ specjalnego klucza. Mówi siê, ¿e zawartoœæ tej skrzyni jest równie drogocenne, jak sama skrzynia.	
+50135	Taj. Ametystowa Skrzynia	Zamkniêta Ametystowa Skrzynia, która mo¿e zostaæ otwarta jedynie za pomoc¹ specjalnego klucza. Mówi siê, ¿e zawartoœæ tej skrzyni jest równie drogocenne, jak sama skrzynia.	
+50136	Taj. Topazowa Skrzynia	Zamkniêta Topazowa Skrzynia, która mo¿e zostaæ otwarta jedynie za pomoc¹ specjalnego klucza. Mówi siê, ¿e zawartoœæ tej skrzyni jest równie drogocenne, jak sama skrzynia.	
+50137	Taj. Cytrynowa Skrzynia	Zamkniêta Cytrynowa Skrzynia, która mo¿e zostaæ otwarta jedynie za pomoc¹ specjalnego klucza. Mówi siê, ¿e zawartoœæ tej skrzyni jest równie drogocenne, jak sama skrzynia.	
+50150	Rubinowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Rubinow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50151	Szmaragdowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Szmaragdow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50152	Szafirowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Szafirow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50153	Ametystowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Ametystow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50154	Topazowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Topazow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50155	Cytrynowy Klucz	Za pomoc¹ tego klucza mo¿na otworzyæ zamkniêt¹ Cytrynow¹ Skrzynie. Ciekawe, co skrywa jej wnêtrze.	
+50156	Diamentowy Klucz	Po mistrzowsku szlifowany klucz, który mieni siê wszystkimi kolorami têczy. Za pomoc¹ tego klucza mo¿na otworzyæ ka¿d¹ skrzyniê.	
+50160	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50161	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50162	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50163	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50164	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50165	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50166	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50167	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50168	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50169	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50170	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50171	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50172	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50173	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50174	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50175	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50176	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50177	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50178	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50179	Jajko wielkanocne	Kolorowe jajko wielkanocne	
+50180	Pusty koszyk	Pusty koszyk, do którego mo¿esz wk³adaæ jajka wielkanocne	
+50181	Koszyk z jajkami	Koszyk nape³niony jajkami wielkanocnymi.	
+50182	Skrzynia B³ogos³awieñstw	B³ogos³awiona skrzynia z tajemnicz¹ zawartoœci¹.	
+50183	S³odycze	S³odycze te posiadaj¹ wyj¹tkowe dzia³anie: szybkoœæ ruchu +10, obra¿enia +5%, doœwiadczenie +10%. Efekt trwa 30 minut.	
+50186	Skrzynia Azraela	Potê¿ne demoniczne moce zamknê³y tê skrzyniê. Niew¹tpliwie zawiera ona bardzo cenne przedmioty.	
+50187	Skrzynia Ucznia I	Twój prezent powitalny zawiera podstawowe wyposa¿enie na rozpoczêcia przygód.	
+50188	Skrzynia Ucznia II	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 10.	
+50189	Skrzynia Ucznia III	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 20.	
+50190	Skrzynia Eksperta I	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 30.	
+50191	Skrzynia Eksperta II	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 40.	
+50192	Skrzynia Eksperta III	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 50.	
+50193	Skrzynia Mistrza I	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 60.	
+50194	Skrzynia Mistrza II	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 70.	
+50195	Skrzynia Mistrza III	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 80.	
+50196	Skrzynia Arcymistrza	Skrzyniê mo¿esz otworzyæ dopiero po osi¹gniêciu poziomu 90.	
+50200	Tobó³	Pozwala otworzyæ Ci w³asny sklep.	Nie znika po u¿yciu.
+50211	Skrzynia Ucznia I	Twój prezent powitalny zawiera podstawowe wyposa¿enie na rozpoczêcia przygód.	
+50212	Skrzynia Ucznia I	Twój prezent powitalny zawiera podstawowe wyposa¿enie na rozpoczêcia przygód.	
+50213	Skrzynia Ucznia I	Twój prezent powitalny zawiera podstawowe wyposa¿enie na rozpoczêcia przygód.	
+50215	Upiorna Skrzynia	Jest to skrzynia z grawerunkiem upiornego oblicza dyni. Otwórz j¹, aby poznaæ jej cenn¹ zawartoœæ.	
+50216	Grzaniec	Gor¹ce wino z przyprawami, które przez 30 minut obdarzy ciê nastêpuj¹cymi bonusami: +10% szybkoœci, +5% obra¿eñ i +10% doœwiadczenia.	
+50217	Szkat. Baronówny Paj¹ków	Szkatu³ka Baronówny Paj¹ków. Coœ cennego znajduje siê w œrodku.	
+50249	Skrzynia Triumfu	Skrzynia zawiera losowy przedmiot jako nagrodê dla olimpijczyków.	
+50252	Cor Draconis	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50253	Pude³ko Ucznia	Pude³ko to zawiera losow¹ ksiêgê do szkolenia umiejêtnoœci wspomagaj¹cych|postaæ.	Mo¿e zawieraæ tak¿e Zwój Egzorcyzmu lub Radê Pustelnika.
+50254	Skrzynia Mroku	Ta ciê¿ka skrzynia ukrywa uznane za zaginione bogactwa Mrocznego Narodu.	
+50255	Cor Draconis (surowe)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50256	Cor Draconis (szlif.)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50257	Cor Draconis (rzadkie)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50258	Cor Draconis (antyczne)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50259	Cor Draconis (legend.)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50260	Cor Draconis (surowe)	To kryszta³owe smocze serce skrywa w sobie duszê, Smoczy Kamieñ.	
+50300	Ksiêga Umiejêtnoœci	Przy jej pomocy mo¿esz zwiêkszyæ poziom Mistrzowski danej umiejêtnoœci.	
+50301	Sztuka Wojny Sun Zi	Jedna z trzech Ksi¹g Strategii Wojennych. Pomyœlne przeczytanie pozwoli na rozwiniêcie umiejêtnoœci Przywództwo. Po przeczytaniu Ksiêga znika.	
+50302	Sztuka Wojny Wu Zi	Jedna z trzech Ksi¹g Strategii Wojennych. Pomyœlne przeczytanie pozwala na rozwiniêcie umiejêtnoœci Przywództwo. Po przeczytaniu Ksiêga znika.	
+50303	WeiLiao Zi	Jedna z trzech Ksi¹g Strategii Wojennych. Pomyœlne przeczytanie pozwala na rozwiniêcie umiejêtnoœci Przywództwo. Po przeczytaniu Ksiêga znika.	
+50304	Sztuka Combo	Ksiêga taktyczna. | S³u¿y do nauki kombinacji. | Znika po przeczytaniu.	
+50305	Zaaw. Sztuka Combo	Zaawansowana ksiêga taktyczna. | S³u¿y do nauki kombinacji. | Znika po przeczytaniu.	
+50306	Mistrz. Sztuka Combo	Mistrzowska ksiêga taktyczna. | S³u¿y do nauki kombinacji. | Znika po przeczytaniu.	
+50307	Ksiêga Misji (£atwa)	Po u¿yciu otrzymasz jedn¹ dodatkow¹ misjê - ³atw¹.	
+50308	Ksiêga Misji (Normalna)	Po u¿yciu otrzymasz jedn¹ dodatkow¹ misjê - normaln¹.	
+50309	Ksiêga Misji (Trudna)	Po u¿yciu otrzymasz jedn¹ dodatkow¹ misjê - trudn¹.	
+50310	Ksiêga Misji (ekspert)	Po u¿yciu otrzymasz jedn¹ dodatkow¹ misjê - dla ekspertów.	
+50311	Jêzyk Shinsoo	Podrêcznik ten umo¿liwia naukê jêzyka Shinsoo. Zaraz po osi¹gniêciu poziomu Mistrza, bêdziesz go rozumia³.	
+50312	Jêzyk Chunjo	Podrêcznik ten umo¿liwia naukê jêzyka Chunjo. Zaraz po osi¹gniêciu poziomu Mistrza, bêdziesz go rozumia³.	
+50313	Jêzyk Jinno	Podrêcznik ten umo¿liwia naukê jêzyka Jinno. Zaraz po osi¹gniêciu poziomu Mistrza, bêdziesz go rozumia³.	
+50314	Ksiêga Polimorfii	Pomyœlne przeczytanie tej Ksiêgi pozwala na rozwiniêcie umiejêtnoœci Polimorfia. Po przeczytaniu Ksi¹¿ka znika.	
+50315	Zaaw. Ks. Polimorfii	Pomyœlne przeczytanie tej Ksiêgi pozwala na rozwiniêcie umiejêtnoœci Polimorfia. Po przeczytaniu Ksi¹¿ka znika.	
+50316	Mistrz. Ks. Polimorfii	Pomyœlne przeczytanie tej Ksiêgi pozwala na rozwiniêcie umiejêtnoœci Polimorfia. Po przeczytaniu Ksi¹¿ka znika.	
+50401	Trzystr. Ciêcie	U¿yj, aby opanowaæ umiejêtnoœæ|Trzystronne Ciêcie.	Znika po przeczytaniu.
+50402	Wir Miecza	U¿yj, aby opanowaæ umiejêtnoœæ|Wir Miecza.	Znika po przeczytaniu.
+50403	Berserk	U¿yj, aby opanowaæ umiejêtnoœæ|Berserk.	Znika po przeczytaniu.
+50404	Aura Miecza	U¿yj, aby opanowaæ umiejêtnoœæ|Aura Miecza.	Znika po przeczytaniu.
+50405	Szar¿a	U¿yj, aby opanowaæ umiejêtnoœæ|Szar¿a.	Znika po przeczytaniu.
+50416	Duchowe Uderzenie	U¿yj, aby opanowaæ umiejêtnoœæ|Duchowe Uderzenie.	Znika po przeczytaniu.
+50417	Walniêcie	U¿yj, aby opanowaæ umiejêtnoœæ|Walniêcie.	Znika po przeczytaniu.
+50418	T¹pniêcie	U¿yj, aby opanowaæ umiejêtnoœæ|T¹pniêcie.	Znika po przeczytaniu.
+50419	Silne Cia³o	U¿yj, aby opanowaæ umiejêtnoœæ|Silne Cia³o.	Znika po przeczytaniu.
+50420	Uderzenie Miecza	U¿yj, aby opanowaæ umiejêtnoœæ|Uderzenie Miecza.	Znika po przeczytaniu.
+50431	Zasadzka	U¿yj aby opanowaæ umiejêtnoœæ|Zasadzka.	Znika po przeczytaniu.
+50432	Szybki Atak	U¿yj, aby opanowaæ umiejêtnoœæ|Szybki Atak.	Znika po przeczytaniu.
+50433	Wiruj¹cy Sztylet	U¿yj, aby opanowaæ umiejêtnoœæ|Wiruj¹cy Sztylet.	Znika po przeczytaniu.
+50434	Krycie Siê	U¿yj, aby opanowaæ umiejêtnoœæ|Krycie Siê.	Znika po przeczytaniu.
+50435	Truj¹ca Chmura	U¿yj, aby opanowaæ umiejêtnoœæ|Truj¹ca Chmura.	Znika po przeczytaniu.
+50446	Powtarz. Strza³	U¿yj, aby opanowaæ umiejêtnoœæ|Powtarzalny Strza³.	Znika po przeczytaniu.
+50447	Deszcz Strza³	U¿yj, aby opanowaæ umiejêtnoœæ|Deszcz Strza³.	Znika po przeczytaniu.
+50448	Ognista Strza³a	U¿yj, aby opanowaæ umiejêtnoœæ|Ognista Strza³a.	Znika po przeczytaniu.
+50449	Bezszelest. Chód	U¿yj, aby opanowaæ umiejêtnoœæ|Bezszelestny Chód.	Znika po przeczytaniu.
+50450	Truj¹ca Strza³a	U¿yj, aby opanowaæ umiejêtnoœæ|Truj¹ca Strza³a.	Znika po przeczytaniu.
+50461	Uderzenie Palcem	U¿yj, aby opanowaæ umiejêtnoœæ|Uderzenie Palcem.	Znika po przeczytaniu.
+50462	Smoczy Wir	U¿yj, aby opanowaæ umiejêtnoœæ|Smoczy Wir.	Znika po przeczytaniu.
+50463	Czarowne Ostrze	U¿yj, aby opanowaæ umiejêtnoœæ|Czarowane Ostrze.	Znika po przeczytaniu.
+50464	Strach	U¿yj, aby opanowaæ umiejêtnoœæ|Strach.	Znika po przeczytaniu.
+50465	Czarowana Zbroja	U¿yj, aby opanowaæ umiejêtnoœæ|Czarowana Zbroja.	Znika po przeczytaniu.
+50466	Rozprosz. Magii	U¿yj, aby opanowaæ umiejêtnoœæ|Rozproszenie Magii.	Znika po przeczytaniu.
+50476	Mrocz. Uderzenie	U¿yj, aby opanowaæ umiejêtnoœæ|Mroczne Uderzenie.	Znika po przeczytaniu.
+50477	Ognist. Uderzenie	U¿yj, aby opanowaæ umiejêtnoœæ|Ogniste Uderzenie.	Znika po przeczytaniu.
+50478	Ognisty Duch	U¿yj, aby opanowaæ umiejêtnoœæ|Ognisty Duch.	Znika po przeczytaniu.
+50479	Mroczna Ochrona	U¿yj, aby opanowaæ umiejêtnoœæ|Mroczna Ochrona.	Znika po przeczytaniu.
+50480	Duchowy Cios	U¿yj, aby opanowaæ umiejêtnoœæ|Duchowy Cios.	Znika po przeczytaniu.
+50481	Mroczna Sfera	U¿yj, aby opanowaæ umiejêtnoœæ|Mroczna Sfera.	Znika po przeczytaniu.
+50491	Lataj¹cy Talizman	U¿yj, aby opanowaæ umiejêtnoœæ|Lataj¹cy Talizman.	Znika po przeczytaniu.
+50492	Strzelaj¹cy Smok	U¿yj, aby opanowaæ umiejêtnoœæ|Strzelaj¹cy Smok.	Znika po przeczytaniu.
+50493	Smoczy Skowyt	U¿yj, aby opanowaæ umiejêtnoœæ|Smoczy Skowyt.	Znika po przeczytaniu.
+50494	B³ogos³awieñstwo	U¿yj, aby opanowaæ umiejêtnoœæ|B³ogos³awieñstwo.	Znika po przeczytaniu.
+50495	Odbicie	U¿yj, aby opanowaæ umiejêtnoœæ|Odbicie.	Znika po przeczytaniu.
+50496	Pomoc Smoka	U¿yj, aby opanowaæ umiejêtnoœæ|Pomoc Smoka.	Znika po przeczytaniu.
+50506	B³yskawiczny Rzut	U¿yj, aby opanowaæ umiejêtnoœæ|B³yskawiczny Rzut.	Znika po przeczytaniu.
+50507	Przywo³. B³ysk.	U¿yj, aby opanowaæ umiejêtnoœæ|Przywo³anie B³yskawicy.	Znika po przeczytaniu.
+50508	Burzowy Szpon	U¿yj, aby opanowaæ umiejêtnoœæ|Burzowy Szpon.	Znika po przeczytaniu.
+50509	Leczenie	U¿yj, aby opanowaæ umiejêtnoœæ|Leczenie.	Znika po przeczytaniu.
+50510	Zwinnoœæ	U¿yj, aby opanowaæ umiejêtnoœæ|Zwinnoœæ.	Znika po przeczytaniu.
+50511	Podwy¿. Ataku	U¿yj, aby opanowaæ umiejêtnoœæ|Podwy¿szenie Ataku.	Znika po przeczytaniu.
+50512	Rubinowy Diament	Tajemniczy kamieñ nasycony energi¹. Podobno posiada niewyobra¿aln¹ moc, która wspomaga w walce.	Podnosi poziom wybranej umiejêtnoœci do poziomu Perfekcyjnego Mistrza.
+50513	Kamieñ Duchowy	Legendarny kamieñ u¿ywany do treningu wewnêtrznego.	
+50526	Duchowy Diament	Legendarny kamieñ u¿ywany do treningu wewnêtrznego. Nie nadaje ¿adnych ograniczeñ czasowych.	
+50600	Przewodnik Do Górnictwa	U¿ywany do zwiêkszenia zdolnoœci górnictwa.| Znika po przeczytaniu.	
+50601	Diamentowy Kamieñ	Mo¿e byæ uszlachetniony do Diamentu u¿ywaj¹c pieca gildii.	
+50602	Kawa³ek Bursztynu	Mo¿e byæ uszlachetniony do Bursztynu u¿ywaj¹c pieca gildii bursztynu.	
+50603	Skamienia³y Pieñ	Mo¿e byæ uszlachetniony do Skamienia³ego Drewna u¿ywaj¹c pieca gildii.	
+50604	Ruda Miedzi	Mo¿e byæ uszlachetniona do Miedzi u¿ywaj¹c pieca gildii.	
+50605	Ruda Srebra	Mo¿e byæ uszlachetniona do Srebra u¿ywaj¹c pieca gildii.	
+50606	Ruda Z³ota	Mo¿e byæ uszlachetniona do Z³ota u¿ywaj¹c pieca gildii.	
+50607	Ruda Jadeitu	Mo¿e byæ uszlachetniona do Jadeitu u¿ywaj¹c pieca gildii.	
+50608	Ruda Ebonitu	Mo¿e byæ uszlachetniona do Ebonitu u¿ywaj¹c pieca gildii.	
+50609	Kawa³ek Per³y	Mo¿e byæ uszlachetniony do Per³y u¿ywaj¹c pieca gildii.	
+50610	Ruda Bia³. Z³ota	Mo¿e byæ uszlachetniona do Bia³ego Z³ota u¿ywaj¹c pieca gildii.	
+50611	Ruda Kryszta³u	Mo¿e byæ uszlachetniona do Kryszta³u u¿ywaj¹c pieca gildii.	
+50612	Ruda Ametystu	Mo¿e byæ uszlachetniona do Ametystu u¿ywaj¹c pieca gildii.	
+50613	Ruda Niebiañ. £ez	Mo¿e byæ uszlachetniona do Niebiañskich £ez u¿ywaj¹c pieca gildii.	
+50614	Dusza Rudy Kryszta³u	U¿ywaj¹c pieca gildii mo¿na wyprodukowaæ z tej rudy Duszê Kryszta³u.	
+50615	Ruda Rubinu	U¿ywaj¹c pieca gildii mo¿na wyprodukowaæ z tej rudy Rubin.	
+50616	Ruda Granatu	U¿ywaj¹c pieca gildii mo¿na wyprodukowaæ z tej rudy Granat.	
+50617	Ruda Szmaragdu	U¿ywaj¹c pieca gildii mo¿na wyprodukowaæ z tej rudy Szmaragd.	
+50618	Ruda Szafiru	U¿ywaj¹c pieca gildii mo¿na wyprodukowaæ z tej rudy Szafir.	
+50621	Diament	Najtwardszy klejnot - dodaje kieszeñ w przedmiotach ekwipunku.	
+50622	Bursztyn	£adny bursztyn.| Mo¿e byæ przymocowany do akcesoriów.	
+50623	Skamienia³e Drewno	Cenne drewno. | Mo¿e byæ przymocowane do drewnianych akcesoriów.	
+50624	MiedŸ	Czasem u¿ywana do wyrobu br¹zu i monet. | Mo¿e byæ przymocowana do miedzianych akcesoriów.	
+50625	Srebro	Œwiec¹cy metal do robienia bi¿uterii. | Mo¿e byæ przymocowane do srebrnych akcesoriów.	
+50626	Z³oto	Z³oty metal do wyrobu bi¿uterii. | Mo¿e byæ przymocowane do z³otych akcesoriów.	
+50627	Jadeit	Jeden z cennych materia³ów. | Mo¿e byæ przymocowany do jadeitowych akcesoriów.	
+50628	Ebonit	Najl¿ejsze i najbardziej wytrzyma³e drewno.| Mo¿e byæ przymocowane do ebonitowych akcesoriów.	
+50629	Per³a	U¿ywana do robienia bi¿uterii.| Mo¿e byæ przymocowana do per³owych akcesoriów.	
+50630	Bia³e Z³oto	Z³oto bardziej kolorem przypominaj¹ce srebro.| Mo¿e byæ przymocowane do akcesoriów z bia³ego z³ota.	
+50631	Kryszta³	Równie¿ nazywany kwarcem albo skamienia³ym kryszta³em.| Mo¿e byæ przymocowany do akcesoriów z kryszta³u.	
+50632	Ametyst	Fioletowy kwarc. | Mo¿e byæ przymocowany do ametystowych akcesoriów.	
+50633	Niebiañskie £zy	Skrystalizowany deszcz niebios. Niebiañskie £zy mog¹ byæ przymocowane do akcesoriów z Niebiañskich £ez.	
+50634	Kryszta³ Duszy	Kryszta³ taki czysty jak niewinna dusza. Mo¿na go u¿yæ do produkcji ozdób.	
+50635	Rubin	Z tego czerwonego klejnotu mo¿na wyrobiæ cenn¹ ozdobê.	
+50636	Granat	Z tego pomarañczowego klejnotu mo¿na wyrobiæ cenn¹ ozdobê.	
+50637	Szmaragd	Z tego zielonego klejnotu mo¿na wyrobiæ cenn¹ ozdobê.	
+50638	Szafir	Z tego niebieskiego klejnotu mo¿na wyrobiæ cenn¹ ozdobê.	
+50701	Kwiat Brzoskwini	W przesz³oœci, kwiaty brzoskwini wykorzystywane by³y jako g³ówny sk³adnik kremów.	Badania
+50702	Pokrzywa	Ten kwiat jest dostêpny prawie na ca³ym œwiecie. Panuje opinia, ¿e to najlepszy lek na przeziêbienie i kaszel.	Badania
+50703	Kwiat Kaki	Plotki g³osz¹, ¿e kobieta maj¹ca ten kwiat na szyi zajdzie w ci¹¿ê.	Badania
+50704	Korzeñ Gango	Korzenie Gango zwiêkszaj¹ odpornoœæ organizmu. Dodatkowo, wzmacniaj¹ system immunologiczny.	Badania
+50705	Bez	Ta roœlina polepsza pamiêæ i zwiêksza zdolnoœæ do koncentracji.	Badania
+50706	Grzyb Tue	Ten grzyb raczej nie jest u¿ywany w medycynie. Pomaga przy problemach z bezsennoœci¹.	Badania
+50707	Ró¿a Alpejska	Ta roœlina wzmacnia system nerwowy.	Badania
+50708	Morwa	Morwa dodaje si³y. Inne zastosowania lecznicze nie s¹ znane.	Badania
+50709	Mniszek Lekarski	Mniszek Lekarski pomaga przy problemach z gard³em. Jest bardzo smaczny.	Badania
+50710	Oset	Ta roœlina wzmacnia koœci.	Badania
+50711	Daktyl	Ta roœlina jest bardzo smaczna. Dodatkowo pobudza ca³¹ duszê.	Badania
+50712	Roœlina Sam-Zi	Roœlina, któr¹ bardzo trudno znaleŸæ. Je¿eli zostanie odpowiednio przygotowana, to ma niesamowite w³aœciwoœci.	Badania
+50721	Kwiat Brzoskwini	W przesz³oœci, kwiaty brzoskwini wykorzystywane by³y jako g³ówny sk³adnik kremów.	Wytwarzanie mikstur
+50722	Pokrzywa	Ten kwiat jest dostêpny prawie na ca³ym œwiecie. Panuje opinia, ¿e to najlepszy lek na przeziêbienie i kaszel.	Wytwarzanie mikstur
+50723	Kwiat Kaki	Plotki g³osz¹, ¿e kobieta maj¹ca ten kwiat na szyi zajdzie w ci¹¿ê.	Wytwarzanie mikstur
+50724	Korzeñ Gango	Korzenie Gango zwiêkszaj¹ odpornoœæ organizmu. Dodatkowo, wzmacniaj¹ system immunologiczny.	Wytwarzanie mikstur
+50725	Bez	Ta roœlina polepsza pamiêæ i zwiêksza zdolnoœæ do koncentracji.	Wytwarzanie mikstur
+50726	Grzyb Tue	Ten grzyb raczej nie jest u¿ywany w medycynie. Pomaga przy problemach z bezsennoœci¹.	Wytwarzanie mikstur
+50727	Ró¿a Alpejska	Ta roœlina wzmacnia system nerwowy.	Wytwarzanie mikstur
+50728	Morwa	Morwa dodaje si³y. Inne zastosowania lecznicze nie s¹ znane.	Wytwarzanie mikstur
+50729	Mniszek Lekarski	Mniszek Lekarski pomaga przy problemach z gard³em. Jest bardzo smaczny.	Wytwarzanie mikstur
+50730	Oset	Ta roœlina wzmacnia koœci.	Wytwarzanie mikstur
+50731	Daktyl	Ta roœlina jest bardzo smaczna. Dodatkowo pobudza ca³¹ duszê.	Wytwarzanie mikstur
+50732	Roœlina Sam-Zi	Roœlina, któr¹ bardzo trudno znaleŸæ. Je¿eli zostanie odpowiednio przygotowana, to ma niesamowite w³aœciwoœci.	Wytwarzanie mikstur
+50801	Sok z Kwiatu Brzoskwini	Ta mikstura zrobiona jest z Kwiatów Brzoskwini. Sprawia, ¿e czujesz siê zdrowo.	
+50802	Sok Z Pokrzywy	Mikstura zrobiona z Pokrzywy. Zwiêksza twoj¹ Si³ê o 5 punktów na 3 minuty.	
+50803	Sok Z Kwiatu Kaki	Ta mikstura zrobiona jest z Kwiatów Kaki. Zwiêksza zdolnoœæ do koncentracji.	
+50804	Sok Z Korzenia Gango	Ta mikstura zrobiona jest z Korzeni Gango. Pomaga przy gojeniu siê mniejszych ran.	
+50805	Sok Z Bzu	Ta mikstura zrobiona jest z Kwiatów Bzu.	
+50806	Sok Z Grzyba Tue	Ta mikstura zrobiona jest z Grzybów Tue.	
+50807	Sok Z Ró¿y Alpejskiej	Ta mikstura zrobiona jest z kwiatów Ró¿y Alpejskiej.	
+50808	Sok Z Morwy	Ta mikstura zrobiona jest z Morwy.	
+50809	Sok Z Mniszka Alpejsk.	Ta mikstura zrobiona jest z Mniszka Alpejskiego.	
+50810	Sok Z Ostu	Ta mikstura zrobiona jest z Ostu.	
+50811	Sok Z Daktyla	Ta mikstura zrobiona jest z Daktyli.	
+50812	Sok Z Roœliny Sam-Zi	Ta mikstura zrobiona jest z Roœliny Sam-Zi.	
+50813	Woda Sim	Mikstura sporz¹dzona z Soku Z Kwiatu Brzoskwini i Bzu. Zwiêksza szansê na zadanie Przeszywaj¹cego Ciosu o 10% na 3 minuty.	
+50814	Woda Dok	Mikstura sporz¹dzona z Soku Z Pokrzywy i Bzu. Zwiêksza szansê na zadanie krytycznego ciosu o 10% na 3 minuty.	
+50815	Woda Bo	Ta mikstura sporz¹dzona jest z Soku Z Kwiatów Kaki i Grzyba Tue. Wzmacnia twój umys³.	
+50816	Woda Young	Ta mikstura sporz¹dzona jest z Soku Z Korzeni Gango i Grzyba Tue. Wzmacnia twoje cia³o.	
+50817	Woda Zin	Mikstura sporz¹dzona z Wody Sim i Ró¿y Alpejskiej. Zwiêksza twoj¹ Wartoœæ Ataku o 50 punktów na 3 minuty.	
+50818	Woda SamBo	Mikstura sporz¹dzona z Wody Dok i Ró¿y Alpejskiej. Zwiêksza twoj¹ Obronê o 70 punktów na 3 minuty.	
+50819	Woda Mong	Mikstura sporz¹dzona z Wody Bo i Morwy. Zwiêksza twoj¹ Obronê Magiczn¹ o 10% na 3 minuty.	
+50820	Woda Hwal	Mikstura sporz¹dzona z Wody Young i Morwy. Zwiêksza Szybkoœæ Ataku o 3 punkty na 3 minuty.	
+50901	Pusta Butelka	Niezbêdna do wytwarzania mikstur.	
+50902	Przepis Dla Pocz¹tkuj¹c.	Przepis, który mo¿e zostaæ wykorzystany nawet przez pocz¹tkuj¹cych.	
+50903	Przepis	Przepis, który mo¿e zostaæ wykorzystany tylko przez doœwiadczonych graczy.	
+50904	Przepis Dla Profesjonal.	Przepis, którym mog¹ siê pos³u¿yæ tylko profesjonaliœci.	
+50905	Przepis Na Wodê Sim	Opisuje jak wytworzyæ Wodê z Soku z Kwiatu Brzoskwini i Bzu.	
+50906	Przepis Na Wodê Dok	Opisuje jak wytworzyæ Wodê z Soku z Pokrzywy i Bzu.	
+50907	Przepis Na Wodê Bo	Opisuje jak wytworzyæ Wodê z Soku Z Kwiatów Kaki i Grzyba Tue.	
+50908	Przepis Na Wodê Young	Opisuje jak wytworzyæ Wodê z Soku Z Korzenia Gango i Grzyba Tue.	
+50909	Przepis Na Wodê Zin	Opisuje jak wytworzyæ Wodê z Soku Z Kwiatów Brzoskwini, Bzu i Ró¿y Alpejskiej.	
+50910	Przepis Na Wodê Hwal	Opisuje jak wytworzyæ Wodê z Soku Z Korzenia Gango, Grzyba Tue i Morwy.	
+51001	Od³amek Energii	Od³amek kryszta³u energii - z 30 sztuk mo¿na stworzyæ kryszta³ energii.	
+51002	Kryszta³ Energii	Kryszta³ ten zwiêksza twoje bonusy na dwie godziny.	
+51501	Cor Draconis (surowe)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy surowa.	
+51502	Cor Draconis (surowe)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy surowa.	
+51503	Cor Draconis (zwyczajne)	Kryszta³owe smocze serce. Ranga: zwyczajna. Zawiera matowy Smoczy Kamieñ klasy surowa do szlifowana.	
+51504	Cor Draconis (szlachetne)	Kryszta³owe smocze serce. Ranga: szlachetna. Zawiera matowy Smoczy Kamieñ klasy surowa do rzadka.	
+51505	Cor Draconis (drogocenne)	Kryszta³owe smocze serce. Ranga: drogocenna. Zawiera matowy Smoczy Kamieñ klasy  surowa do antyczna.	
+51506	Cor Draconis (mityczne)	Kryszta³owe smocze serce. Ranga: mityczna. Zawiera matowy Smoczy Kamieñ klasy szlifowana do legendarna.	
+51507	Cor Draconis (szlifowane)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy szlifowana.	
+51508	Cor Draconis (rzadkie)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy rzadka.	
+51509	Cor Draconis (antyczne)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy antyczna.	
+51510	Cor Draconis (legendarne)	Kryszta³owe smocze serce zawiera losowy Smoczy Kamieñ klasy legendarna.	
+51511	Cor Diamas	Bia³e Cor Draconis. Zawiera losowy Smoczy Diament.	
+51512	Cor Rubinum	Czerwone Cor Draconis. Zawiera losowy Smoczy Rubin.	
+51513	Cor Jadeit	Zielone Cor Draconis. Zawiera losowy Smoczy Jadeit.	
+51514	Cor Saphirum	Niebieskie Cor Draconis. Zawiera losowy Smoczy Szafir.	
+51515	Cor Granatum	Pomarañczowe Cor Draconis. Zawiera losowy Smoczy Granat.	
+51516	Cor Atrum	Czarne Cor Draconis. Zawiera losowy Smoczy Onyks.	
+51517	Cor Diamas (zwyczajne)	Bia³e Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Diament klasy surowa do szlifowana.	
+51518	Cor Rubinum (zwyczajne)	Czerwone Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Rubin klasy surowa do szlifowana.	
+51519	Cor Jadeit (zwyczajne)	Zielone Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Jadeit klasy surowa do szlifowana.	
+51520	Cor Saphirum (zwyczajne)	Niebieski Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Szafir klasy surowa do szlifowana.	
+51521	Cor Granatum (zwyczajne)	Pomarañczowe Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Granat klasy surowa do szlifowana.	
+51522	Cor Atrum (zwyczajne)	Czarne Cor Draconis. Ranga: zwyczajna. Zawiera matowy Smoczy Onyks klasy surowa do szlifowana.	
+51523	Cor Diamas (szlachetne)	Bia³e Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Diament klasy surowa do rzadka.	
+51524	Cor Rubinum (szlachetne)	Czerwone Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Rubin klasy surowa do rzadka.	
+51525	Cor Jadeit (szlachetne)	Zielone Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Jadeit klasy surowa do rzadka.	
+51526	Cor Saphirum (szlachetne)	Niebieskie Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Szafir klasy surowa do rzadka.	
+51527	Cor Granatum (szlachetne)	Pomarañczowe Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Granat klasy surowa do rzadka.	
+51528	Cor Atrum (szlachetne)	Czarne Cor Draconis. Ranga: szlachetna. Zawiera matowy Smoczy Onyks klasy surowa do rzadka.	
+51529	Cor Diamas (drogocenne)	Bia³e Cor Draconis. ranga: drogocenna. Zawiera matowy Smoczy Diament klasy surowa do antyczna.	
+51530	Cor Rubinum (drogocenne)	Czerwone Cor Draconis. Ranga: drogocenna. Zawiera matowy Smoczy Rubin klasy surowa do antyczna.	
+51531	Cor Jadeit (drogocenne)	Zielone Cor Draconis. Ranga: drogocenna. Zawiera matowy Smoczy Jadeit klasy surowa do antyczna.	
+51532	Cor Saphirum (drogocenne)	Niebieskie Cor Draconis. Ranga: drogocenna. Zawiera matowy Smoczy Szafir klasy surowa do antyczna.	
+51533	Cor Granatum (drogocenne)	Pomarañczowe Cor Draconis. Ranga: drogocenna. Zawiera matowy Smoczy Granat klasy surowa do antyczna.	
+51534	Cor Atrum (drogocenne)	Czarne Cor Draconis. Ranga: drogocenna. Zawiera matowy Smoczy Onyks klasy surowa do antyczna.	
+51535	Cor Diamas (nieskazitelne)	Bia³e Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Diament klasy surowa do legendarna.	
+51536	Cor Rubinum (nieskazitelne)	Czerwone Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Rubin klasy surowa do legendarna.	
+51537	Cor Jadeit (nieskazitelne)	Zielone Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Jadeit klasy surowa do legendarna.	
+51538	Cor Saphirum (nieskazitelne)	Niebieskie Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Szafir klasy surowa do legendarna.	
+51539	Cor Granatum (nieskazitelne)	Pomarañczowe Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Granat klasy surowa do legendarna.	
+51540	Cor Atrum (nieskazitelne)	Czarne Cor Draconis. Ranga: nieskazitelna. Zawiera matowy Smoczy Onyks klasy surowa do legendarna.	
+51541	Cor Draconis (roz¿arzone)	Kryszta³owe smocze serce. Ranga: roz¿arzona. Zawiera matowy Smoczy Kamieñ klasy szlifowana do rzadka.	
+51542	Cor Diamas (roz¿arzone)	Bia³e Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Diament klasy szlifowana do rzadka.	
+51543	Cor Rubinum (roz¿arzone)	Czerwone Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Rubin klasy szlifowana do rzadka.	
+51544	Cor Jadeit (roz¿arzone)	Zielone Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Jadeit klasy szlifowana do rzadka.	
+51545	Cor Saphirum (roz¿arzone)	Niebieskie Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Szafir klasy szlifowana do rzadka.	
+51546	Cor Granatum (roz¿arzone)	Pomarañczowe Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Granat klasy szlifowana do rzadka.	
+51547	Cor Atrum (roz¿arzone)	Czarne Cor Draconis. Ranga: roz¿arzona. Zawiera matowy Smoczy Onyks klasy szlifowana do rzadka.	
+51548	Cor Draconis (nieskazitelne)	Kryszta³owe smocze serce. Ranga: nieskazitelna. Zawiera matowy Smoczy Kamieñ klasy surowa do legendarna.	
+51549	Cor Draconis (wieczne)	Kryszta³owe smocze serce. Ranga: wieczna. Zawiera matowy Smoczy Kamieñ klasy szlifowana do antyczna.	
+51550	Cor Diamas (wieczne)	Bia³e Cor Draconis. Ranga: wieczna. Zawiera matowy Smoczy Diament klasy szlifowana do antyczna.	
+51551	Cor Rubinum (wieczne)	Czerwone Cor Draconis. Ranga: wieczna. Zawiera matowy Smoczy Rubin klasy szlifowana do antyczna.	
+51552	Cor Jadeit (wieczne)	Zielone Cor Draconis. Ranga: zawiera matowy Smoczy Jadeit klasy szlifowana do antyczna.	
+51553	Cor Saphirum (wieczne)	Niebieskie Cor Draconis. Ranga: wieczna. Zawiera matowy Smoczy Szafir klasy szlifowana do antyczna.	
+51554	Cor Granatum (wieczne)	Pomarañczowe Cor Draconis. Ranga: wieczna. Zawiera matowy Smoczy Granat klasy szlifowana do antyczna.	
+51555	Cor Atrum (wieczne)	Czarne Cor Draconis. Ranga: wieczna. Zawiera matowy Smoczy Onyks klasy szlifowana do antyczna.	
+51556	Cor Diamas (mityczne)	Bia³e Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Diament klasy szlifowana do legendarna.	
+51557	Cor Rubinum (mityczne)	Czerwone Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Rubin klasy szlifowana do legendarna.	
+51558	Cor Jadeit (mityczne)	Zielone Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Jadeit klasy szlifowana do legendarna.	
+51559	Cor Saphirum (mityczne)	Niebieskie Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Szafir klasy szlifowana do legendarna.	
+51560	Cor Granatum (mityczne)	Pomarañczowe Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Granat klasy szlifowana do legendarna.	
+51561	Cor Atrum (mityczne)	Czarne Cor Draconis. Ranga: mityczna. Zawiera matowy Smoczy Onyks klasy szlifowana do legendarna.	
+51562	Cor Draconis (epickie)	Kryszta³owe smocze serce. Ranga: epicka. Zawiera matowy Smoczy Kamieñ klasy rzadka do antyczna.	
+51563	Cor Diamas (epickie)	Bia³e Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Diament klasy rzadka do antyczna.	
+51564	Cor Rubinum (epickie)	Czerwone Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Rubin klasy rzadka do antyczna.	
+51565	Cor Jadeit (epickie)	Zielone Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Jadeit klasy rzadka do antyczna.	
+51566	Cor Saphirum (epickie)	Niebieskie Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Szafir klasy rzadka do antyczna.	
+51567	Cor Granatum (epickie)	Pomarañczowe Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Granat klasy rzadka do antyczna.	
+51568	Cor Atrum (epickie)	Czarne Cor Draconis. Ranga: epicka. Zawiera matowy Smoczy Onyks klasy rzadka do antyczna.	
+51569	Cor Draconis (boskie)	Kryszta³owe smocze serce. Ranga: boska. Zawiera matowy Smoczy Kamieñ klasy rzadka do legendarna.	
+51570	Cor Diamas (boskie)	Bia³e Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Diament klasy rzadka do legendarna.	
+51571	Cor Rubinum (boskie)	Czerwone Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Rubin klasy rzadka do legendarna.	
+51572	Cor Jadeit (boskie)	Zielone Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Jadeit klasy rzadka do legendarna.	
+51573	Cor Saphirum (boskie)	Niebieskie Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Szafir klasy rzadka do legendarna.	
+51574	Cor Granatum (boskie)	Pomarañczowe Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Granat klasy rzadka do legendarna.	
+51575	Cor Atrum (boskie)	Czarne Cor Draconis. Ranga: boska. Zawiera matowy Smoczy Onyks klasy rzadka do legendarna.	
+51576	Cor Draconis+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Kamieñ klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51577	Cor Diamas+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Diament klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51578	Cor Rubinum+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Rubin klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51579	Cor Jadeit+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Jadeit klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51580	Cor Saphirum+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Szafir klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51581	Cor Granatum+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Granat klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51582	Cor Atrum+ (zwyczajne)	Potê¿ne Cor Draconis. Ranga: zwyczajna. Zawiera Smoczy Onyks klasy surowa do szlifowana o losowym stopniu jakoœci.	
+51583	Cor Draconis+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Kamieñ klasy surowa do rzadka o losowym stopniu jakoœci.	
+51584	Cor Diamas+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Diament klasy surowa do rzadka o losowym stopniu jakoœci.	
+51585	Cor Rubinum+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Rubin klasy surowa do rzadka o losowym stopniu jakoœci.	
+51586	Cor Jadeit+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Jadeit klasy surowa do rzadka o losowym stopniu jakoœci.	
+51587	Cor Saphirum+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Szafir klasy surowa do rzadka o losowym stopniu jakoœci.	
+51588	Cor Granatum+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Granat klasy surowa do rzadka o losowym stopniu jakoœci.	
+51589	Cor Atrum+ (szlachetne)	Potê¿ne Cor Draconis. Ranga: szlachetna. Zawiera Smoczy Onyks klasy surowa do rzadka o losowym stopniu jakoœci.	
+51590	Cor Draconis+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Kamieñ klasy surowa do antyczna o losowym stopniu jakoœci.	
+51591	Cor Diamas+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Diament klasy surowa do antyczna o losowym stopniu jakoœci.	
+51592	Cor Rubinum+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Rubin klasy surowa do antyczna o losowym stopniu jakoœci.	
+51593	Cor Jadeit+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Jadeit klasy surowa do antyczna o losowym stopniu jakoœci.	
+51594	Cor Saphirum+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Szafir klasy surowa do antyczna o losowym stopniu jakoœci.	
+51595	Cor Granatum+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Granat klasy surowa do antyczna o losowym stopniu jakoœci.	
+51596	Cor Atrum+ (drogocenne)	Potê¿ne Cor Draconis. Ranga: drogocenna. Zawiera Smoczy Onyks klasy surowa do antyczna o losowym stopniu jakoœci.	
+51597	Cor Draconis+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Kamieñ klasy surowa do legendarna o losowym stopniu jakoœci.	
+51598	Cor Diamas+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Diament klasy surowa do legendarna o losowym stopniu jakoœci.	
+51599	Cor Rubinum+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Rubin klasy surowa do legendarna o losowym stopniu jakoœci.	
+51600	Cor Jadeit+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Jadeit klasy surowa do legendarna o losowym stopniu jakoœci.	
+51601	Cor Saphirum+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Szafir klasy surowa do legendarna o losowym stopniu jakoœci.	
+51602	Cor Granatum+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Granat klasy surowa do legendarna o losowym stopniu jakoœci.	
+51603	Cor Atrum+ (nieskazitelne)	Potê¿ne Cor Draconis. Ranga: nieskazitelna. Zawiera Smoczy Onyks klasy surowa do legendarna o losowym stopniu jakoœci.	
+51604	Cor Draconis+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Kamieñ klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51605	Cor Diamas+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Diament klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51606	Cor Rubinum+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Rubin klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51607	Cor Jadeit+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Jadeit klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51608	Cor Saphirum+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Szafir klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51609	Cor Granatum+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Granat klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51610	Cor Atrum+ (roz¿arzone)	Potê¿ne Cor Draconis. Ranga: roz¿arzona. Zawiera Smoczy Onyks klasy szlifowana do rzadka o losowym stopniu jakoœci.	
+51611	Cor Draconis+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Kamieñ klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51612	Cor Diamas+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Diament klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51613	Cor Rubinum+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Rubin klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51614	Cor Jadeit+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Jadeit klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51615	Cor Saphirum+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Szafir klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51616	Cor Granatum+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Granat klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51617	Cor Atrum+ (wieczne)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Onyks klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51618	Cor Draconis+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Kamieñ klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51619	Cor Diamas+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Diament klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51620	Cor Rubinum+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Rubin klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51621	Cor Jadeit+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Jadeit klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51622	Cor Saphirum+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Szafir klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51623	Cor Granatum+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Granat klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51624	Cor Atrum+ (mityczne)	Potê¿ne Cor Draconis. Ranga: mityczna. Zawiera Smoczy Onyks klasy szlifowana do legendarna o losowym stopniu jakoœci.	
+51625	Cor Draconis+ (epickie)	Potê¿ne Cor Draconis. Ranga: epicka. Zawiera Smoczy Kamieñ klasy rzadka do antyczna o losowym stopniu jakoœci.	
+51626	Cor Diamas+ (epickie)	Potê¿ne Cor Draconis. Ranga: epicka. Zawiera Smoczy Diament klasy rzadka do antyczna o losowym stopniu jakoœci.	
+51627	Cor Rubinum+ (epickie)	Potê¿ne Cor Draconis. Ranga: epicka. Zawiera Smoczy Rubin klasy rzadka do antyczna o losowym stopniu jakoœci.	
+51628	Cor Jadeit+ (epickie)	Potê¿ne Cor Draconis. Ranga: epicka. Zawiera Smoczy Jadeit klasy rzadka do antyczna o losowym stopniu jakoœci.	
+51629	Cor Saphirum+ (epickie)	Potê¿ne Cor Draconis. Ranga: epicka. Zawiera Smoczy Szafir klasy rzadka do antyczna o losowym stopniu jakoœci.	
+51630	Cor Granatum+ (epickie)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Granat klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51631	Cor Atrum+ (epickie)	Potê¿ne Cor Draconis. Ranga: wieczna. Zawiera Smoczy Onyks klasy szlifowana do antyczna o losowym stopniu jakoœci.	
+51632	Cor Draconis+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Kamieñ klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51633	Cor Diamas+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Diament klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51634	Cor Rubinum+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Rubin klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51635	Cor Jadeit+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Jadeit klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51636	Cor Saphirum+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Szafir klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51637	Cor Granatum+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Granat klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51638	Cor Atrum+ (boskie)	Potê¿ne Cor Draconis. Ranga: boska. Zawiera Smoczy Onyks klasy rzadka do legendarna o losowym stopniu jakoœci.	
+51639	Smocza Skrzynia	Lazurowa skrzynia zawiera jedenaœcie zwyczajnych Cor Draconis.	
+51640	Smocza Skrzynia+	Lazurowa skrzynia zawiera jedenaœcie potê¿nych Cor Draconis rangi "zwyczajna" oraz Zielon¹ Smocz¹ Fasolê.	
+51641	Smocza Skrzynia+ (kolorowa)	Lazurowa skrzynia zawiera potê¿ne Cor Draconis w ka¿dym kolorze rangi "zwyczajna" oraz Zielon¹ Smocz¹ Fasolê.	
+51642	Smocza Skrzynia (kolorowa)	Lazurowa skrzynia zawiera zwyczajne Cor Draconis w ka¿dym kolorze oraz Zielon¹ Smocz¹ Fasol¹.	
+51643	Szlachetna Smocza Skrzynia	Lazurowa skrzynia zawiera jedenaœcie szlachetnych Cor Draconis.	
+51644	Szlachetna Smocza Skrzynia+	Lazurowa skrzynia zawiera jedenaœcie potê¿nych Cor Draconis rangi "szlachetna" oraz Zielon¹ Smocz¹ Fasolê.	
+51645	Szlachetna Smocza Skrzynia+ (kolor.)	Lazurowe skrzynia zawiera potê¿ne Cor Draconis w ka¿dym kolorze rangi "szlachetna" oraz Zielon¹ Smocz¹ Fasolê.	
+51646	Szlachetna smocza Skrzynia (kolor.)	Lazurowa skrzynia zawiera szlachetne Cor Draconis w ka¿dym kolorze oraz Zielon¹ Smocz¹ Fasolê.	
+52001	Pieczêæ Dzik	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.
+52002	M³ody Dzik (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Dzika, który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52003	M³ody Dzik (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Dzika, który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52004	M³ody Dzik (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Dzika, który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52005	M³ody Dzik (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Dzika, który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52006	Dziki Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Dzika, który nadaje swojemu jeŸdŸcowi +3% si³y w walce z potworami.	
+52007	Dziki Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Dzika, który przynosi swojemu jeŸdŸcowi +3% doœwiadczenia.	
+52008	Dziki Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Dzika, który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52009	Dziki Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Dzika, który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52010	Dziki Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Dzika, który podwy¿sza atak swojego jeŸdŸca o 30.	
+52011	Dzielny Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Dzika, który nadaje swojemu jeŸdŸcowi +5% si³y w walce z potworami.	
+52012	Dzielny Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Dzika, który przynosi swojemu jeŸdŸcowi +5% doœwiadczenia.	
+52013	Dzielny Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Dzika, który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52014	Dzielny Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Dzika, który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52015	Dzielny Dzik (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Dzika, który podwy¿sza atak swojego jeŸdŸca o 100.	
+52016	M³ody Wilk (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Wilka, który, po przejœciu szkolenia bojowego, nadaje swojemu jeŸdŸcowi maks. 5% si³y w walce z potworami.	
+52017	M³ody Wilk (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Wilka, który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52018	M³ody Wilk (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Wilka, który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52019	M³ody Wilk (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Wilka, który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52020	M³ody Wilk (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Wilka, który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52021	Dziki Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Wilka, który nadaje swojemu jeŸdŸcowi +3% si³y w walce z potworami.	
+52022	Dziki Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Wilka, który przynosi swojemu jeŸdŸcowi +3% doœwiadczenia.	
+52023	Dziki Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Wilka, który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52024	Dziki Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Wilka, który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52025	Dziki Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Wilka, który podwy¿sza atak swojego jeŸdŸca o 30.	
+52026	Dzielny Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Wilka, który nadaje swojemu jeŸdŸcowi +5% si³y w walce z potworami.	
+52027	Dzielny Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Wilka, który przynosi swojemu jeŸdŸcowi +5% doœwiadczenia.	
+52028	Dzielny Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Wilka, który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52029	Dzielny Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Wilka, który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52030	Dzielny Wilk (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Wilka, który podwy¿sza atak swojego jeŸdŸca o 100.	
+52031	M³ody Lew (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Lwa, który, po przejœciu szkolenia bojowego, nadaje swojemu jeŸdŸcowi maks. 5% si³y w walce z potworami.	
+52032	M³ody Lew (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Lwa, który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52033	M³ody Lew (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Lwa, który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52034	M³ody Lew (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Lwa, który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52035	M³ody Lew (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Lwa, który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52036	Dziki Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Lwa, który nadaje swojemu jeŸdŸcowi +3% si³y w walce z potworami.	
+52037	Dziki Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Lwa, który przynosi swojemu jeŸdŸcowi +3% doœwiadczenia.	
+52038	Dziki Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Lwa, który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52039	Dziki Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Lwa, który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52040	Dziki Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Lwa, który podwy¿sza atak swojego jeŸdŸca o 30.	
+52041	Dzielny Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Lwa, który nadaje swojemu jeŸdŸcowi +5% si³y w walce z potworami.	
+52042	Dzielny Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Lwa, który przynosi swojemu jeŸdŸcowi +5% doœwiadczenia.	
+52043	Dzielny Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Lwa, który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52044	Dzielny Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Lwa, który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52045	Dzielny Lew (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Lwa, który podwy¿sza atak swojego jeŸdŸca o 100.	
+52046	M³ody Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Tygrysa, który, po przejœciu szkolenia bojowego, nadaje swojemu jeŸdŸcowi maks. 5% si³y w walce z potworami.	
+52047	M³ody Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Tygrysa, który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52048	M³ody Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Tygrysa, który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52049	M³ody Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Tygrysa, który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52050	M³ody Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje M³odego Tygrysa, który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52051	Dziki Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Tygrysa, który nadaje swojemu jeŸdŸcowi +3% si³y w walce z potworami.	
+52052	Dziki Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Tygrysa, który przynosi swojemu jeŸdŸcowi +3% doœwiadczenia.	
+52053	Dziki Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Tygrysa, który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52054	Dziki Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Tygrysa, który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52055	Dziki Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzikiego Tygrysa, który podwy¿sza atak swojego jeŸdŸca o 30.	
+52056	Dzielny Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Tygrysa, który nadaje swojemu jeŸdŸcowi +5% si³y w walce z potworami.	
+52057	Dzielny Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Tygrysa, który przynosi swojemu jeŸdŸcowi +5% doœwiadczenia.	
+52058	Dzielny Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Tygrysa, który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52059	Dzielny Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Tygrysa, który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52060	Dzielny Tygrys (Pieczêæ)	Pieczêæ ta przywo³uje Dzielnego Tygrysa, który podwy¿sza atak swojego jeŸdŸca o 100.	
+52061	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (m), który, po przejœciu szkolenia bojowego, nadaje swojemu jeŸdŸcowi maks. 5% si³y w walce z potworami.	
+52062	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (m), który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52063	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (m), który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52064	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (m), który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52065	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (m), który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52066	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje twojego Dzikiego Renifera (m), który dodaje swojemu jeŸdŸcowi +3% si³y przeciwko potworom.	
+52067	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje twojego Dzikiego Renifera (m), który zwiêksza zysk doœwiadczenia o 3%.	
+52068	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (m), który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52069	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (m), który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52070	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (m), który podwy¿sza atak swojego jeŸdŸca o 30.	
+52071	Piecz. Dziel. Renifera	Pieczêæ ta przywo³uje twojego Dzielnego Renifera (m), który dodaje swojemu jeŸdŸcowi +5% si³y przeciwko potworom.	
+52072	Piecz. Dziel. Renifera	Pieczêæ ta przywo³uje twojego Dzielnego Renifera (m), który zwiêksza zysk doœwiadczenia o 3%.	
+52073	Piecz. Dziel. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (m), który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52074	Piecz. Dziel. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (m), który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52075	Piecz. Dziel. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (m), który podwy¿sza atak swojego jeŸdŸca o 100.	
+52076	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (¿), który, po przejœciu szkolenia bojowego, nadaje swojemu jeŸdŸcowi maks. 5% si³y w walce z potworami.	
+52077	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (¿), który, po przejœciu szkolenia bojowego, przynosi swojemu jeŸdŸcowi maks. 5% dodatkowych PD.	
+52078	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (¿), który, po przejœciu szkolenia bojowego, podwy¿sza P¯ swojego jeŸdŸca o maks. 500.	
+52079	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (¿), który, po przejœciu szkolenia bojowego, podwy¿sza obronê swojego jeŸdŸca o maks. 150.	
+52080	Pieczêæ M³odego Renifera	Pieczêæ ta przywo³uje M³odego Renifera (¿), który, po przejœciu szkolenia bojowego, podwy¿sza atak swojego jeŸdŸca o maks. 100.	
+52081	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje twojego Dzikiego Renifera (¿), który dodaje swojemu jeŸdŸcowi +3% si³y przeciwko potworom.	
+52082	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (¿), który przynosi swojemu jeŸdŸcowi +3% doœwiadczenia.	
+52083	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (¿), który podwy¿sza P¯ swojego jeŸdŸca o 250.	
+52084	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (¿), który podwy¿sza obronê swojego jeŸdŸca o 50.	
+52085	Piecz. Dzikiego Renifera	Pieczêæ ta przywo³uje Dzikiego Renifera (¿), który podwy¿sza atak swojego jeŸdŸca o 30.	
+52086	Piecz. Dzieln. Renifera	Pieczêæ ta przywo³uje twojego Dzielnego Renifera (¿), który dodaje swojemu jeŸdŸcowi +5% si³y przeciwko potworom.	
+52087	Piecz. Dzieln. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (¿), który przynosi swojemu jeŸdŸcowi +5% doœwiadczenia.	
+52088	Piecz. Dzieln. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (¿), który podwy¿sza P¯ swojego jeŸdŸca o 500.	
+52089	Piecz. Dzieln. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (¿), który podwy¿sza obronê swojego jeŸdŸca o 150.	
+52090	Piecz. Dzieln. Renifera	Pieczêæ ta przywo³uje Dzielnego Renifera (¿), który podwy¿sza atak swojego jeŸdŸca o 100.	
+52701	Œwiadectwo Lwa	Œwiadectwo posiadania M³odego Lwa	
+52702	Œwiadectwo Tygrysa	Œwiadectwo posiadania M³odego Tygrysa	
+52703	Œwiadectwo Dzika	Œwiadectwo posiadania M³odego Dzika	
+52704	Œwiadectwo Wilka	Œwiadectwo posiadania M³odego Wilka	
+52705	Œwiadectwo Renifera (m)	Œwiadectwo posiadania M³odego Renifera (m)	
+52706	Œwiadectwo Renifera (¿)	Œwiadectwo posiadania M³odego Renifera (¿)	
+53001	Ognisty Feniks	Za pomoc¹ tej pieczêci mo¿esz przywo³aæ swojego przyjaciela Ognistego Feniksa.
+53002	Reniferek	Za pomoc¹ tej pieczêci mo¿esz przywo³aæ Reniferka.
+53003	Lodowy Feniks	Za pomoc¹ tej pieczêci mo¿esz przywo³aæ swojego przyjaciela, Lodowego Feniksa.
+53004	Azraeluœ	Mini-wersja w³adcy demonów wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da ci od 2. poziomu Wie¿y Demonów oraz 2. poziomu Diabelskich Katakumb bonus w postaci
+53005	Azraeluœ (z³oty)	Mini-wersja w³adcy demonów wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da ci od 2. poziomu Wie¿y Demonów oraz 2. poziomu Diabelskich Katakumb bonus w postaci
+53006	Bambi	Za pomoc¹ tej pieczêci przywo³ujesz swojego renifera Bambi. Zwierzak daje ci
+53007	Knuud	Za pomoc¹ tej pieczêci przywo³ujesz swojego œlicznego polarnego niedŸwiadka. Zwierzak daje ci
+53008	Bao Bao	Za pomoc¹ tej pieczêci przywo³ujesz swoj¹ œliczniutk¹ pandê. Zwierzak daje ci
+53009	Leonidas	Za pomoc¹ tej pieczêci przywo³ujesz swojego lwa Leonidasa. Zwierzak daje ci
+53010	Khan	Za pomoc¹ tej pieczêci przywo³ujesz swojego tygrysa Khana. Zwierzak daje ci
+53011	Boczuœ	Za pomoc¹ tej pieczêci przywo³ujesz swojego warchlaka Boczusia. Zwierzak daje ci
+53012	Rufus	Za pomoc¹ tej pieczêci przywo³ujesz swojego wilka Rufusa. Zwierzak daje ci
+53014	Pieczêæ Kata	Pieczêæ ta przywo³uje grubiutkiego kata w czarnej zbroi. Wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da Ci bonus w postaci 1500 P¯ oraz +15% do zadawanych obra¿eñ.
+53015	Pieczêæ Kata (z³ota)	Pieczêæ ta przywo³uje grubiutkiego kata w z³otej zbroi. Wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da Ci bonus w postaci 1500 P¯ oraz +15% do zadawanych obra¿eñ.
+53016	Pieczêæ Kostka	Pieczêæ ta przywo³uje twojego koœcianego pupila Kostka. Wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da Ci bonus w postaci 1500 P¯ oraz +15% do zadawanych obra¿eñ.
+53017	Pieczêæ Feniksa Jadeitu	Ta pieczêæ przywo³uje uroczego Feniksa Jadeitu. Wymaga wyj¹tkowo du¿o mi³oœci, a w zamian da Ci bonus w postaci 1500 P¯ oraz +15% do zadawanych obra¿eñ.
+53501			
+53502	Skrzynia Reniferka	W tej skrzyni wierci siê ma³y Reniferek i czeka, aby go wypuœciæ.	
+53503	Klatka Lodowego Feniksa	W klatce tej czeka Lodowy Feniks, aby go wypuœciæ.	
+53504			
+53506			
+53516	Trupia Skrzynia	Zawiera losowy przedmiot. Przy odrobinie szczêœcia znajdziesz tam koœcianego pupila, który wabi siê Kostek.
+53517	Jadeitowa Klatka	W tej klatce czeka na uwolnienie przez ciebie rzadki Feniks Jadeitu.
+54700	Skrzynia Berana-Setaou	Ta skrzynia zosta³a wydobyta z Groty Wygnañców. Znajduje siê w niej prawdziwy królewski skarb. Przedmiot ten jest zdatny do handlu.
+60001	¯ó³æ	Substancja wspomagaj¹ca soki trawienne.	
+60002	Rekomend. Od Dozorcy	Nieczytelna notatka napisana przez Dozorcê na starym pergaminie.	
+60003	Heroiczny Symbol	Przedmiot, który uznawany jest za symbol prawdziwej odwagi.	
+70002	Trzecia Rêka	Rêka, która automatycznie podnosi Yang.	
+70003	Ksi¹¿ka Lidera	Kiedy przedmiot ten noszony jest przez lidera grupy, Punkty Doœwiadczenia zdobywane przez grupê s¹ zwiêkszone o 30%.	
+70004	Medal Za Pracowitoœæ	Nagroda dla ciê¿ko pracuj¹cego. Otrzymujesz 20% wiêcej punktów doœwiadczenia w walce.	
+70005	Pierœcieñ Doœwiadczenia	Kiepsko wygl¹daj¹cy pierœcieñ noszony przez staro¿ytnych bohaterów. Zdobywasz wiêcej punktów doœwiadczenia kiedy go u¿ywasz.	Brak mo¿liwoœci zdejmowania.
+70006	Pierœcieñ Jêzyka	Staro¿ytny pierœcieñ, który zosta³ wykuty dla dyplomatów. Dziêki niemu mo¿esz porozumiewaæ siê z osobami z innych królestw.	
+70008	Bia³a Flaga	Sygnalizuje poddanie siê.	
+70009	Szkatu³ka	Bogato zdobiona Szkatu³ka. Mo¿e zostaæ otworzona tylko przy u¿yciu specjalnego klucza.	
+70010	Bilet Do Magazynu	Dokument, który pomaga lepiej zaprojektowaæ pomieszczenia magazynu.	
+70012	£za Bogini	Istnieje opowieœæ mówi¹ca o tym, ¿e stare kobiety Szamanki pociesza³y dusze bohaterów Taehwas, które walczy³y przeciwko z³u.	
+70013	Olbrz. £za Bogini	£za staro¿ytnej tancerki Tae-Hwa pociesza duszê wojownika.	
+70014	Pigu³ka Krwi	Pigu³ka zrobiona z martwej krwi. Ma zdolnoœci halucynogenne.	
+70015	Tania Szczotka	Powszechnie stosowana solidna szczotka z drewnianym uchwytem.	
+70019	Naszyjnik Zapomnienia	Naszyjnik ten blokuje zdobywanie nowych punktów doœwiadczenia.	
+70020	Wino z Kwiatu Brzoskwini	Mikstura, która natychmiast regeneruje 500 Punktów ¯ycia.	
+70024	Marmur B³ogos³awieñstwa	Legendarny, b³ogos³awiony marmur. Je¿eli przedmiot ma 4 atrybuty, dodaje kolejny atrybut.	
+70027	Notatka Kowala	Notatka Kowala pokazuj¹ca jak ulepszaæ bronie.	
+70031	Broszura Szermierki	Ta broszura zawiera informacje o potencjale i s³aboœciach ludzkiej anatomii.	
+70035	Magiczna Ruda Miedzi	Jeœli u¿yjesz go na ulepszonym Zwoju B³ogos³awieñstwa, mo¿esz stworzyæ Zwój B³ogos³awieñstwa Boga Wojny.	
+70037	Ksiêga Zapomnienia	Legendarna ksi¹¿ka, która usuwa z pamiêci nauczon¹ umiejêtnoœæ ca³kowicie. Mo¿esz przenieœæ jeden punkt umiejêtnoœci.	
+70038	Peleryna Mêstwa	Staro¿ytni wojownicy okazywali swoje mêstwo poprzez noszenie kolorowych peleryn. By³ to sposób na zwabienie wszystkich potworów z okolicy.	
+70039	Podrêcznik Kowala	Ksiêga zawiera duszê starego kowala. Jeœli jej u¿yjesz, zwiêkszy to szansê na pomyœlne ulepszenie przedmiotu.	
+70040	Upartoœæ Orków	Zmniejsza zu¿ycie Wytrzyma³oœci o po³owê.	
+70043	Rêkawica Z³odzieja	Podwaja szansê na wypadniêcie przedmiotu.	Brak mo¿liwoœci zdejmowania.
+70047	Pierœcieñ Jêz.(Przyk³ad)	Niegdyœ pierœcieñ ten zosta³ wyprodukowany dla krêgów dyplomatycznych. Dziêki niemu mo¿na rozmawiaæ w jêzyku innych królestw.	
+70048	P³aszcz Uciekiniera	Bezcenna peleryna u¿ywana przez wielu uciekinierów. Gdy j¹ za³o¿ysz, twoja ranga zostanie ukryta.	
+70049	Pierœcieñ Lucy	Grawerunek na pierœcieniu g³osi: "Niech b³ogos³awi Ciê Bóg Smoków". Pierœcieñ ten obni¿a ryzyku utracenia przedmiotu w walce.	
+70050	Symb. Króla Przepowiedni	Dziedziczony symbol staro¿ytnej królewskiej rodziny, który daje w³aœcicielowi wielk¹ moc.	
+70051	Rêkawica Króla Przepow.	Dziedziczony symbol staro¿ytnej królewskiej rodziny, który daje w³aœcicielowi tajemnicz¹ moc.	
+70052	Amulet Karmy 1	Talizman u¿ywany przez Buddystów do ochrony przez pechem.	
+70053	Amulet Karmy 2	Talizman u¿ywany przez Buddystów do ochrony przez pechem.	
+70054	Amulet Karmy 3	Talizman u¿ywany przez Buddystów do ochrony przez pechem.	
+70056	Sok z Owocu Granatu+	Napój, który natychmiastowo regeneruje 1000 P¯	
+70057	Peleryna Mêstwa	Za pomoc¹ tej peleryny wojownicy niegdyœ dowodzili swej odwagi, poniewa¿ jej jaskrawe kolory zwabiaj¹ wszystkie potwory z okolic. Przedmiot ten jest zdatny do handlu.	
+70058	Pierœcieñ Teleportacji	Pierœcieñ umo¿liwia teleportacjê do wybranego przez Ciebie miejsca.
+70102	Fasolka Zen	Zmniejsza przynale¿noœæ do z³a|Zwiêksza przynale¿noœæ do dobra	
+70104	Marmur Polimorfii	Mo¿esz zamieniæ siê w potwora ukrytego w marmurze.	
+70105	Marmur Polimorfii	Mo¿esz zamieniæ siê w potwora ukrytego w marmurze.	
+70106	Marmur Polimorfii	Mo¿esz zamieniæ siê w potwora ukrytego w marmurze.	
+70107	Marmur Polimorfii	Mo¿esz zamieniæ siê w potwora ukrytego w marmurze.	
+70201	Wybielacz	Przywraca oryginalny kolor w³osów. Takie w³osy mog¹ byæ farbowane.	
+70202	Bia³a Farba Do W³osów	Farbuje w³osy na bia³o.|Mo¿esz farbowaæ w³osy raz na 3 poziomy.	
+70203	Blond Farba Do W³osów	Farbuje w³osy na blond.|Mo¿esz farbowaæ w³osy raz na 3 poziomy.	
+70204	Czerw. Farba Do W³osów	Farbuje w³osy na czerwono.|Mo¿esz farbowaæ w³osy raz na 3 poziomy.	
+70205	Br¹zowa Farba Do W³osów	Farbuje w³osy na br¹zowo.|Mo¿esz farbowaæ w³osy raz na 3 poziomy.	
+70206	Czarna Farba Do W³osów	Farbuje w³osy na czarno.|Mo¿esz farbowaæ w³osy raz na 3 poziomy.	
+70301	Pierœcionek Zarêczynowy	Pierœcionek noszony przez kochanków.	
+70302	Obr¹czka Œlubna	Pierœcionek noszony przez ma³¿eñstwo.	
+71001	Zwój Egzorcyzmu	Uwalnia Ciê od kl¹twy z³ego ducha.	Efekt dzia³a tylko na umiejêtnoœci wspomagaj¹ce postaæ.
+71002	Zwój Powrotu Statusu	Przedmiot ten umo¿liwia Ci ponowne wydanie twoich Punktów Statystyk. Tak wiêc mo¿esz rozwijaæ postaæ w inny sposób.	
+71003	Zwój Powrotu Umiejêtn.	Resetuje Punkty Umiejêtnoœci.	
+71004	Medal Smoka	Chroni przed utrat¹ Punktów Doœwiadczenia po œmierci postaci.	
+71005	Pierœcieñ Jêzyka	Mo¿esz u¿ywaæ wszystkich imperialnych jêzyków przez 7 dni. (Brak mo¿liwoœci przekazywania!)	
+71006	Pierœcieñ Jêzyka	Mo¿esz u¿ywaæ wszystkich imperialnych jêzyków przez 15 dni. (Brak mo¿liwoœci przekazywania!)	
+71007	Pierœcieñ Jêzyka	Mo¿esz u¿ywaæ wszystkich imperialnych jêzyków przez 30 dni. (Brak mo¿liwoœci przekazywania!)	
+71008	Rybie Wnêtrznoœci	Szansa na z³apanie rzadkiej ryby podwaja siê. (Brak mo¿liwoœci przekazywania!)	
+71009	Powiêkszony Sk³ad	Do twojego magazynu zostan¹ dodane dwie dodatkowe zak³adki.	
+71010	Trzecia Rêka	Rêka, która automatycznie podnosi Yang.	
+71011	Maska Uczuæ	Mo¿esz okazywaæ swoje emocje przez 30 dni.	
+71012	Ksi¹¿ka Lidera	Kiedy przedmiot noszony jest przez lidera grupy, punkty zdobywane przez grupê s¹ zwiêkszone o 30%. (Brak mo¿liwoœci przekazywania!)	
+71013	Fajerwerki	Wype³niaj¹ niebo podczas festiwalu. (Brak mo¿liwoœci przekazywania!)	
+71014	Mikstura Ataku +10	Zwiêksza twoj¹ Szybkoœæ Ataku o 10% na okres 30 minut.	
+71015	Pierœcieñ Doœwiadczenia	Otrzymujesz w walce 50% wiêcej Punktów Doœwiadczenia.	
+71016	Rêkawica Z³odzieja	Podwaja szansê na zdobycie przedmiotu.	
+71017	Medal Szczêœcia	Podwaja szansê na zdobycie Yang. | Czas trwania 30 minut. (Brak mo¿liwoœci przekazywania!)	
+71018	B³ogos³awieñstwo ¯ycia	B³ogos³awieñstwo, które natychmiast regeneruje twoje Punkty ¯ycia do 100%.	
+71019	B³ogos³awieñstwo Magii	Natychmiastowo odnawia wszystkie Punkty Energii.	
+71020	B³ogos³awieñstwo Smoka	B³ogos³awieñstwo, które natychmiast regeneruje twoje Punkty ¯ycia oraz Punkty Energii do 100%.	
+71021	Zwój Wojny	Zwój do ulepszeñ pob³ogos³awiony przez Boga Wojny. Gwarantuje pomyœlne ulepszenie przedmiotu (od +0 do +3).	
+71022	Powrót - Inteligencja	Resetuje Punkty Inteligencji.	
+71023	Powrót - Witalnoœæ	Resetuje status Witalnoœci.	
+71024	Powrót - Si³a	Resetuje status Si³y.	
+71025	Kamieñ Kowala	Dziêki temu Kamieniowi i Zwojowi B³ogos³awieñstwa, mo¿esz wytworzyæ u Kowala Podrêcznik Kowala.	
+71026	Magiczny Metal	Metal potrzebny do wytworzenia Zwoju Smoka - wraz ze Zwojem B³ogos³awieñstwa u Kowala.	
+71027	¯ycie Boga Smoków	Zwiêksza iloœæ Punktów ¯ycia o 20% na okres 30 minut.	
+71028	Atak Boga Smoków	Zwiêksza obra¿enie jakie zadajesz podczas walki o 12-15% przez 30 min.	
+71029	Inteligencja Boga Smoków	Zwiêksza iloœæ Punktów Energii o 20% przez 30 min.	
+71030	Obrona Boga Smoków	Zmniejsza obra¿enia jakie otrzymujesz podczas walki o 12-15% przez 30 min.	
+71031	Wsparcie Boga Smoków	Witalnoœæ, Si³a, Inteligencja oraz Zrêcznoœæ twojej postaci zostan¹ tymczasowo zwiêkszone piêciokrotnie.	
+71032	Zwój Boga Smoków	Zwiêksza szansê na ulepszenie przedmiotu o 10% i przedmiot nie ulega zniszczeniu gdy ulepszenie zawiedzie. W przypadku niepowodzenia, jakoœæ przedmiotu jest redukowana o 1 poziom.	
+71033	Maska Uczuæ	Mo¿esz wyra¿aæ swoje uczucia przez 15 dni.	
+71034	Mikstura Ataku +15	Zwiêksza twoj¹ Szybkoœæ Ataku o 15% na okres 30 minut.	
+71035	Eliksir Poszukiwacza	Poprawia jakoœæ przedmiotów przeznaczonych do badañ, co powoduje zwiêkszenie szansy na ich przyjêcie.	
+71036	Zwój Przyw. - Wódz Orków	U¿yj, aby przyzwaæ Wodza Orków blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71037	Zwój Przyw. - Ezot. W³.	U¿yj, aby przyzwaæ Ezoterycznego W³adcê blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71038	Zwój Przyw. - Król. Paj.	U¿yj, aby przyzwaæ Królow¹ Paj¹ków blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71039	Zwój Przyw. - Pust. ¯ó³w	U¿yj, aby przyzwaæ Olbrzymiego Pustynnego ¯ó³wia blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71040	Zwój Przyw. - Ogn. Król	U¿yj, aby przyzwaæ Ognistego Króla blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71041	Zwój Przyw. - 9 Ogonów	U¿yj, aby przyzwaæ Dziewiêæ Ogonów blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71042	Zwój Przyw. - Król Dem.	U¿yj, aby przyzwaæ Króla Demonów blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71043	Zwój Przyw. - Duch Tygr.	U¿yj, aby przyzwaæ Zjawê ¯ó³tego Tygrysa blisko postaci. B¹dŸ ostro¿ny! To BOSS!	
+71044	D³oñ Krytyka	Podnosi szansê na zadanie krytycznego uderzenia podczas walki o 20% przez 10 minut.	
+71045	D³oñ Przebicia	Podnosi szansê na zadanie przeszywaj¹cego uderzenia podczas walki o 20% przez 10 minut.	
+71047	Olejek Kamienia Dusz	Usuwa umieszczony Kamieñ Duszy z jednego z twoich przedmiotów.	
+71048	Zaklêcie Modyfikacji	Zaklêcie pozwala zmieniæ p³eæ twojej postaci.	
+71049	Szpula Jedwabiu	Dziêki temu przedmiotowi mo¿esz za darmo otwieraæ swój Sklep przez 10 dni.	
+71050	Mikstura Szybkoœci	Zwiêksza Szybkoœæ Ruchu o 60 na 30 minut.	
+71051	Magiczny Przedmiot	Usuwa specjalny bonus z jednego z twoich przedmiotów i dodaje nowy.	
+71052	B³ogos³aw. Przedmiotu	Dodaje specjalny nowy Bonus do jednego z twoich przedmiotów, je¿eli ju¿ go nie posiada.	
+71054	Olejek Wygnania	Przedmiot ten umo¿liwia przeniesienie postaci do innego Królestwa. Uwaga: za zmianê Królestwa pobierana jest op³ata w wysokoœci 500.000 Yang.	
+71055	Olejek Nazwy	Zmienia nazwê gracza.	
+71056	Olejek Niebios	Zwiêksza szansê na pomyœlne ulepszenie Kamienia Duszy.	
+71057	Zwój Przyw. - ¯.S. Drew.	Przyzywa ¯y³ê Skamienia³ego Drzewa blisko postaci.	
+71058	Zwój Przyw. - ¯. Miedzi	Przyzywa ¯y³ê Miedzi blisko postaci.	
+71059	Zwój Przyw. - ¯. Srebra	Przyzywa ¯y³ê Srebra blisko postaci.	
+71060	Zwój Przyw. - ¯y³a Z³ota	Przyzywa ¯y³ê Z³ota blisko postaci.	
+71061	Zwój Przyw. - ¯. Jadeitu	Przyzywa ¯y³ê Jadeitu blisko postaci.	
+71062	Zwój Przyw. - ¯. Ebonitu	Przyzywa ¯y³ê Ebonitu blisko postaci.	
+71063	Zwój Przyw. - S. Muszli	Przyzywa Stertê Muszli blisko postaci.	
+71064	Zwój Przyw. - ¯.B. Z³ota	Przyzywa ¯y³ê Bia³ego Z³ota blisko postaci.	
+71065	Zwój Przyw. - ¯. Kryszt.	Przyzywa ¯y³ê Kryszta³u blisko postaci.	
+71066	Zwój Przyw. - ¯. Amet.	Przyzywa ¯y³ê Ametystu blisko postaci.	
+71067	Zwój Przyw. - ¯.N. £ez	Przyzywa ¯y³ê Niebiañskich £ez blisko postaci.	
+71068	Pióro Ptaka Mi³oœci	Kiedy je nosisz, zwiêkszaj¹ siê twoje Punkty Mi³oœci 2x szybciej.	
+71069	Kolczyki Harmonii	Zwiêkszaj¹ szansê ma³¿eñstwa na zadanie Przeszywaj¹cego Uderzenia na 3 godziny maksymalnie o 8%, gdy s¹ noszone przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt	
+71070	Bransoleta Mi³oœci	Zwiêksza iloœæ otrzymywanych Punktów Doœwiadczenia ma³¿eñstwa na 3 godziny maksymalnie o 20%, gdy jest noszona przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt 	
+71071	Kolczyki Mi³oœci	Zwiêksza szansê ma³¿eñstwa na zadanie ciosów krytycznych na 3 godziny maksymalnie o 8%, gdy s¹ noszone przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt zmniejsz	
+71072	Bransoleta Harmonii	Zmniejsza si³ê ataku potworów na ma³¿eñstwo przez 3 godziny maksymalnie o 15%, gdy jest noszona przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt zmniejsza siê o	
+71073	Naszyjnik Mi³oœci	Zwiêksza si³ê ataku ma³¿eñstwa na 3 godziny maksymalnie o 40, gdy jest noszony przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt zmniejsza siê o po³owê.	
+71074	Naszyjnik Harmonii	Zwiêksza si³ê obrony ma³¿eñstwa na 3 godziny maksymalnie o 30, gdy jest noszony przez jednego z partnerów. Efekt przedmiotu zale¿y od procentu Punktów Mi³oœci. Jeœli para posiada np. 50% Punktów Mi³oœci, to maksymalny efekt zmniejsza siê o po³owê.	
+71075	Farba do W³osów (Bia³a)	Farbuje w³osy na bia³o.	
+71076	Farba do W³osów (Blond)	Farbuje w³osy na blond.	
+71077	Farba do W³osów (Czerw.)	Farbuje w³osy na czerwono.	
+71078	Farba do W³osów (Br¹z.)	Farbuje w³osy na br¹zowo.	
+71079	Farba do W³osów (Czarna)	Farbuje w³osy na czarno.	
+71080	Kamieñ Metin (S³aby)	Przyzywa niskiej jakoœci Kamieñ Metin blisko postaci.	
+71081	Kamieñ Metin (Œredni)	Przyzywa normalnej jakoœci Kamieñ Metin blisko postaci.	
+71082	Kamieñ Metin (Silny)	Przyzywa wysokiej jakoœci Kamieñ Metin blisko postaci.	
+71083	Ksiêga Obróbki Kamienia	Usuwa zepsuty kamieñ z kieszeni ¿eby zwolniæ kieszeñ przedmiotu.	
+71084	Zaczarowanie Przedmiotu	Usuwa wszystkie bonusy z twojego jednego przedmiotu, po czym dodaje nowe - losowe. Iloœæ bonusów nie ulega zmianie.	
+71085	Wzmocnienie Przedmiotu	Z odrobin¹ szczêœcia dodaje do jednego z twoich przedmiotów nowy bonus. (maks. 4 bonusy)	
+71088	Ksiêga Misji (£atwa)	Ksiêga, która jest zwi¹zana br¹zowym skórzanym paskiem. Zawiera misjê, która mo¿e zostaæ wykonana nawet przez niedoœwiadczonego wojownika.	
+71089	Ksiêga Misji (Normalna)	Ksiêga, która jest zwi¹zana br¹zowym skórzanym paskiem. Zawiera misjê, która mo¿e zostaæ wykonana tylko przez doœwiadczone osoby.	
+71090	Ksiêga Misji (Trudna)	Ksiêga, która jest zwi¹zana br¹zowym skórzanym paskiem. Zawiera misjê, która mo¿e zostaæ wykonana tylko przez doœwiadczonych wojowników.	
+71091	Olejek Handlu	Mo¿esz wybraæ kolor szyldu twojego sklepu.	
+71092	Ksiêga Polimorfii	Pomyœlne przeczytanie tej Ksiêgi pozwala na rozwiniêcie umiejêtnoœci Polimorfia. Po przeczytaniu Ksi¹¿ka znika.	
+71093	Marmur Polimorfii	Mo¿esz zamieniæ siê w potwora u¿ywaj¹c marmuru.	
+71094	Rada Pustelnika	Podnosi szansê na pomyœlne przeczytanie nastêpnej Ksiêgi Umiejêtnoœci na 250%.	Efekt dzia³a tylko na umiejêtnoœci wspomagaj¹ce postaæ.
+71095	Przepustka	Bilet ten umo¿liwia dostanie siê na nowy poziom w Lochu Paj¹ków. Wystarczy pokazaæ go odpowiedniemu stra¿nikowi.	
+71096	Medal Portalu	Ten medal umo¿liwia Ci przejœcie przez wrota.	
+71099	Pierœcieñ Zastêpstwa	Pozwala liderowi gildii wyznaczyæ swojego zastêpce.	
+71100	Zwój Zmiany Profesji	Przedmiot ten umo¿liwia wybranie innej profesji postaci. Aby móc skorzystaæ z tego przedmiotu, twoja postaæ musi byæ w przedziale od 31. do 60. poziomu.	
+71101	Mikstura Poœpiechu	Ta mikstura zwiêksza Szybkoœæ Regeneracji Zaklêcia o 20 procent na okres 30 minut.	
+71103	Zwój Redystrybucji (WIT)	Ustawia Punkty Witalnoœci na 1 i pozwala Ci ponownie rozdaæ punkty.
+71104	Zwój Redystrybucji (INT)	Ustawia Punkty Inteligencji na 1 i pozwala Ci ponownie rozdaæ punkty.
+71105	Zwój Redystrybucji (SI£)	Ustawia Punkty Si³y na 1 i pozwala Ci ponownie rozdaæ punkty.
+71106	Zwój Redystrybucji (ZRÊ)	Resetuje twoje punkty Zrêcznoœci do 1 oraz pozwala na ich ponowne rozdanie.
+71107	Owoc ¯ycia	Zwiêksza Punkty Rangi o 2000 punktów (czas regeneracji: 8 godzin).	
+71108	Sok z Owocu Granatu	Napój, który natychmiastowo regeneruje 800 P¯. Mo¿na nim handlowaæ.	
+71109	Zwój Korekcji	Zwój ten umo¿liwia usuniêcie ostatnio pomyœlnie dodanego Kamienia Duszy ze wskazanego przedmiotu.	
+71110	Cukier dla Konia	Ten Cukier pozwala nazwaæ twojego konia. Dodatkowo, zwiêksza jego poziom obrony.	
+71113	Szk³o Intuicji	Pozwala Ci na pokazanie innemu graczowi przedmiotu z twojego ekwipunku. Podczas tego procesu, Szk³o ulega zniszczeniu.	
+71114	Pieczêæ Dzika (Lv 20)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	(+25 Obrony)
+71115	Pieczêæ Dzika (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+71116	Pieczêæ Wilka (Lv 30)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	(+50 Obrony)
+71117	Pieczêæ Wilka (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+71118	Pieczêæ Tygrysa (Lv 40)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	(+75 Wartoœci Ataku)
+71119	Pieczêæ Tygrysa (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+71120	Pieczêæ Lwa (Lv 50)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	(+100 Wartoœci Ataku)
+71121	Pieczêæ Lwa (niebieska)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+71123	Smocza £uska	Smocze £uski nale¿¹ do najtwardszych znanych materia³ów.	
+71124	Bia³y Lew	Zwierzêta o bia³ym futrze s¹ rzadkoœci¹ i wiele kultur przypisuje im nadzwyczajne si³y.	+30% Punktów Doœwiadczenia
+71125	Pieczêæ Dzika Wojennego	Okie³znanie z³ych Duchów Zwierz¹t wymaga nie lada kunsztu magicznego. Odpowiednio zadziwiaj¹cy jest rezultat.	+20% Silny przeciwko Potworom
+71126	Pieczêæ Wilka Wojennego	Okie³znanie z³ych Duchów Zwierz¹t wymaga nie lada kunsztu magicznego. Odpowiednio zadziwiaj¹cy jest rezultat.	+20% Szansy na Krytyka|+50 Obrony
+71127	Pieczêæ Szar¿. Tygrysa	Okie³znanie z³ych Duchów Zwierz¹t wymaga nie lada kunsztu magicznego. Odpowiednio zadziwiaj¹cy jest rezultat.	+1000 Maks. P¯|+75 Wartoœci Ataku
+71128	Pieczêæ Walecznego Lwa	Okie³znanie z³ych Duchów Zwierz¹t wymaga nie lada kunsztu magicznego. Odpowiednio zadziwiaj¹cy jest rezultat.	+75 Wartoœci Ataku|+10% Silny przeciwko Potworom
+71129	Smoczy Szpon	Widok tego strasznego szponu budzi wspomnienia...	
+71130	Przepustka	Przepustka ta umo¿liwia dostanie siê na nowy poziom w Lochu Paj¹ków. Wystarczy pokazaæ j¹ odpowiedniemu stra¿nikowi. Przedmiot ten nadaje siê do handlu.			
+71135	Pierœcieñ Pó³ksiê¿yca	Pierœcieñ z kunsztownie wykonanym grawerunkiem w kszta³cie pó³ksiê¿yca.	Na 30 dni otrzymujesz: +2000 P¯, +10% Silny przeciwko Potworom, +15% Œrednich Obra¿eñ.
+71136	Lizak	Jest to lizak o tajemniczym sk³adzie, doda ci si³y oraz doœwiadczenia w walce.	Na 7 dni otrzymujesz: +1500 P¯, +10% Silny przeciwko Ludziom, +15% Szybkoœæ Zaklêcia.
+71143	Pierœcieñ Radoœci	Drogocenny pierœcieñ przyozdobiony nefrytem i turkusem.	Na 7 dni otrzymujesz: +50% punktów doœwiadczenia, +20% szybkoœci ataku, +20% szybkoœci zaklêæ, +30% si³y przeciwko potworom, +10% maks. P¯ oraz +10% maks. PE.
+71144	Œwi¹teczna Skrzynia	Ten œlicznie zapakowany prezent œwi¹teczny skrywa pyszn¹ niespodziankê.	
+71145	Amulet Wiecznej Mi³oœci	Jest to srebrny wisiorek w kszta³cie serca, wysadzany magicznymi klejnotami.	Na 7 dni otrzymujesz: +30% punktów doœwiadczenia, +10% szybkoœci ataku, +10% szybkoœci zaklêæ, +10% si³y przeciwko potworom, +5% maks. P¯ oraz +5% maks. PE.
+71146	Skrzynia Amora (ró¿owa)	Ta skrzynia w kszta³cie serca zawiera 10 niespodzianek. Mo¿na j¹ otwieraæ co 30 min.	
+71147	Skrzynia Amora (nieb.)	Ta skrzynia w kszta³cie serca zawiera 10 niespodzianek. Mo¿na j¹ otwieraæ co 30 min.	
+71148	Pierœcieñ Si³y Woli	Szlachetny pierœcieñ z czystego srebra z po³yskuj¹cym szafirem.	Na 7 dni otrzymujesz: +30% PD, +20% szansy na obronê w walce z wojownikami, +20% szansy na obronê w walce z ninja, +30% si³y przeciwko potworom, +10% maks. P¯ i +10% maks. PE.
+71149	Pierœcieñ Œmier. Mocy	Szlachetny pierœcieñ z czystego srebra z po³yskuj¹cym rubinem.	Na 7 dni otrzymujesz: +30% PD, +20% szansy na obronê w walce z surami, +20% szansy na obronê w walce z szamanami, +30% si³y przeciwko potworom, +10% maks. P¯ i +10% maks. PE.
+71150	Magiczne Jajo	Ta piêknie ozdobiona owalna skrzynia zawiera niejedn¹ wielkanocn¹ niespodziankê. Swoj¹ zawartoœæ ods³ania jednak stopniowo.	
+71151	Zielony Czar	Usuwa wszystkie bonusy w jednym z Twoich przedmiotów, po czym dodaje nowe. Mo¿na go u¿ywaæ tylko na przedmiocie do poziomu 40. Niezdatny do handlu.	
+71152	Zielona Si³a	Z odrobin¹ szczêœcia dodaje do jednego z Twoich przedmiotów nowy bonus (maks. 4 bonusy). Mo¿na go u¿ywaæ tylko na przedmiocie do poziomu 40. Niezdatny do handlu.	
+71153	Mikstura M¹droœci	Za pomoc¹ tej mikstury zdobywasz 100% wiêcej doœwiadczenia podczas godziny grania. Przedmiot ten jest niezdatny do handlu.	Mo¿liwoœæ u¿ycia do 75. poziomu.
+71158	Medal Bohatera	Staro¿ytny artefakt. Wielu wojowników twierdzi³o, ¿e daje niesamowite moce i umiejêtnoœci.	Daje +50 % PD, +30 % obra¿eñ, +20 % szybkoœci ataku, +20 % szybkoœci zaklêæ, +10 % P¯ oraz +10 % PE.
+71159	Skrzynia Milona	Skrzynia dla prawdziwych bohaterów - zawiera losowy przedmiot, nagrodê za Twój tryumf.	
+71160	Skrzynia Ateny	Skrzynia dla prawdziwych bohaterek - zawiera losowy przedmiot, nagrodê za Twój tryumf.	
+72001	Pierœcieñ Doœwiadczenia	Zwiêksza otrzymywane Punkty Doœwiadczenia o 50% na 10 godzin.	Mo¿liwoœæ zdejmowania.
+72002	Pierœcieñ Doœwiadczenia	Zwiêksza otrzymywane Punkty Doœwiadczenia o 50% na 30 minut.	Brak mo¿liwoœci zdejmowania.
+72003	Pierœcieñ Doœwiadczenia	Zwiêksza otrzymywane Punkty Doœwiadczenia o 50% na 3 godziny.	Mo¿liwoœci zdejmowania.
+72004	Rêkawica Z³odzieja	Podwaja szansê na zdobycie przedmiotu na 10 godzin.	Mo¿liwoœæ zdejmowania.
+72005	Rêkawica Z³odzieja	Podwaja szansê na zdobycie przedmiotu na 30 minut.	Brak mo¿liwoœci zdejmowania.
+72006	Rêkawica Z³odzieja	Podwaja szansê na zdobycie przedmiotu na 3 godziny.	Mo¿liwoœæ zdejmowania.
+72007	Szpula Jedwabiu	Mo¿esz otworzyæ prywatny sklep przez 10 godzin.	
+72008	Szpula Jedwabiu	Mo¿esz otworzyæ prywatny sklep przez 30 minut.	
+72009	Szpula Jedwabiu	Mo¿esz otworzyæ prywatny sklep przez 3 godziny.	
+72010	Pióro Ptaka Mi³oœci	Kiedy u¿yte, Punkty Mi³oœci rosn¹ dwa razy szybciej przez 15 minut.	
+72011	Pióro Ptaka Mi³oœci	Kiedy u¿yte, Punkty Mi³oœci rosn¹ dwa razy szybciej przez 30 minut.	
+72012	Pióro Ptaka Mi³oœci	Kiedy u¿yte, Punkty Mi³oœci rosn¹ dwa razy szybciej przez 3 godziny.	
+72013	Rybie Wnêtrznoœci	Zwiêksza szansê na z³apanie rzadkiej ryby przez 15 minut.	
+72014	Rybie Wnêtrznoœci	Zwiêksza szansê na z³apanie rzadkiej ryby przez 30 minut.	
+72015	Rybie Wnêtrznoœci	Zwiêksza szansê na z³apanie rzadkiej ryby przez 3 godziny.	
+72016	Trzecia Rêka	Rêka podnosi upuszczone pieni¹dze automatycznie przez 15 minut.	
+72017	Trzecia Rêka	Rêka podnosi upuszczone pieni¹dze automatycznie przez 30 minut.	
+72018	Trzecia Rêka	Rêka podnosi upuszczone pieni¹dze automatycznie przez 3 godziny.	
+72019	Powiêkszony Sk³ad	Do twojego magazynu zostan¹ dodane dwie dodatkowe zak³adki na 15 minut.	
+72020	Powiêkszony Sk³ad	Do twojego magazynu zostan¹ dodane dwie dodatkowe zak³adki na 30 minut.	
+72021	Powiêkszony Sk³ad	Do twojego magazynu zostan¹ dodane dwie dodatkowe zak³adki na 3 godziny.	
+72022	Medal Szczêœcia	Szansa na zdobycie Yang jest podwojona na 10 godzin.	
+72023	Medal Szczêœcia	Szansa na zdobycie Yang jest podwojona na 30 minut.	Nie mo¿e zostaæ œci¹gniêty.
+72024	Medal Szczêœcia	Szansa na zdobycie Yang jest podwojona na 3 godziny.	
+72025	D³oñ Przebicia	Szansa na przebicie +10%	
+72026	D³oñ Krytyka	Szansa na przebicie +10%	
+72027	D³oñ Krytyka	Szansa na przebicie +10%	
+72028	Maska Uczuæ	Mo¿esz okazywaæ swoje emocje.	
+72029	Maska Uczuæ	Mo¿esz okazywaæ swoje emocje.	
+72030	Maska Uczuæ	Mo¿esz okazywaæ swoje emocje.	
+72031	Atak Boga Smoków	Zwiêksza zadawane obra¿enia o 12% do 15% gdy atakujesz. Dzia³a przez 30 minut.	
+72032	Atak Boga Smoków	Zwiêksza zadawane obra¿enia o 12% do 15% gdy atakujesz. Dzia³a przez 30 minut.	
+72033	Atak Boga Smoków	Zwiêksza zadawane obra¿enia o 12% do 15% gdy atakujesz. Dzia³a przez 30 minut.	
+72034	Obrona Boga Smoków	Redukuje obra¿enia o 12% ~ 15% gdy siê bronisz.	
+72035	Obrona Boga Smoków	Redukuje obra¿enia o 12% ~ 15% gdy siê bronisz.	
+72036	Obrona Boga Smoków	Redukuje obra¿enia o 12% ~ 15% gdy siê bronisz.	
+72037	¯ycie Boga Smoków	Zwiêksza iloœæ Punktów ¯ycia o 20% na 30 minut.	
+72038	¯ycie Boga Smoków	Zwiêksza iloœæ Punktów ¯ycia o 20% na 30 minut.	
+72039	¯ycie Boga Smoków	Zwiêksza iloœæ Punktów ¯ycia o 20% na 30 minut.	
+72040	Inteligencja Boga Smoków	Zwiêksza iloœæ Punktów Energii o 20%. Dzia³a przez 30 minut.	
+72041	Inteligencja Boga Smoków	Zwiêksza iloœæ Punktów Energii o 20%. Dzia³a przez 30 minut.	
+72042	Inteligencja Boga Smoków	Zwiêksza iloœæ Punktów Energii o 20%. Dzia³a przez 30 minut.	
+72043	Ksi¹¿ka Lidera	Kiedy przedmiot noszony jest przez lidera grupy, punkty zdobywane przez grupê s¹ zwiêkszone o 30%.	
+72044	Ksi¹¿ka Lidera	Kiedy przedmiot noszony jest przez lidera grupy, punkty zdobywane przez grupê s¹ zwiêkszone o 30%.	
+72045	Ksi¹¿ka Lidera	Kiedy przedmiot noszony jest przez lidera grupy, punkty zdobywane przez grupê s¹ zwiêkszone o 30%.	
+72046	D³oñ Krytyka	Podnosi szansê na zadanie przeszywaj¹cego uderzenia podczas walki o 20% przez 10 minut.	
+72047	D³oñ Krytyka	Podnosi szansê na zadanie przeszywaj¹cego uderzenia podczas walki o 20% przez 10 minut.	
+72048	D³oñ Krytyka	Podnosi szansê na zadanie przeszywaj¹cego uderzenia podczas walki o 20% przez 10 minut.	
+72301	Zwój B³ogos³awieñstwa	Usuwa ryzyko zniszczenia przedmiotu podczas jego ulepszania. Je¿eli ulepszanie siê nie powiedzie, to jakoœæ przedmiotu jest redukowana o 1 poziom.		
+72501	Pierœcieñ Doœw. (iCafe)	Zwiêksza otrzymywane Punkty Doœwiadczenia o 20% dla cz³onków iCafe.	
+72502	Rêkawica Z³odz. (iCafe)	Szansa na wyrzucanie przedmiotów zwiêkszona 1.5 raza dla cz³onków iCafe.	
+72701	Buty Wiatru	Gdy ich u¿ywasz, Szybkoœæ Ruchu twojej postaci jest zwiêkszona o 30.	
+72703	Kolczyk z koœci tygrysa	Wartoœæ ataku wzrasta na 2 godziny o 200 punktów (czas up³ywa, tylko gdy przedmiot jest za³o¿ony). Przedmiot ten jest niezdatny do handlu.	
+72704	Kolczyk z koœci smoka	Wartoœæ obrony wzrasta na 2 godziny o 200 punktów (czas up³ywa, tylko gdy przedmiot jest za³o¿ony). Przedmiot ten jest niezdatny do handlu.	
+72705	Brans. z koœci tygrysa	Obra¿enia twoich umiejêtnoœci wzrastaj¹ na 2 godziny o 15% (czas up³ywa, tylko gdy przedmiot jest za³o¿ony). Przedmiot ten jest niezdatny do handlu.	
+72706	Brans. z koœci smoka	Twoja obrona przeciwko umiejêtnoœciom wzrasta na 2 godziny o 15% (czas up³ywa, tylko gdy przedmiot jest za³o¿ony). Przedmiot ten jest niezdatny do handlu.	
+72723	Eliksir S³oñca (M)	Automatycznie regeneruje twoje P¯. Zawiera 1.000.000 P¯.	
+72724	Eliksir S³oñca (Œ)	Automatycznie regeneruje twoje P¯. Zawiera 3.000.000 P¯.	
+72725	Eliksir S³oñca (D)	Automatycznie regeneruje twoje P¯. Zawiera 7.000.000 P¯.	
+72726	Eliksir S³oñca (S)	Automatycznie uzupe³nia twoje P¯. Zawiera 10.000.000 P¯. Przedmiot ten jest zdatny do handlu.	
+72727	Eliksir Ksiê¿yca (M)	Automatycznie regeneruje twoje PE. Zawiera 100.000 PE.	
+72728	Eliksir Ksiê¿yca (Œ)	Automatycznie regeneruje twoje PE. Zawiera 300.000 PE.	
+72729	Eliksir Ksiê¿yca (D)	Automatycznie regeneruje twoje PE. Zawiera 700.000 PE.	
+72730	Eliksir Ksiê¿yca (S)	Automatycznie uzupe³nia twoje PE. Zawiera 1.000.000 PE. Przedmiot ten zdatny jest do handlu.	
+76000	Wino z Kwiatu Brzoskwini	Mikstura, która natychmiast regeneruje 500 P¯. Niezdatna do handlu.	
+76001	Zwój Powrotu Statusu	Przedmiot ten umo¿liwia Ci ponowne wydanie Twoich Punktów Statystyk. Tak wiêc mo¿esz rozwijaæ postaæ w inny sposób. Niezdatny do handlu.	
+76002	Zasuszona G³owa	Ta zasuszona g³owa demona otwiera pieczêæ 3. poziomu Diabelskich Katakumb. Przedmiot ten jest niezdatny do handlu.	
+76003	Mikstura Poœpiechu	Ta mikstura zwiêksza Szybkoœæ Regeneracji Zaklêcia o 20 procent na okres 30 minut. Niezdatna do handlu.	
+76004	Eliksir Ksiê¿yca (M)	Automatycznie regeneruje Twoje PE. Zawiera 10.000 PE. Niezdatny do handlu.	
+76005	Eliksir Ksiê¿yca (Œ)	Automatycznie regeneruje Twoje PE. Zawiera 300.000 PE. Niezdatny do handlu.	
+76006	Wykrywacz Kamieni Metin	Wykrywacz pokazuje po³o¿enie i odleg³oœæ do najbli¿szego Kamienia Metin. Im jaœniejsza strza³ka kierunku, tym bli¿ej jesteœ. Mo¿e byæ uaktywniony 6 razy. Niezdatny do handlu.	
+76007	Peleryna Mêstwa	Staro¿ytni wojownicy okazywali swoje mêstwo poprzez noszenie kolorowych peleryn. By³ to sposób na zwabienie wszystkich potworów z okolicy. Niezdatna do handlu.	
+76008	Medal Smoka	Chroni przed utrat¹ Punktów Doœwiadczenia po œmierci postaci. Niezdatny do handlu.	
+76009	Zwój Boga Smoków	Zwiêksza szansê na ulepszenie przedmiotu o 10% i przedmiot nie ulega zniszczeniu gdy ulepszenie zawiedzie. W przypadku niepowodzenia, jakoœæ przedmiotu jest redukowana o 1 poziom. Niezdatny do handlu.	
+76010	Krwisty Kamieñ	Ten kamieñ zrobiony jest z krwi Bahar-Taraji i umo¿liwia Ci wejœcie na drugi poziom Groty Wygnañców. Niezdatny do handlu.	
+76011	Ksi¹¿ka Lidera	Kiedy przedmiot ten noszony jest przez lidera grupy, Punkty Doœwiadczenia zdobywane przez grupê s¹ zwiêkszone o 30%. Przedmiot niezdatny do handlu.	
+76012	Mikstura Szybkoœci	Zwiêksza Szybkoœæ Ruchu o 60 na okres 30 minut. Przedmiot niezdatny do handlu.	
+76013	Wzmocnienie Przedmiot(n)	Z odrobin¹ szczêœcia dodaje do jednego z Twoich przedmiotów nowy bonus (maks. 4 bonusy). Przedmiot ze skrzyni poziomów, niezdatny do handlu.	
+76014	Zaczarowanie Przedm.(n)	Usuwa wszystkie bonusy w jednym z Twoich przedmiotów, po czym dodaje nowe. Przedmiot ze skrzyni poziomów, niezdatny do handlu.	
+76015	Marmur B³ogos³awieñstwa	Legendarny, b³ogos³awiony marmur. Je¿eli przedmiot ma 4 atrybuty, dodaje kolejny atrybut. Przedmiot niezdatny do handlu.	
+76016	Zwój B³ogos³awieñstwa	Usuwa ryzyko zniszczenia przedmiotu podczas jego ulepszania. Je¿eli ulepszanie siê nie powiedzie, to jakoœæ przedmiotu jest redukowana o 1 poziom. Przedmiot niezdatny do handlu.	
+76017	Mikstura Ataku +10	Zwiêksza Twoj¹ Szybkoœæ Ataku o 10% na okres 30 minut. Niezdatna do handlu.	
+76018	Mikstura Ataku +15	Zwiêksza Twoj¹ Szybkoœæ Ataku o 15% na okres 30 minut. Niezdatna do handlu.	
+76019	Przepustka	Bilet ten umo¿liwia dostanie siê na nowy poziom w Lochu Paj¹ków. Wystarczy pokazaæ go odpowiedniemu stra¿nikowi. Przedmiot ten jest niezdatny do handlu.	
+76020	Eliksir Poszukiwacza	Poprawia jakoœæ przedmiotów przeznaczonych do badañ, co powoduje zwiêkszenie szansy na ich przyjêcie. Przedmiot ten jest niezdatny do handlu.	
+76021	Eliksir S³oñca (M)	Automatycznie regeneruje Twoje P¯. Zawiera 100.000 P¯. Przedmiot ten jest niezdatny do handlu.	
+76022	Eliksir S³oñca (Œ)	Automatycznie regeneruje Twoje P¯. Zawiera 3.000.000 P¯. Przedmiot ten jest niezdatny do handlu.	
+76023	Zielony Czar	Usuwa wszystkie bonusy w jednym z Twoich przedmiotów, po czym dodaje nowe. Mo¿na go u¿ywaæ tylko na przedmiocie do poziomu 40. Przedmiot ze skrzyni poziomów, niezdatny do handlu.	
+76024	Zielona Si³a	Z odrobin¹ szczêœcia dodaje do jednego z Twoich przedmiotów nowy bonus (maks. 4 bonusy). Mo¿na go u¿ywaæ tylko na przedmiocie do poziomu 40. Przedmiot ze skrzyni poziomów, niezdatny do handlu.	
+76025	Magiczny Kamieñ	Bry³a legendarnego metalu zapewniaj¹cego najlepsze wyniki podczas ulepszania przedmiotów. W ten sposób ulepszony przedmiot nie mo¿e ulec ani zniszczeniu ani pogorszeniu. Przedmiot ten jest niezdatny do handlu.	
+76026	Duchowy Diament	Legendarny kamieñ u¿ywany do treningu wewnêtrznego. Nie nadaje ¿adnych ograniczeñ czasowych. Przedmiot ten jest niezdatny do handlu.	
+80001	Sakiewka Na Pieni¹dze	Ciemna i zniszczona sakiewka zrobiona ze skóry.	
+80002	Czysty Papier	A¿ do teraz nieu¿ywany pergamin bardzo dobrej jakoœci.	
+80003	Sreb. Sztab. (50k Yang)	Cenny przetop ze Srebra. Kupcy wiele p³ac¹ za ten kruszec.	(Kliknij PPM, aby sprzedaæ.)
+80004	Sreb. Sztab. (100k Yang)	Cenny przetop ze Srebra. Kupcy wiele p³ac¹ za ten kruszec.	(Kliknij PPM, aby sprzedaæ.)
+80005	Z³ota Sztab.(500k Yang)	Cenny przetop ze Z³ota. Kupcy wiele p³ac¹ za ten kruszec.	(Kliknij PPM, aby sprzedaæ.)
+80006	Z³ota Sztab.(1Mil.Yang)	Cenny przetop ze Z³ota. Kupcy wiele p³ac¹ za ten kruszec.	(Kliknij PPM, aby sprzedaæ.)
+80007	Z³ota Sztab.(2Mil.Yang)	Cenny przetop ze Z³ota. Kupcy wiele p³ac¹ za ten kruszec.	(Kliknij PPM, aby sprzedaæ.)
+80008	Bry³a Z³ota	Bry³a Z³ota, która nigdy nie by³a przetapiana. Mo¿na j¹ sprzedaæ w sklepie za wysok¹ cenê.	
+80014	Kupon SM (100)	Kupon o wartoœci 100 Smoczych Monet. Przedmiot ten jest zdatny do handlu.	
+80015	Kupon SM (500)	Kupon o wartoœci 500 Smoczych Monet. Przedmiot ten jest zdatny do handlu.	
+80016	Kupon SM (1000)	Kupon o wartoœci 1000 Smoczych Monet. Przedmiot ten jest zdatny do handlu.	
+80017	Kupon SM (50)	Kupon o wartoœci 50 Smoczych Monet. Przedmiot ten jest zdatny do handlu.	
+90001	Pusta Butelka Na Wodê	Umo¿liwia wygodne przenoszenie wody - niestety jest teraz pusta.	
+90002	Butelka Wody	Umo¿liwia wygodne przenoszenie wody.	
+90003	Kryszta³	Bardzo wyj¹tkowy i szlachetny kamieñ, który piêknie lœni w promieniach s³onecznych.	
+90004	Klejnot	Charakteryzuj¹cy siê piêknymi kolorami kamieñ, który jest czêsto u¿ywany przy produkcji ozdób.	
+90005	Kamieñ Wodny	Twardy i szorstki kamieñ, który mo¿e byæ u¿ywany do szlifowania broni albo sprzêtu kuchennego.	
+90006	Kamieñ Duszy	Kamieñ, który po dodaniu do do zbroi lub broni mo¿e zwiêkszyæ jakoœæ danego przedmiotu.	
+90007	Minera³	Jest ponad 4000 minera³ów, które ró¿ni¹ siê strukturami krystalicznymi, kszta³tami i kolorami.	
+90010	Kamieñ Wêgielny	Materia³ budowlany do budowy budynku gildii	
+90011	Pieñ	Materia³ budowlany do budowy budynku gildii	
+90012	Dykta	Materia³ budowlany do budowy budynku gildii.	
+100000	Eliksir Czasu (M)	Nape³nia czas trwania Smoczego Kamienia.	
+100001	Eliksir Czasu (Œ)	Nape³nia czas trwania Smoczego Kamienia.	
+100002	Eliksir Czasu (D)	Nape³nia czas trwania Smoczego Kamienia.	
+100100	Smocze Cêgi	To przydatne narzêdzie zwiêksza szanse na sukces podczas usuwania Smoczego Kamienia.	
+100200	Cêgi Czasu	Wysysa czas trwania ze Smoczego Kamienia.	
+100300	Zielona Smocza Fasola	Ta magiczna fasola zwiêksza poziom Smoczego Kamienia. Zabieg ten mo¿e siê jednak zakoñczyæ niepowodzeniem.	
+100400	Niebieska Smocza Fasola	Ta magiczna fasola zwiêksza szansê na pomyœlne ulepszenie Smoczego Kamienia o jeden poziom.	
+100500	Ró¿owa Smocza Fasola	Szansa na pomyœlne ulepszenie Smoczego Kamienia o jeden poziom wzrasta o 10%.	
+711151	Pieczêæ Dzika (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711152	Pieczêæ Dzika (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711153	Pieczêæ Dzika (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711154	Pieczêæ Dzika (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711171	Pieczêæ Wilka (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711172	Pieczêæ Wilka (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711173	Pieczêæ Wilka (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711174	Pieczêæ Wilka (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711191	Pieczêæ Tygrysa (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711192	Pieczêæ Tygrysa (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711193	Pieczêæ Tygrysa (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711194	Pieczêæ Tygrysa (nieb.)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711211	Pieczêæ Lwa (niebieska)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711212	Pieczêæ Lwa (niebieska)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711213	Pieczêæ Lwa (niebieska)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+711214	Pieczêæ Lwa (niebieska)	Czar Pieczêci wzywa potê¿nego Ducha Zwierz¹t, aby ciê szybko przenieœæ do miejsca twojego wyboru.	
+11980	Królewska Toga	Toga w barwach królestwa Shinsoo.
+11981	Królewska Toga	Toga w barwach królestwa Jinno.
+50039	Srebrny Certyfikat	Ten certyfikat awansuje Twojego konia do 11. poziomu.
+50040	Z³oty Certyfikat	Ten certyfikat awansuje Twojego konia do 21. poziomu.

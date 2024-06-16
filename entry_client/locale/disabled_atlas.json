@@ -1,0 +1,12 @@
+{
+	"disabled_atlases": [
+		"map_monkey_dungeon_easy",
+		"map_monkey_dungeon_medium",
+		"map_monkey_dungeon_hard",
+		"map_spider_dungeon_v1",
+		"map_spider_dungeon_v2",
+		"map_exiles_dungeon_v1",
+		"map_exiles_dungeon_v2",
+		"map_devil_tower"
+	]
+}

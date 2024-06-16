@@ -1,0 +1,97 @@
+1	Tak
+2	Nie
+3	Reset Statusu
+4	Twoja Witalnoœæ
+5	Twoja Inteligencja
+6	Twoja Si³a
+7	Twoja Zrêcznoœæ
+8	obecnie ma 1 punkt.
+9	nie ma przydzielonych ¿adnych punktów, nie mo¿e zostaæ zresetowana.
+10	zostanie zresetowana do 1 punktu.
+11	Pozosta³e punkty zostan¹ przywrócone jako punkty statusu do ponownego przydzielenia.[ENTER]
+12	Czy chcesz kontynuowaæ?
+13	Kontynuuj
+14	Anuluj
+15	Reset statusu zosta³ zakoñczony powodzeniem.[ENTER]Przywrócone punkty statusu zosta³y ponownie przydzielone do postaci.
+16	Reset statusu zakoñczony niepowodzeniem!
+17	Nowe Zdjêcie Konia
+18	Zgubi³eœ Zdjêcie Konia?! Mogê daæ Ci nowe za 400.000 Yang.
+19	Informacja:
+20	Proszê oto nowe Zdjêcie Konia. Tym razem spróbuj go nie zgubiæ.
+21	Masz za ma³o Yang.
+22	Nowa Ksiêga Opancerzonego Konia
+23	Zgubi³eœ Ksiêgê Opancerzonego Konia! Mogê daæ Ci now¹ za 500.000 Yang.
+24	Nowa Ksiêga Wojskowego Konia
+25	Zgubi³eœ Ksiêgê Wojskowego Konia! Mogê daæ Ci now¹ za 1.000.000 Yang.
+26	Oto nowa Ksiêga Opancerzonego Konia. Spróbuj tym razem jej nie zgubiæ.
+27	Oto nowa Ksiêga Wojskowego Konia! Tym razem spróbuj jej nie zgubiæ!
+28	[Informacja] Aby móc przywo³ywaæ swojego Konia, musisz ukoñczyæ kurs Jazdy Konnej dla Pocz¹tkuj¹cych.
+29	[Informacja] Koñ zosta³ przywo³any.
+30	[Informacja] Przywo³anie Konia dla pocz¹tkuj¹cych nie powiod³o siê.
+31	[Wskazówka] Mo¿esz zwiêkszyæ szansê na pomyœlne przywo³anie poprzez trening swoich umiejêtnoœci.
+32	[Informacja] Masz za ma³o Punktów Energii. Aby przywo³aæ Konia, potrzebujesz ich co najmniej 100.
+33	[Informacja] Je¿eli chcesz przywo³aæ Konia Bojowego, potrzebujesz Ksiêgi Opancerzonego Konia.
+34	[Informacja] Je¿eli chcesz przywo³aæ Konia Wojskowego, potrzebujesz Ksiêgi Wojskowego Konia.
+35	[Informacja] Aby móc przywo³aæ Zwyk³ego Konia, musisz posiadaæ Zdjêcie Konia.
+36	[Informacja] Przywo³anie Konia bojowego nie powiod³o siê.
+37	[Wskazówka] Mo¿esz zwiêkszyæ szansê na pomyœlne przywo³anie poprzez trening swoich umiejêtnoœci.
+38	[Informacja] Masz za ma³o Punktów Energii. Aby przywo³aæ Konia, potrzebujesz ich co najmniej 200.
+39	[Informacja] Nie uda³o siê - przywo³anie Konia Wojskowego nie owiod³o siê.
+40	[Wskazówka] Mo¿esz podwy¿szyæ szanse na pomyœlne przywo³anie Konia æwicz¹c Umiejêtnoœæ Przywo³ywania Koni.
+41	[Informacja] Masz za ma³o Punktów Energii. Aby przywo³aæ[ENTER]Konia, potrzebujesz ich co najmniej 300.
+42	Za³ó¿ Gildiê
+43	Od opuszczenia gildii nie mo¿esz do³¹czyæ do nowej przez 1 dzieñ.
+44	Przecie¿ niedawno rozwi¹za³eœ gildiê! Aby za³o¿yæ now¹ musisz odczekaæ 3 dni.
+45	Aby za³o¿yæ gildiê, musisz osi¹gn¹æ przynajmniej poziom 40. Poza tym potrzebujesz 200.000 Yang.[ENTER]Chcesz na pewno chcesz za³o¿yæ gildiê?
+46	Jesteœ ju¿ cz³onkiem gildii. Aby za³o¿yæ now¹, najpierw musisz opuœciæ swoj¹ obecn¹ gildiê.
+47	Masz za ma³o Yang!
+48	Masz za niski poziom aby byæ liderem gildii.
+49	Opuœæ Gildiê
+50	Czy chcesz opuœciæ gildiê, do której nale¿ysz?[ENTER]Zgadujê, ¿e nie znalaz³eœ w niej ¿adnych przyjació³. To twoja decyzja.[ENTER][ENTER]Czy na pewno chcesz opuœciæ gildiê?
+51	Tak, postanowi³em opuœciæ gildiê.
+52	Nie opuszczê gildii.
+53	Rozumiem, ¿e podjêcie decyzji o opuszczeniu gildii mo¿e byæ trudne. Chocia¿ ¿a³ujê, ¿e odchodzisz, szanujê Twoj¹ decyzjê.[ENTER]Pamiêtaj, ¿e zawsze bêdziesz mile widziany, jeœli zechcesz do nas wróciæ.
+54	Rozwi¹¿ Gildiê
+55	Co?[DELAY value;150] [/DELAY][ENTER][ENTER]Tyle czasu zajê³o mi jej stworzenie, a teraz tak po prostu chcesz j¹ rozwi¹zaæ? Ca³e doœwiadczenie i wspomnienia z ni¹[ENTER]zwi¹zane znikn¹ na zawsze! Jeœli jednak jesteœ stanowczy w swoim postanowieniu, przyjmujê Twoj¹ decyzjê z szacunkiem.[ENTER][ENTER]Czy na pewno chcesz kontynuowaæ z rozwi¹zaniem gildii?
+56	Tak, rozwi¹zuje swoj¹ Gildiê.
+57	To powa¿na decyzja, muszê siê jeszcze zastanowiæ...
+58	Gildia zosta³a rozwi¹zana.[ENTER]Chocia¿ jest to koniec pewnego rozdzia³u, pamiêtajcie, ¿e ka¿dy koniec jest te¿ nowym pocz¹tkiem. 
+59	Œcie¿ka Rozwoju
+60	Instruktor Treningu Mocy Cia³a znajduje siê na placu w Mieœcie. Jest to doœwiadczony wojownik, który k³adzie nacisk na wzmacnianie fizycznych ataków oraz poprawê szybkoœci. Dziêki du¿ym obra¿eniom i szybkiemu tempu ataków, jest idealnym[ENTER]wyborem dlaojowników preferuj¹cych walkê na koniu bojowym.[ENTER]
+61	Instruktor Treningu Mocy Duchowej równie¿ znajduje siê na placu w Mieœcie. Ten nauczyciel koncentruje siê na rozwijaniu umiejêtnoœci, które pozwalaj¹ na zadawanie ogromnych obra¿eñ ca³ym grupom przeciwników.[ENTER]
+62	Jeœli marzysz o tajemnych misjach, Trening Ostrza jest dla Ciebie idealny. Udaj siê do Trenera Mocy Ostrza na placu w[ENTER]Mieœcie. Trener to mistrz sztuki walki ostrzem, której ruchy s¹ szybkie i œmiertelnie precyzyjne. Nauczysz siê sztuki[ENTER]bezszelestnego poruszania siê, b³yskawicznych i œmiertelnych ciosów oraz unikania wykrycia. Twoje ostrze stanie siê[ENTER]przed³u¿eniem Twojej d³oni, a Twoje umiejêtnoœci sprawi¹, ¿e staniesz siê cieniem na polu bitwy.[ENTER]
+63	Jeœli pragniesz zostaæ najlepszym ³ucznikiem, udaj siê do Trenera Mocy £uku na placu w Mieœcie. Trener jest legendarnym[ENTER]³ucznikiem, którego strza³y nigdy nie chybiaj¹ celu. Pod jego okiem poznasz tajniki precyzyjnego strzelania, techniki[ENTER]kamufla¿u oraz umiejêtnoœæ trafiania do celu w ka¿dych warunkach. Twoje strza³y stan¹ siê przed³u¿eniem Twojej woli, a[ENTER]celnoœæ bêdzie legendarna.[ENTER]
+64	Jeœli pragniesz staæ siê mistrzem w walce wrêcz, udaj siê do Trenera Mocy Broni na placu w Mieœcie.[ENTER]Trener ten jest znany z niezwyk³ej si³y i umiejêtnoœci ³¹czenia fizycznych ataków z magicznymi mocami.[ENTER]
+65	Jeœli Twoim celem jest mistrzostwo w magii ofensywnej, wybierz Trening Mocy Magii. Trener na placu w Mieœcie jest[ENTER]znany z niezwyk³ych zdolnoœci manipulowania energi¹ i niszczenia wrogów na odleg³oœæ.[ENTER]
+66	Szaman Smok pos³uguje siê mocami Boga Smoków i ¿ywio³u ognia. Dobrze radzi sobie w PvP oraz wojnach gildii.[ENTER]Dziêki buffom PvM nie jest dla niego a¿ tak uci¹¿liwe jak dla Szamana Leczenie. Nie polecana dla osób pocz¹tkuj¹cych.[ENTER]
+67	Szaman Leczenie (nazywany te¿ B³yskawicy) korzysta z mocy natury, dziêki którym posiada zdolnoœæ leczenia oraz[ENTER]kontrolowania b³yskawic. Postaæ bardzo dobra w PvP jednak trudna do prowadzenia i utrzymania.[ENTER]Postaæ dla graczy zaawansowanych, nie polecana dla pocz¹tkuj¹cych.[ENTER]
+68	W zwi¹zku z twoj¹ decyzj¹ o rozpoczêciu nauki, otrzymujesz punkty umiejêtnoœci.[ENTER]Mo¿esz za ich pomoc¹ udoskonalaæ swoje umiejêtnoœci.[ENTER]
+69	Otrzymujesz punkty umiejêtnoœci.
+70	Trener Mocy Cia³a
+71	Trening Mocy Cia³a uczy jak pokonaæ przeciwnika w szybki i zabójczy sposób.[ENTER]Trening opiera siê na poznaniu najs³abszych punktów wroga.[ENTER]
+72	Wymagania: minimalny poziom postaci: 5 klasa: Wojownik
+73	Rozpoczynam szkolenie
+74	Mam dylemat, muszê siê jeszcze zastanowiæ nad wyborem.
+75	Trener Mocy Duchowej
+76	Trening Mocy Duchowej pokazuje jak przekszta³ciæ si³ê wroga na kontakt przy pomocy Chi oraz obronê przed atakami.[ENTER]
+77	Trener Mocy Ostrza
+78	Trening Mocy Ostrza uczy jak pokonaæ przeciwnika w szybki i zabójczy sposób.[ENTER]Trening opiera siê na poznaniu najs³abszych punktów wroga.[ENTER]
+79	Wymagania: minimalny poziom postaci: 5 klasa: Ninja
+80	Trener Mocy £uku
+81	Trening Mocy £uku uczy pos³ugiwania siê broni¹ dystansow¹ albo móc walczyæ z odpowiedni¹ precyzj¹ nawet z du¿ej[ENTER]odleg³oœci.[ENTER]
+82	Trener Mocy Ostrza
+83	Pod¹¿aj¹c drog¹ Treningu Broni nauczysz siê potê¿nych ataków przeciwko os³abionym przeciwnikom.[ENTER]Ponadto, bêdziesz móg³ kontrolowaæ Zaczarowane Ostrze.[ENTER]
+84	Wymagania: minimalny poziom postaci: 5 klasa: Sura
+85	Trener Czarnej Magii
+86	Trenuj¹c Czarn¹ Magiê nauczysz siê os³abiaæ przeciwników za pomoc¹ Czarnej Magii i walczyæ z dystansu.[ENTER]
+87	Trener Mocy Smoka
+88	Trening Boga Smoka pozwala na wykorzystywanie potê¿nych ataków ognistych wspieranych przez Smoczego Boga,[ENTER]pozwala równie¿ na wzmocnienie magiczne swojej dru¿yny specjalnymi zaklêciami.[ENTER]
+89	Wymagania: minimalny poziom postaci: 5 klasa: Szaman
+90	Trener Mocy Leczenia
+91	Dziêki treningowi Leczenia nauczysz sie jak og³uszyæ przeciwników moc¹ b³yskawicy. Uczysz siê równie¿ jak leczyæ[ENTER]cz³onków grupy i dodawaæ im dodatkow¹ si³ê.[ENTER]
+92	Punkty umiejêtnoœci.
+93	Przydzielono:
+94	Wojna gildii - aktywna
+95	Wojna gildii zosta³a zakoñczona.
+96	WejdŸ na wojnê gildii, do walki!
+97	Rezygnujê, jestem jeszcze zbyt s³aby.

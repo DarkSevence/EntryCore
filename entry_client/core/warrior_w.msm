@@ -1,0 +1,190 @@
+ScriptType RaceDataScript
+BaseModelFileName "d:/ymir work/pc2/warrior/warrior_novice.gr2"
+
+Group ShapeData
+{
+	PathName "d:/ymir Work/pc2/warrior/"
+
+	Group ShapeData00
+	{
+		ShapeIndex 0
+		Model "warrior_novice.gr2"
+		SourceSkin "warrior_novice_red.dds"
+		TargetSkin "warrior_novice_red.dds"
+	}
+
+	Group ShapeData01
+	{
+		ShapeIndex 1
+		Model "warrior_novice.gr2"
+		SourceSkin "warrior_novice_red.dds"
+		TargetSkin "warrior_novice_blue.dds"
+	}
+
+	Group ShapeData02
+	{
+		ShapeIndex 2
+		Model "warrior_nahan.gr2"
+		SourceSkin "warrior_nahan.dds"
+		TargetSkin "warrior_nahan.dds"
+	}
+
+	Group ShapeData03
+	{
+		ShapeIndex 3
+		Model "warrior_nahan.gr2"
+		SourceSkin "warrior_nahan.dds"
+		TargetSkin "warrior_giryung.dds"
+	}
+
+	Group ShapeData04
+	{
+		ShapeIndex 4
+		Model "warrior_nahan.gr2"
+		SourceSkin "warrior_nahan.dds"
+		TargetSkin "warrior_jaho.dds"
+	}
+
+	Group ShapeData05
+	{
+		ShapeIndex 5
+		Model "warrior_saja.gr2"
+		SourceSkin "warrior_saja.dds"
+		TargetSkin "warrior_saja.dds"	
+	}
+
+	Group ShapeData06
+	{
+		ShapeIndex 6
+		Model "warrior_saja.gr2"
+		SourceSkin "warrior_saja.dds"
+		TargetSkin "warrior_jain.dds"
+	}
+
+	Group ShapeData07
+	{
+		ShapeIndex 7
+		Model "warrior_saja.gr2"
+		SourceSkin "warrior_saja.dds"
+		TargetSkin "warrior_moryong.dds"
+	}
+
+	Group ShapeData08
+	{
+		ShapeIndex 8
+		Model "warrior_cheongrin.gr2"
+		SourceSkin "warrior_cheongrin.dds"
+		TargetSkin "warrior_cheongrin.dds"
+	}
+
+	Group ShapeData09
+	{
+		ShapeIndex 9
+		Model "warrior_cheongrin.gr2"
+		SourceSkin "warrior_cheongrin.dds"
+		TargetSkin "warrior_geumrin.dds"
+	}
+
+	Group ShapeData10
+	{
+		ShapeIndex 10
+		Model "warrior_yongsin.gr2"
+		SourceSkin "warrior_yongsin.dds"
+		TargetSkin "warrior_yongsin.dds"
+	}
+
+	Group ShapeData11
+	{	
+		ShapeIndex 11
+		Model "warrior_4-1.gr2"
+		SourceSkin "warrior_4-1.dds"
+		TargetSkin "warrior_4-1.dds"
+	}
+
+	Group ShapeData12
+	{
+		ShapeIndex 12	
+		Model "warrior_4-1.gr2"
+		SourceSkin "warrior_4-1.dds"
+		TargetSkin "warrior_4-2.dds"
+	}
+}
+
+Group HairData
+{
+	PathName "d:/ymir Work/pc2/warrior/"
+
+	Group HairData00
+	{	
+		HairIndex 0
+		Model "hair/hair_1_1.gr2"
+		SourceSkin "hair/hair_1_1.dds"
+		TargetSkin "hair/warrior_hair_01.dds"
+	}
+
+	Group HairData01
+	{	
+		HairIndex 1
+		Model "hair/hair_costume_maids_cap.gr2"
+		SourceSkin "hair/hair_costume_maids_cap.dds"
+		TargetSkin "hair/hair_costume_maids_cap.dds"
+	}
+}
+
+Group CostumeData
+{
+	PathName "d:/ymir work/pc2/warrior/"
+
+	Group CostumeData00
+	{
+		CostumeIndex 5000
+		Model "warrior_marry_01.gr2"
+		SourceSkin "warrior_marry_01.dds"
+		TargetSkin "warrior_marry_01.dds"
+	}
+
+	Group CostumeData01
+	{
+		CostumeIndex 5001
+		Model "warrior_costume_tailcoat.gr2"
+		SourceSkin "warrior_costume_tailcoat.dds"
+		TargetSkin "warrior_costume_tailcoat.dds"
+	}
+}
+
+Group AttachingData
+{
+    AttachingDataCount 2
+
+    Group AttachingData00
+    {
+        AttachingDataType 1
+        isAttaching 0
+        AttachingModelIndex 0
+        AttachingBoneName "Bip01"
+        CollisionType 1
+        SphereDataCount 1
+
+        Group SphereData00
+        {
+            Radius 40.000000
+            Position 0.000000 0.000000 100.000000
+        }
+    }
+
+    Group AttachingData01
+    {
+        AttachingDataType 1
+        isAttaching 0
+        AttachingModelIndex 0
+        AttachingBoneName "Bip01"
+        CollisionType 3
+        SphereDataCount 1
+
+        Group SphereData00
+        {
+            Radius 70.000000
+            Position 0.000000 0.000000 100.000000
+        }
+    }
+}
