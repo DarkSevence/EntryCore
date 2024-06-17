@@ -3123,9 +3123,6 @@
 20759	ARMOR	icon/item/20500.tga	
 20759	ARMOR	icon/item/20750.tga	
 22000	ETC	icon/item/22000.tga	
-22010	ETC	icon/item/22000.tga	
-22011	ETC	icon/item/22000.tga	
-22015	ETC	icon/item/22000.tga	
 25040	ETC	icon/item/25040.tga	
 25041	ETC	icon/item/30064.tga	
 25100	ETC	icon/item/25000.tga	
