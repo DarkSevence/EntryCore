@@ -54,8 +54,16 @@ class PopupDialog(ui.ScriptWindow):
 		self.SetCenterPosition()
 		self.UpdateRect()
 
+	def AdjustWidth(self):
+		textWidth = self.message.GetTextSize()[0]
+		padding = 40
+		minWidth = 200
+		newWidth = max(textWidth + padding, minWidth)
+		self.SetWidth(newWidth)
+
 	def SetText(self, text):
 		self.message.SetText(text)
+		self.AdjustWidth()
 
 	def SetAcceptEvent(self, event):
 		self.acceptEvent = event
