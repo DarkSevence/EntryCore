@@ -1179,35 +1179,23 @@ void SECTREE_MANAGER::InsertNPCPosition(long lMapIndex, BYTE bType, const char* 
 
 BYTE SECTREE_MANAGER::GetEmpireFromMapIndex(long lMapIndex)
 {
-	if (lMapIndex >= 1 && lMapIndex <= 20)
-		return 1;
-
-	if (lMapIndex >= 21 && lMapIndex <= 40)
-		return 2;
-
-	if (lMapIndex >= 41 && lMapIndex <= 60)
-		return 3;
-
-	if ( lMapIndex == 184 || lMapIndex == 185 )
-		return 1;
-	
-	if ( lMapIndex == 186 || lMapIndex == 187 )
-		return 2;
-	
-	if ( lMapIndex == 188 || lMapIndex == 189 )
-		return 3;
-
-	switch ( lMapIndex )
+	switch (lMapIndex)
 	{
-		case 190 :
+		case 1: // map_shinsoo_capital_village
+		case 4: // map_shinsoo_second_village
 			return 1;
-		case 191 :
+
+		case 2: // map_chunjo_capital_village
+		case 5: // map_chunjo_second_village
 			return 2;
-		case 192 :
+
+		case 3: // map_jinno_capital_village
+		case 6: // map_jinno_second_village
 			return 3;
+
+		default:
+			return 0;
 	}
-	
-	return 0;
 }
 
 class FRemoveIfAttr
