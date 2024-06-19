@@ -577,6 +577,12 @@ ACMD(do_mob_coward)
 		str_to_number(iCount, arg2);
 	else
 		iCount = 1;
+	
+	if (iCount < 0)
+	{
+		ch->ChatPacket(CHAT_TYPE_INFO, "[LS;782]");
+		return;
+	}	
 
 	iCount = MIN(20, iCount);
 
@@ -659,6 +665,12 @@ ACMD(do_mob_aggresive)
 		str_to_number(iCount, arg2);
 	else
 		iCount = 1;
+	
+	if (iCount < 0)
+	{
+		ch->ChatPacket(CHAT_TYPE_INFO, "[LS;782]");
+		return;
+	}	
 
 	iCount = MIN(20, iCount);
 
@@ -719,6 +731,12 @@ ACMD(do_mob)
 		str_to_number(iCount, arg2);
 	else
 		iCount = 1;
+	
+	if (iCount < 0)
+	{
+		ch->ChatPacket(CHAT_TYPE_INFO, "[LS;782]");
+		return;
+	}	
 
 	if (test_server)
 		iCount = MIN(40, iCount);

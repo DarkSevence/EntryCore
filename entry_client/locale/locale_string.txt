@@ -779,3 +779,4 @@
 779	Gildia %s przejê³a flagê Gildii %s!
 780	[Restrykcja] Nie mo¿esz wysy³aæ wiadomoœci prywatnych przez %d sekund.
 781	[Restrykcja] Nie mo¿esz wysy³aæ wiadomoœci na chacie przez %d sekund.
+782	[Informacja] Nie mo¿esz przywo³aæ ujemnej iloœci potworów.
