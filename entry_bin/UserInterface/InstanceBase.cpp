@@ -929,11 +929,11 @@ bool CInstanceBase::SetRace(uint32_t newRace)
 }
 
 bool CInstanceBase::__IsChangableWeapon(int32_t weaponID) const
-{	
+{
 	if (IsWearingDress())
 	{
-		static const std::vector<int32_t> allowedBouquets = {50201};
-		return std::find(allowedBouquets.begin(), allowedBouquets.end(), weaponID) != allowedBouquets.end();
+		constexpr int32_t allowedBouquetID = 50201;
+		return weaponID == allowedBouquetID;
 	}
 	else
 	{
