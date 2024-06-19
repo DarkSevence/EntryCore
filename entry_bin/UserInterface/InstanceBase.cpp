@@ -932,7 +932,7 @@ bool CInstanceBase::__IsChangableWeapon(int32_t weaponID) const
 {	
 	if (IsWearingDress())
 	{
-		static const std::vector<int32_t> allowedBouquets = {50201, 50202, 50203, 50204};
+		static const std::vector<int32_t> allowedBouquets = {50201};
 		return std::find(allowedBouquets.begin(), allowedBouquets.end(), weaponID) != allowedBouquets.end();
 	}
 	else
@@ -943,7 +943,7 @@ bool CInstanceBase::__IsChangableWeapon(int32_t weaponID) const
 
 bool CInstanceBase::IsWearingDress() const
 {
-	static constexpr int32_t WeddingDressShape = 201;
+	static constexpr int32_t WeddingDressShape = 5000;
 	return WeddingDressShape == m_eShape;
 }
 
