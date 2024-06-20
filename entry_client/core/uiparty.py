@@ -425,7 +425,7 @@ class PartyMenu(ui.ThinBoard):
 		level.SetOverVisual("d:/ymir work/ui/public/large_button_02.sub")
 		level.SetDownVisual("d:/ymir work/ui/public/large_button_03.sub")
 		level.SetText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_LEVEL)
-		level.SetToolTipText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP, 70)
+		level.SetToolTipText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP, 225, 0)
 		level.Show()
 		self.modeButtonList[player.PARTY_EXP_NON_DISTRIBUTION] = level
 
@@ -437,7 +437,7 @@ class PartyMenu(ui.ThinBoard):
 		parity.SetOverVisual("d:/ymir work/ui/public/large_button_02.sub")
 		parity.SetDownVisual("d:/ymir work/ui/public/large_button_03.sub")
 		parity.SetText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_PARITY)
-		parity.SetToolTipText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP, 70)
+		parity.SetToolTipText(localeInfo.PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP, 165, 0)
 		parity.Show()
 		self.modeButtonList[player.PARTY_EXP_DISTRIBUTION_PARITY] = parity
 
