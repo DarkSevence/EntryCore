@@ -723,7 +723,7 @@
 723	[Grupa] Grupa zosta³a skasowana.
 724	[Grupa] Nie mo¿esz przenieœæ celu.
 725	[Grupa] Nie mo¿esz teleportowaæ cz³onków grupy na swoj¹ aktualn¹ pozycjê.
-726	Twoja grupa jest bardzo zgrana i cz³onkowie grupy, którzy znajduj¹ siê w pobli¿u lidera, otrzymaj¹ bonus doœwiadczenia.
+726	Twoja grupa jest zgrana. Cz³onkowie blisko lidera otrzymaj¹ bonus doœwiadczenia.
 727	Przemiena nie powiod³a siê.
 728	Przemiana powiod³a siê.
 729	Ca³kowicie nauczy³eœ siê przekszta³cania.
