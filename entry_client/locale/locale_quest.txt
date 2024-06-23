@@ -95,3 +95,9 @@
 95	Wojna gildii została zakończona.
 96	Wejdź na wojnę gildii, do walki!
 97	Rezygnuję, jestem jeszcze zbyt słaby.
+98	Resetowanie wszystkich statystyk postaci
+99	Dzięki temu zwojowi możesz cofnąć wszystkie dotychczasowe rozwinięcia statystyk.[ENTER]Dotyczy to wszystkich twoich parametrów: witalności, inteligencji, siły oraz zręczności, zostaną zresetowane na 1.[ENTER]Uzyskane w ten sposób punkty możesz rozdać na nowo.[ENTER][ENTER]Czy jesteś pewien, że chcesz zresetować wszystkie statystyki?[ENTER]
+100	Potwierdź reset punktów statystyk
+101	Wszystkie twoje Punkty Statusu zostaną usunięte.[ENTER]Będziesz musiał przydzielić je jeszcze raz.[ENTER][ENTER]Czy na pewno chcesz zresetować punkty statystyk?[ENTER]
+102	Zgadzam się na zresetowanie wszystkich moich punktów statystyk.
+103	Rezygnuję z użycia zwoju powrotu statusu.
