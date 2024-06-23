@@ -43,12 +43,6 @@
 #include "PetSystem.h"
 
 const int ITEM_BROKEN_METIN_VNUM = 28960;
-
-// CHANGE_ITEM_ATTRIBUTES
-const DWORD CHARACTER::msc_dwDefaultChangeItemAttrCycle = 10;
-const char CHARACTER::msc_szLastChangeItemAttrFlag[] = "Item.LastChangeItemAttr";
-const char CHARACTER::msc_szChangeItemAttrCycleFlag[] = "change_itemattr_cycle";
-// END_OF_CHANGE_ITEM_ATTRIBUTES
 const BYTE g_aBuffOnAttrPoints[] = { POINT_ENERGY, POINT_COSTUME_ATTR_BONUS };
 
 struct FFindStone
@@ -4174,35 +4168,6 @@ bool CHARACTER::UseItemEx(LPITEM item, TItemPos DestCell)
 									{
 										ChatPacket(CHAT_TYPE_INFO, "[LS;324]");
 										return false;
-									}
-
-									if (GM_PLAYER == GetGMLevel() && false == test_server)
-									{
-										//
-										// Event Flag �� ���� ������ ������ �Ӽ� ������ �� �ð����� ���� ����� �ð��� �귶���� �˻��ϰ�
-										// �ð��� ����� �귶�ٸ� ���� �Ӽ����濡 ���� �ð��� ������ �ش�.
-										//
-
-										DWORD dwChangeItemAttrCycle = quest::CQuestManager::instance().GetEventFlag(msc_szChangeItemAttrCycleFlag);
-										if (dwChangeItemAttrCycle < msc_dwDefaultChangeItemAttrCycle)
-											dwChangeItemAttrCycle = msc_dwDefaultChangeItemAttrCycle;
-
-										quest::PC* pPC = quest::CQuestManager::instance().GetPC(GetPlayerID());
-
-										if (pPC)
-										{
-											DWORD dwNowMin = get_global_time() / 60;
-
-											DWORD dwLastChangeItemAttrMin = pPC->GetFlag(msc_szLastChangeItemAttrFlag);
-
-											if (dwLastChangeItemAttrMin + dwChangeItemAttrCycle > dwNowMin)
-											{
-												ChatPacket(CHAT_TYPE_INFO, "[LS;325;%d;%d]", dwChangeItemAttrCycle, dwChangeItemAttrCycle - (dwNowMin - dwLastChangeItemAttrMin));
-												return false;
-											}
-
-											pPC->SetFlag(msc_szLastChangeItemAttrFlag, dwNowMin);
-										}
 									}
 
 									if (item->GetSubType() == USE_CHANGE_ATTRIBUTE2)

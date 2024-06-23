@@ -1811,12 +1811,6 @@ class CHARACTER : public CEntity, public CFSM, public CHorseRider
 
 	private:
 		int				m_aiPremiumTimes[PREMIUM_MAX_NUM];
-
-		// CHANGE_ITEM_ATTRIBUTES
-		static const DWORD		msc_dwDefaultChangeItemAttrCycle;	///< 디폴트 아이템 속성변경 가능 주기
-		static const char		msc_szLastChangeItemAttrFlag[];		///< 최근 아이템 속성을 변경한 시간의 Quest Flag 이름
-		static const char		msc_szChangeItemAttrCycleFlag[];		///< 아이템 속성병경 가능 주기의 Quest Flag 이름
-		// END_OF_CHANGE_ITEM_ATTRIBUTES
 		
 		// NEW_HAIR_STYLE_ADD
 	public :
