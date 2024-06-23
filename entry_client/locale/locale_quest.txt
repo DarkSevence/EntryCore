@@ -101,3 +101,13 @@
 101	Wszystkie twoje Punkty Statusu zostaną usunięte.[ENTER]Będziesz musiał przydzielić je jeszcze raz.[ENTER][ENTER]Czy na pewno chcesz zresetować punkty statystyk?[ENTER]
 102	Zgadzam się na zresetowanie wszystkich moich punktów statystyk.
 103	Rezygnuję z użycia zwoju powrotu statusu.
+104	Reset Umiejętności
+105	Reset wybranej umiejętności pozwoli ci na ponowne przydzielenie punktów. Wszystkie punkty z tej umiejętności zostaną[ENTER]odjęte. Pamiętaj jednak, że maksymalnie możesz odzyskać tylko 17 punktów za jedną umiejętność, nawet jeśli[ENTER]wykorzystałeś więcej.[ENTER][ENTER]Czy chcesz zresetować tę umiejętność?
+106	Nie masz umiejętności, które mogłyby być zresetowane.
+107	Proszę wybrać umiejętność do zresetowania:
+108	Jesteś pewien wyboru tej umiejętności?
+109	Przywróć swój stan: potwierdzenie
+110	Pamiętaj: nie możesz później cofnąć resetu umiejętności.[ENTER]Czy naprawdę chcesz kontynuować?[ENTER]
+111	Tak, zresetuj umiejętność.
+112	Nie w tym momencie.
+113	Umiejętność została zresetowana, przywrócono punkty.
