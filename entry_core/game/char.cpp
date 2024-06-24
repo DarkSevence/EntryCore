@@ -2265,6 +2265,32 @@ void CHARACTER::ComputePoints()
 		SetPoint(POINT_MOV_SPEED, m_pkMobData->m_table.sMovingSpeed);
 		SetPoint(POINT_CASTING_SPEED, m_pkMobData->m_table.sAttackSpeed);
 	}
+	
+	if (IsPC())
+	{
+		if (GetMountVnum())
+		{
+			if (GetHorseST() > GetPoint(POINT_ST))
+			{
+				PointChange(POINT_ST, GetHorseST() - GetPoint(POINT_ST));
+			}
+
+			if (GetHorseDX() > GetPoint(POINT_DX))
+			{
+				PointChange(POINT_DX, GetHorseDX() - GetPoint(POINT_DX));
+			}
+
+			if (GetHorseHT() > GetPoint(POINT_HT))
+			{
+				PointChange(POINT_HT, GetHorseHT() - GetPoint(POINT_HT));
+			}
+
+			if (GetHorseIQ() > GetPoint(POINT_IQ))
+			{
+				PointChange(POINT_IQ, GetHorseIQ() - GetPoint(POINT_IQ));
+			}
+		}
+	}	
 
 	ComputeBattlePoints();
 
