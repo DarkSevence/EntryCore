@@ -82,19 +82,25 @@ int is_twobyte_big5(const char * str)
 	return 1;
 }
 
-int check_name_independent(const char * str)
+int check_name_independent(const char *str)
 {
-	if (CBanwordManager::instance().CheckString(str, strlen(str)))
-		return 0;
+    std::string stTemp(str);
+    std::transform(stTemp.begin(), stTemp.end(), stTemp.begin(), ::tolower);
 
-	// 몬스터 이름으로는 만들 수 없다.
-	char szTmp[256];
-	str_lower(str, szTmp, sizeof(szTmp));
+    if (CBanwordManager::instance().CheckString(stTemp.c_str(), stTemp.size()))
+    {
+        sys_log(0, "check_name_independent: String '%s' contains banned word.", stTemp.c_str());
+        return 0;
+    }
 
-	if (CMobManager::instance().Get(szTmp, false))
-		return 0;
+    if (CMobManager::instance().Get(stTemp.c_str(), false))
+    {
+        sys_log(0, "check_name_independent: String '%s' collides with a mob name.", stTemp.c_str());
+        return 0;
+    }
 
-	return 1;
+    sys_log(0, "check_name_independent: String '%s' passed all checks.", stTemp.c_str());
+    return 1;
 }
 
 bool is_name_complicated(const char* str) 
