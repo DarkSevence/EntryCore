@@ -183,7 +183,7 @@ LPITEM CSafebox::GetItem(BYTE bCell)
 
 bool CSafebox::MoveItem(BYTE bCell, BYTE bDestCell, BYTE count)
 {
- 	if (bCell.IsSamePosition(bDestCell))
+	if (bCell == bDestCell) 
 	{
 		return false;
 	}
