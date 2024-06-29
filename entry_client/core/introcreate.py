@@ -305,6 +305,7 @@ class CreateCharacterWindow(ui.Window):
 			5: localeInfo.CREATE_CHARACTER_DISABLED,
 			6: localeInfo.CREATE_ERROR_LIMIT_CHARACTER,
 			7: localeInfo.CREATE_LOGIN_TO_NAME,
+			8: localeInfo.CREATE_NAME_TO_COMPICATE,			
 		}
 
 		message = error_messages.get(type, localeInfo.CREATE_FAILURE)

@@ -472,6 +472,14 @@ void CInputLogin::CharacterCreate(LPDESC d, const char* data)
 		return;
 	}
 
+	if (is_name_complicate(pinfo->name))
+	{
+		sys_log(0, "Character creation failed: name '%s' is too complicate.", pinfo->name);
+		packFailure.bType = 8;
+		d->Packet(&packFailure, sizeof(packFailure));
+		return;
+	}
+
 	if (!check_name(pinfo->name))
 	{
 		sys_log(0, "Character creation failed: name '%s' did not pass the validation check.", pinfo->name);

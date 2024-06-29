@@ -97,6 +97,42 @@ int check_name_independent(const char * str)
 	return 1;
 }
 
+bool is_name_complicated(const char* str) 
+{
+	if (str == nullptr || str[0] == '\0') 
+	{
+		return true;
+	}
+
+	int length = std::strlen(str);
+	
+	int repeat_count = 0;
+	int pattern_count = 0;
+
+	for (int i = 0; i < length - 1; ++i) 
+	{
+		if (str[i] == str[i + 1]) 
+		{
+			repeat_count++;
+		}
+		
+		if (i < length - 2 && str[i] == str[i + 2]) 
+		{
+			pattern_count++;
+		}
+	}
+
+	const int max_repeats = 3;
+	const int max_patterns = 3; 
+
+	if (repeat_count > max_repeats || pattern_count > max_patterns) 
+	{
+		return true;
+	}
+
+	return false;
+}
+
 int check_name_gb2312(const char * str)
 {
 	static const BYTE exceptions[5][2] =

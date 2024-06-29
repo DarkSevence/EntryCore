@@ -70,5 +70,6 @@ bool LC_IsWE_Korea();
 bool LC_IsTaiwan();
 
 bool LC_IsWorldEdition();
+bool is_name_complicate(const char* str);
 
 #endif
