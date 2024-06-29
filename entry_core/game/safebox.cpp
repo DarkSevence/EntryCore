@@ -183,6 +183,11 @@ LPITEM CSafebox::GetItem(BYTE bCell)
 
 bool CSafebox::MoveItem(BYTE bCell, BYTE bDestCell, BYTE count)
 {
+ 	if (bCell.IsSamePosition(bDestCell))
+	{
+		return false;
+	}
+
 	LPITEM item;
 
 	int max_position = 5 * m_iSize;
