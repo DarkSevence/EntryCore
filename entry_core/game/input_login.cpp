@@ -451,24 +451,47 @@ bool NewPlayerTable2(TPlayerTable * table, const char * name, BYTE race, BYTE sh
 
 void CInputLogin::CharacterCreate(LPDESC d, const char* data)
 {
-	static constexpr std::size_t MAX_NAME_LENGTH = 16;
-	
-	auto pinfo = reinterpret_cast<command_player_create*>(const_cast<char*>(data));
-	sys_log(0, "Attempt to create player with details - Name: %s, Position: %d, Job Type: %d, Shape Code: %d", pinfo->name, pinfo->index, pinfo->job, pinfo->shape);
+	const auto* pinfo = reinterpret_cast<const command_player_create*>(data);
+	sys_log(0, "Initiating character creation process with the following details: [Name='%s', Position Index=%d, Job Type=%d, Shape Code=%d]", pinfo->name, pinfo->index, pinfo->job, pinfo->shape);
 
-	TPacketGCLoginFailure packFailure{HEADER_GC_LOGIN_FAILURE, {0}};
-	
-	if (g_BlockCharCreation || std::strlen(pinfo->name) > MAX_NAME_LENGTH || !check_name(pinfo->name) || pinfo->shape > 1)
+	TPacketGCCreateFailure packFailure = {HEADER_GC_CHARACTER_CREATE_FAILURE, 0};
+
+	if (g_BlockCharCreation)
 	{
-		TPacketGCLoginFailure packFailure{HEADER_GC_CHARACTER_CREATE_FAILURE};
+		sys_log(0, "Character creation request denied: global character creation is currently disabled.");
+		packFailure.bType = 5;
 		d->Packet(&packFailure, sizeof(packFailure));
 		return;
 	}
-	
+
+	if (std::strlen(pinfo->name) > PLAYER_NAME_MAX_LEN)
+	{
+		sys_log(0, "Character creation failed: name '%s' exceeds maximum allowed length of %d characters.", pinfo->name, PLAYER_NAME_MAX_LEN);
+		packFailure.bType = 6;
+		d->Packet(&packFailure, sizeof(packFailure));
+		return;
+	}
+
+	if (!check_name(pinfo->name))
+	{
+		sys_log(0, "Character creation failed: name '%s' did not pass the validation check.", pinfo->name);
+		packFailure.bType = 4;
+		d->Packet(&packFailure, sizeof(packFailure));
+		return;
+	}
+
+	if (pinfo->shape > 1)
+	{
+		sys_log(0, "Character creation failed: shape code '%d' is invalid. Valid range is 0 to 1.", pinfo->shape);
+		packFailure.bType = 0;
+		d->Packet(&packFailure, sizeof(packFailure));
+		return;
+	}
+
 	if (pinfo->index >= PLAYER_PER_ACCOUNT)
 	{
-		sys_err("Error in 'CInputLogin::ChangeName': Index '%d' exceeds the maximum allowed player index per account. Detected during login attempt for account '%s'. Initiating session closure.", pinfo->index, pinfo->name);
-
+		sys_log(0, "Character creation failed: position index %d exceeds the maximum allowed characters per account (%d).", pinfo->index, PLAYER_PER_ACCOUNT);
+		
 		if (d)
 		{
 			d->SetPhase(PHASE_CLOSE);
@@ -477,31 +500,33 @@ void CInputLogin::CharacterCreate(LPDESC d, const char* data)
 		return;
 	}
 
-	const TAccountTable & c_rAccountTable = d->GetAccountTable();
+	const TAccountTable& c_rAccountTable = d->GetAccountTable();
 
-	if (0 == std::strcmp(c_rAccountTable.login, pinfo->name))
+	if (strcasecmp(c_rAccountTable.login, pinfo->name) == 0)
 	{
-		TPacketGCCreateFailure pack{HEADER_GC_CHARACTER_CREATE_FAILURE, 1};
-		d->Packet(&pack, sizeof(pack));
+		sys_log(0, "Character creation failed: account login '%s' matches player name '%s'.", c_rAccountTable.login, pinfo->name);		
+		packFailure.bType = 7;
+		d->Packet(&packFailure, sizeof(packFailure));
 		return;
 	}
-	
+
 	TPlayerCreatePacket player_create_packet{};
-	
+
 	if (!NewPlayerTable2(&player_create_packet.player_table, pinfo->name, pinfo->job, pinfo->shape, d->GetEmpire()))
 	{
-		sys_err("Error creating player: Job %d", pinfo->job);
+		sys_err("Character creation failed: error creating player table for job %d.", pinfo->job);
 		d->Packet(&packFailure, sizeof(packFailure));
 		return;
 	}
 
 	trim_and_lower(c_rAccountTable.login, player_create_packet.login, sizeof(player_create_packet.login));
-	std::strncpy(player_create_packet.passwd, c_rAccountTable.passwd, sizeof(player_create_packet.passwd));
+	std::strncpy(player_create_packet.passwd, c_rAccountTable.passwd, sizeof(player_create_packet.passwd) - 1);
+	player_create_packet.passwd[sizeof(player_create_packet.passwd) - 1] = '\0';
 
 	player_create_packet.account_id = c_rAccountTable.id;
 	player_create_packet.account_index = static_cast<int32_t>(pinfo->index);
 
-	sys_log(0, "Created Player: %s, ID: %d, Packet Size: %d, Gold: %d", pinfo->name, pinfo->index, sizeof(TPlayerCreatePacket), player_create_packet.player_table.gold);
+	sys_log(0, "Character created successfully: Name='%s', ID=%d, Packet Size=%zu, Gold=%d", pinfo->name, pinfo->index, sizeof(TPlayerCreatePacket), player_create_packet.player_table.gold);
 
 	db_clientdesc->DBPacket(HEADER_GD_PLAYER_CREATE, d->GetHandle(), &player_create_packet, sizeof(TPlayerCreatePacket));
 }

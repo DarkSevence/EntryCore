@@ -297,16 +297,18 @@ class CreateCharacterWindow(ui.Window):
 		self.MotionStart = False
 		chr.BlendLoopMotion(chr.MOTION_INTRO_WAIT, 0.1)
 
-		if 1 == type:
-			self.PopupMessage(localeInfo.CREATE_EXIST_SAME_NAME, self.EnableWindow)
-		elif 2 == type:
-			self.PopupMessage(localeInfo.CREATE_ERROR_LIMIT_LEVEL, self.EnableWindow)
-		elif 3 == type:
-			self.PopupMessage(localeInfo.CREATE_ERROR_TIME_LIMIT, self.EnableWindow)
-		elif 4 == type:
-			self.PopupMessage(localeInfo.CREATE_ERROR_WRONG_STRING, self.EnableWindow)
-		else:
-			self.PopupMessage(localeInfo.CREATE_FAILURE, self.EnableWindow)
+		error_messages = {
+			1: localeInfo.CREATE_EXIST_SAME_NAME,
+			2: localeInfo.CREATE_ERROR_LIMIT_LEVEL,
+			3: localeInfo.CREATE_ERROR_TIME_LIMIT,
+			4: localeInfo.CREATE_ERROR_WRONG_STRING,
+			5: localeInfo.CREATE_CHARACTER_DISABLED,
+			6: localeInfo.CREATE_ERROR_LIMIT_CHARACTER,
+			7: localeInfo.CREATE_LOGIN_TO_NAME,
+		}
+
+		message = error_messages.get(type, localeInfo.CREATE_FAILURE)
+		self.PopupMessage(message, self.EnableWindow)
 
 		return self.OverOutToolTip()
 

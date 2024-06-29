@@ -24,7 +24,6 @@ class PopupDialog(ui.ScriptWindow):
 		print "NEW POPUP DIALOG ----------------------------------------------------------------------------"
 		ui.ScriptWindow.__init__(self)
 		self.CloseEvent = 0
-		self.exitEvent = None
 
 	def __del__(self):
 		print "---------------------------------------------------------------------------- DELETE POPUP DIALOG "
@@ -49,6 +48,28 @@ class PopupDialog(ui.ScriptWindow):
 
 		self.GetChild("message").SetText(Message)
 		self.Show()
+		
+	def SetWidth(self, width):
+		height = self.GetHeight()
+		self.SetSize(width, height)
+		
+		if self.board.IsRTL():
+			self.board.SetPosition(width, 0)
+			
+		self.board.SetSize(width, height)
+		self.SetCenterPosition()
+		self.UpdateRect()
+
+	def AdjustWidth(self):
+		textWidth = self.message.GetTextSize()[0]
+		padding = 40
+		minWidth = 200
+		newWidth = max(textWidth + padding, minWidth)
+		self.SetWidth(newWidth)
+
+	def SetText(self, text):
+		self.message.SetText(text)
+		self.AdjustWidth()
 
 	def Close(self):
 
@@ -73,10 +94,7 @@ class PopupDialog(ui.ScriptWindow):
 
 	def OnIMEReturn(self):
 		self.Close()
-		return TRUE
-
-	def SAFE_SetExitEvent(self, event):
-		self.exitEvent = event	
+		return TRUE	
 ##
 ## Main Stream
 ##

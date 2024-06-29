@@ -63,8 +63,15 @@ CHAT_WHISPER	Szeptanie
 YANG_SYSTEM_SELL_PRICE	[Cena sprzeda¿y]
 CREATE_ERROR_GM_NAME	Nie jesteœ upowa¿niony do u¿ycia ,GM‘ w swojej nazwie postaci.
 CREATE_ERROR_INSULT_NAME	Ta nazwa jest niepoprawna.
-CREATE_EXIST_SAME_NAME	Inna postaæ ju¿ ma t¹ nazwê.
+CREATE_ERROR_LIMIT_LEVEL	Twoja postaæ musi znajdowaæ siê przynajmniej na poziomie 80.
+CREATE_ERROR_TIME_LIMIT	Mo¿esz tworzyæ now¹ postaæ tylko co 30 sek.
+CREATE_ERROR_WRONG_STRING	Ta nazwa postaci jest niedozwolona.
+CREATE_ERROR_LIMIT_CHARACTER	Ta nazwa postaci jest za d³uga, maksymalnie 15 znaków.
+CREATE_EXIST_SAME_NAME	Nazwa jest ju¿ w u¿yciu.
 CREATE_FAILURE	Nie mo¿esz stworzyæ postaci
+CREATE_FULL	Nie mo¿esz utworzyæ wiêcej postaci.
+CREATE_CHARACTER_DISABLED	Tworzenie nowych postaci zosta³o tymczasowo wy³¹czone.
+CREATE_LOGIN_TO_NAME	Nazwa postaci nie mo¿e byæ identyczna z loginem. Wybierz inn¹ nazwê dla swojej postaci.
 CREATE_GM_NAME	GM
 CREATE_INPUT_NAME	Wybierz nazwê.
 CREATE_PLUS_STAT	Nadal pozosta³y punkty statusu.

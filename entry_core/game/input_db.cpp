@@ -1956,7 +1956,7 @@ int CInputDB::Analyze(LPDESC d, BYTE bHeader, const char * c_pData)
 		break;
 
 	case HEADER_DG_PLAYER_CREATE_FAILED:
-		PlayerCreateFailure(DESC_MANAGER::instance().FindByHandle(m_dwHandle), 0);
+		PlayerCreateFailure(DESC_MANAGER::instance().FindByHandle(m_dwHandle), static_cast<BYTE>(c_pData[0]));
 		break;
 
 	case HEADER_DG_PLAYER_CREATE_ALREADY:

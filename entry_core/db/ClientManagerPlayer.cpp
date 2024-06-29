@@ -767,7 +767,10 @@ void CClientManager::__QUERY_PLAYER_CREATE(CPeer *peer, DWORD dwHandle, TPlayerC
 
 		if (curtime - it->second < 30)
 		{
-			peer->EncodeHeader(HEADER_DG_PLAYER_CREATE_FAILED, dwHandle, 0);
+			sys_log(0, "Player creation blocked: too soon after last creation attempt for account_id %d.", packet->account_id);
+			peer->EncodeHeader(HEADER_DG_PLAYER_CREATE_FAILED, dwHandle, sizeof(BYTE));
+			BYTE bType = 3;
+			peer->Encode(&bType, sizeof(BYTE));
 			return;
 		}
 	}
