@@ -781,7 +781,7 @@ class QuestDialog(ui.ScriptWindow):
 			img = ToolTipImageBox()
 			img.SetParent(self.board)
 			img.LoadImage(filename)
-			pos_x = (self.board.GetWidth() * (index + 1) / (total + 1)) - (img.GetWidth() / 2)
+			pos_x = (self.board.GetWidth() / 2) - (img.GetWidth() / 2)
 			img.SetPosition(pos_x, y)
 			img.DestroyToolTip()
 			
