@@ -22,10 +22,11 @@ class CSafebox
 		void		Save();
 
 		bool		IsEmpty(DWORD dwPos, BYTE bSize);
-		int32_t 	GetEmptySafebox(uint8_t size);
+		int32_t 	GetEmptySafebox(uint8_t height);
 		bool		IsValidPosition(DWORD dwPos);
 
 		void		SetWindowMode(BYTE bWindowMode);
+		uint32_t GetGridTotalSize()const;
 
 	protected:
 		void		__Destroy();
@@ -36,9 +37,10 @@ class CSafebox
 		long		m_lGold;
 
 		BYTE		m_bWindowMode;
-		
+
 	private:
-	    std::unique_ptr<CGrid> m_pkGrid;
+		std::vector<std::shared_ptr<CGrid>> v_Grid;
+		int32_t FindEmptySlot(uint8_twidth,uint8_theight);
 };
 
 #endif

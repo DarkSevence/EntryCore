@@ -8,19 +8,35 @@
 #include "item.h"
 #include "item_manager.h"
 
+namespace
+{
+	constexpr int ITEMS_PER_PAGE = 45;
+	constexpr int PAGE_WIDTH = 5;
+	constexpr int PAGE_HEIGHT = 9;
+
+	constexpr uint8_t SafeboxPositionToPage(uint32_t position)
+	{
+		return static_cast<uint8_t>(position / ITEMS_PER_PAGE);
+	}
+
+	constexpr uint8_t SafeboxPositionToLocal(uint32_t position, uint8_t page)
+	{
+		return static_cast<uint8_t>(position - (ITEMS_PER_PAGE * page));
+	}
+}
+
 CSafebox::CSafebox(LPCHARACTER pkChrOwner, int iSize, DWORD dwGold) : m_pkChrOwner(pkChrOwner), m_iSize(iSize), m_lGold(dwGold)
 {
-	assert(m_pkChrOwner != NULL);
+	assert(m_pkChrOwner != nullptr);
 	memset(m_pkItems, 0, sizeof(m_pkItems));
 
-    if (m_iSize) 
+	size_t numGrids = m_iSize / PAGE_HEIGHT;
+	v_Grid.reserve(numGrids);
+
+	std::generate_n(std::back_inserter(v_Grid), numGrids, []() 
 	{
-        m_pkGrid = std::make_unique<CGrid>(5, m_iSize);
-    } 
-	else 
-	{
-        m_pkGrid.reset();
-    }
+		return std::make_shared<CGrid>(PAGE_WIDTH, PAGE_HEIGHT);
+	});
 
 	m_bWindowMode = SAFEBOX;
 }
@@ -48,22 +64,33 @@ void CSafebox::__Destroy()
 			m_pkItems[i] = NULL;
 		}
 	}
+	
+	v_Grid.clear();
 }
 
 bool CSafebox::Add(DWORD dwPos, LPITEM pkItem)
 {
 	if (!IsValidPosition(dwPos))
 	{
-		sys_err("SAFEBOX: item on wrong position at %d (size of grid = %d)", dwPos, m_pkGrid->GetSize());
+		sys_err("SAFEBOX: item on wrong position at %d (size of grid = %d)", dwPos, GetGridTotalSize());
 		return false;
 	}
 
 	pkItem->SetWindow(m_bWindowMode);
 	pkItem->SetCell(m_pkChrOwner, dwPos);
-	pkItem->Save(); // 강제로 Save를 불러줘야 한다.
+	pkItem->Save();
 	ITEM_MANAGER::instance().FlushDelayedSave(pkItem);
 
-	m_pkGrid->Put(dwPos, 1, pkItem->GetSize());
+	const uint8_t pageIndex = SafeboxPositionToPage(dwPos);
+	const uint8_t localPos = SafeboxPositionToLocal(dwPos, pageIndex);
+
+	if (pageIndex >= v_Grid.size())
+	{
+		return false;
+	}
+
+	v_Grid[pageIndex]->Put(localPos, 1, pkItem->GetSize());
+
 	m_pkItems[dwPos] = pkItem;
 
 	TPacketGCItemSet pack;
@@ -84,8 +111,10 @@ bool CSafebox::Add(DWORD dwPos, LPITEM pkItem)
 
 LPITEM CSafebox::Get(DWORD dwPos)
 {
-	if (dwPos >= m_pkGrid->GetSize())
-		return NULL;
+    if (dwPos >= GetGridTotalSize())
+	{
+        return nullptr;
+	}
 
 	return m_pkItems[dwPos];
 }
@@ -97,14 +126,17 @@ LPITEM CSafebox::Remove(DWORD dwPos)
 	if (!pkItem)
 		return NULL;
 
-	if (!m_pkGrid)
-		sys_err("Safebox::Remove : nil grid");
-	else
-		m_pkGrid->Get(dwPos, 1, pkItem->GetSize());
+	const uint8_t pageIndex = SafeboxPositionToPage(dwPos);
+	const uint8_t localPos = SafeboxPositionToLocal(dwPos, pageIndex);
+
+	if (!v_Grid.empty() && pageIndex < v_Grid.size())
+	{
+		v_Grid[pageIndex]->Get(localPos, 1, pkItem->GetSize());
+	}
 
 	pkItem->RemoveFromCharacter();
 
-	m_pkItems[dwPos] = NULL;
+	m_pkItems[dwPos] = nullptr;
 
 	TPacketGCItemDel pack;
 
@@ -131,36 +163,40 @@ void CSafebox::Save()
 
 bool CSafebox::IsEmpty(DWORD dwPos, BYTE bSize)
 {
-	if (!m_pkGrid)
-		return false;
+	const uint8_t pageIndex = SafeboxPositionToPage(dwPos);
+	const uint8_t localPos = SafeboxPositionToLocal(dwPos, pageIndex);
 
-	return m_pkGrid->IsEmpty(dwPos, bSize);
+	if (pageIndex >= v_Grid.size())
+	{
+		return false;
+	}
+
+	return v_Grid[pageIndex]->IsEmpty(localPos, 1, bSize);
+}
+
+int32_t CSafebox::FindEmptySlot(uint8_t width, uint8_t height)
+{
+	for (size_t pageIndex = 0; pageIndex < v_Grid.size(); ++pageIndex)
+	{
+		int localPos = v_Grid[pageIndex]->FindBlank(width, height);
+
+		if (localPos != -1)
+		{
+			return pageIndex * 45 + localPos;
+		}
+	}
+
+	return -1;
 }
 
 int32_t CSafebox::GetEmptySafebox(uint8_t height)
 {
-    if (m_pkGrid == nullptr)
-    {
-        return -1;
-    }
-
-    // Zakładamy, ?e szeroko?? przedmiotu to zawsze 1
-    int emptyPos = m_pkGrid->FindBlank(1, height);
-    return (emptyPos != -1) ? static_cast<int32_t>(emptyPos) : -1;
+	return FindEmptySlot(1, height);
 }
 
 void CSafebox::ChangeSize(int iSize)
 {
-	if (m_iSize >= iSize)
-	{
-		return;
-	}
-
-    m_iSize = iSize;
-
-    std::unique_ptr<CGrid> pkOldGrid = std::move(m_pkGrid);
-
-    m_pkGrid = std::make_unique<CGrid>(5, m_iSize);
+	return;
 }
 
 LPITEM CSafebox::GetItem(BYTE bCell)
@@ -226,17 +262,27 @@ bool CSafebox::MoveItem(BYTE bCell, BYTE bDestCell, BYTE count)
 		if (!IsEmpty(bDestCell, item->GetSize()))
 			return false;
 
-		m_pkGrid->Get(bCell, 1, item->GetSize());
+		const uint8_t pageIndex1 = SafeboxPositionToPage(bCell);
+		const uint8_t localPos1 = SafeboxPositionToLocal(bCell, pageIndex1);
+		const uint8_t pageIndex2 = SafeboxPositionToPage(bDestCell);
+		const uint8_t localPos2 = SafeboxPositionToLocal(bDestCell, pageIndex2);
 
-		if (!m_pkGrid->Put(bDestCell, 1, item->GetSize()))
+		if (pageIndex1 >= v_Grid.size() || pageIndex2 >= v_Grid.size())
 		{
-			m_pkGrid->Put(bCell, 1, item->GetSize());
+			return false;
+		}
+
+		v_Grid[pageIndex1]->Get(localPos1, 1, item->GetSize());
+
+		if (!v_Grid[pageIndex2]->Put(localPos2, 1, item->GetSize()))
+		{
+			v_Grid[pageIndex1]->Put(localPos1, 1, item->GetSize());
 			return false;
 		}
 		else
 		{
-			m_pkGrid->Get(bDestCell, 1, item->GetSize());
-			m_pkGrid->Put(bCell, 1, item->GetSize());
+			v_Grid[pageIndex2]->Get(localPos2, 1, item->GetSize());
+			v_Grid[pageIndex1]->Put(localPos1, 1, item->GetSize());
 		}
 
 		sys_log(1, "SAFEBOX: MOVE %s %d -> %d %s count %d", m_pkChrOwner->GetName(), bCell, bDestCell, item->GetName(), item->GetCount());
@@ -248,14 +294,22 @@ bool CSafebox::MoveItem(BYTE bCell, BYTE bDestCell, BYTE count)
 	return true;
 }
 
+uint32_t CSafebox::GetGridTotalSize() const
+{
+	return v_Grid.size() * ITEMS_PER_PAGE;
+}
+
 bool CSafebox::IsValidPosition(DWORD dwPos)
 {
-	if (!m_pkGrid)
+	if (v_Grid.empty())
+	{
 		return false;
+	}
 
-	if (dwPos >= m_pkGrid->GetSize())
+	if (dwPos >= GetGridTotalSize())
+	{
 		return false;
+	}
 
 	return true;
 }
-
