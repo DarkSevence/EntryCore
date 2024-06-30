@@ -134,26 +134,19 @@ bool CSafebox::IsEmpty(DWORD dwPos, BYTE bSize)
 	if (!m_pkGrid)
 		return false;
 
-	return m_pkGrid->IsEmpty(dwPos, 1, bSize);
+	return m_pkGrid->IsEmpty(dwPos, bSize);
 }
 
-int32_t CSafebox::GetEmptySafebox(uint8_t size)
+int32_t CSafebox::GetEmptySafebox(uint8_t height)
 {
-	if (m_pkGrid == nullptr) 
-	{
-		return -1;
-	}
+    if (m_pkGrid == nullptr)
+    {
+        return -1;
+    }
 
-	const auto gridSize = m_pkGrid->GetSize();
-	for (uint32_t i = 0; i < gridSize; ++i)
-	{
-		if (IsEmpty(i, size))
-		{
-			return static_cast<int32_t>(i);
-		}
-	}
-
-	return -1;
+    // Zak©©adamy, ?e szeroko?? przedmiotu to zawsze 1
+    int emptyPos = m_pkGrid->FindBlank(1, height);
+    return (emptyPos != -1) ? static_cast<int32_t>(emptyPos) : -1;
 }
 
 void CSafebox::ChangeSize(int iSize)

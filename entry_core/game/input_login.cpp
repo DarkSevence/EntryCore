@@ -30,6 +30,7 @@
 #include "MarkManager.h"
 #include "PetSystem.h"
 #include "item_manager.h"
+#include "locale_service.h"
 
 static void _send_bonus_info(LPCHARACTER ch)
 {
